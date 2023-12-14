@@ -1,0 +1,116 @@
+/*declare custom fonts*/
+@font-face {
+    font-family: Beaufort;
+    src: url(../../assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Regular.ttf)
+}
+@font-face {
+    font-family: BeaufortBold;
+    src: url(../../assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Bold.ttf)
+}
+@font-face {
+    font-family: Spiegel;
+    src: url(../../assets/Fonts/Spiegel-TTF/Spiegel_TT_Regular.ttf)
+}
+
+html {
+    scroll-behavior: smooth;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+h1 {
+    font-family: BeaufortBold;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 5rem;
+    text-transform: uppercase;
+    width: fit-content;
+    margin: 5% auto 1%;
+}
+.catctn {
+    position: sticky;
+        top: 0;
+        z-index: 2;
+    padding: 1%;
+    background-color: white;
+}
+.category {
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: space-between;
+    width: 100%;
+    height: fit-content;
+    padding: 1% 0;
+}
+.role {
+    flex: 20%;
+    width: fit-content;
+    margin: 0 3%;
+}
+h2 {
+    font-family: BeaufortBold;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 2rem;
+    text-transform: uppercase;
+    width: fit-content;
+    height: fit-content;
+}
+
+.catctn hr { 
+    margin: 1% 2.5% .25%;
+}
+.ctn {
+    margin: 2%;
+    width: 100% 100%;
+    display: flex;
+    scroll-behavior: smooth;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 3rem;
+        margin: auto;
+        margin-bottom: 5%;
+    }
+    h2 {
+        display: none;
+    }
+    .catctn {
+        position: relative;
+    }
+    .category {
+        flex-direction: column;
+    }
+    .btns {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .btns button {
+        flex: 24%;
+        max-width: 45%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}

@@ -1,0 +1,481 @@
+    /*declare custom fonts*/
+    @font-face {
+        font-family: Beaufort;
+        src: url(../../assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Regular.ttf)
+    }
+    @font-face {
+        font-family: BeaufortBold;
+        src: url(../../assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Bold.ttf)
+    }
+    @font-face {
+        font-family: Spiegel;
+        src: url(../../assets/Fonts/Spiegel-TTF/Spiegel_TT_Regular.ttf)
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+    body {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        background-color: #010A13;
+    }
+    .splash {
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        padding: 0 5%;
+        position: relative;
+            top: -100px;
+    }
+
+    .mainsplash {
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        margin: 0 auto;
+        padding-top: 717px;
+
+    }
+
+    .mainsplash h1, .mainsplash h3 {
+        font-family: BeaufortBold;
+        font-style: italic;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    .champname h1 {
+        color: #C89B3C;
+        font-size: 700%;
+        margin: 0;
+    }
+    .champname h3 {
+        font-size: 200%;
+        margin: 0;
+        color: #A09B8C;
+    }
+
+    .lore {
+        margin: 5% 10%;
+    }
+
+    .lore p {
+        text-align: center;
+        font-family: Spiegel;
+        font-size: 150%;
+        color: #A09B8C;
+    }
+
+    /*divider*/
+    .divider {
+        width: 90%;
+        margin: 5% auto;
+    }
+    .divider img {
+        width: 100%;
+    }
+    /*catbar*/
+    .catbar {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        background-color: #282828;
+        border-radius: 10px;
+        width: 75%;
+        margin: auto;
+        padding: 10px;
+    }
+    .catbar a {
+        width: 100%;
+        height: fit-content;
+        border-radius: 10px;
+        padding: 0 20px;
+        text-decoration: none;
+    }
+    .catbar a p {
+        font-family: Spiegel;
+        font-weight: bold;
+        font-size: 150%;
+        color: #A09B8C;
+        text-transform: capitalize;
+        text-align: center;
+    }
+    .catbar a:hover {
+        background-color: #A09B8C25;
+    }
+
+    /*champ info*/
+    h2 {
+        font-family: BeaufortBold;
+        font-weight: bold;
+        font-style: italic;
+        font-size: 300%;
+        text-transform: uppercase;
+        text-align: center;
+        color: #C89B3C;
+        scroll-margin: 50px;
+    }
+    .champinfo {
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+
+        display: flex;
+        flex-direction: row;
+        margin: 5%;
+    }
+    .stattable {
+        display: flex;
+        flex-direction: column;
+        border: 2px solid #C89B3C;
+        width: 50%;
+    }
+    .stattable h3 {
+        font-family: Beaufort;
+        font-weight: bolder;
+        font-style: italic;
+        font-size: 175%;
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 2px;
+        color: #C89B3C;
+        margin: 0;
+        padding: 2% 0;
+        border-bottom: 2px solid #C89B3C;
+    }
+    .tablectn {
+        display: flex;
+        flex-direction: row;
+        height: 100%;
+    }
+    .tablectn hr {
+        width: 2px;
+        height: 100%;
+        border: none;
+        background-color: #C89B3C;
+        margin: 0;
+    }
+    .stattable_1, .stattable_2 {
+        flex: 50%;
+        display: flex;
+        flex-direction: column;
+        padding: 5%;
+    }
+    .stat {
+        flex: 47%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .statheader {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 2.5%;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .statheader img {
+        width: 1.5em;
+        height: 1.5em;
+    }
+
+    .stat h4, .stat p {
+        font-family: Spiegel;
+        font-size: 150%;
+        text-transform: capitalize;
+        width: fit-content;
+        margin: 0;
+    }
+    .stat h4 {
+        color: #C89B3C;
+        font-style: italic;
+    }
+
+    .stat p {
+        color: #A09B8C;
+    }
+
+    .role {
+        display: flex;
+        flex-direction: column;
+        width: 50%; 
+    }
+    .role img {
+        margin: 10% auto auto;
+    }
+    .role h3, .role p {
+        text-align: center;
+    }
+    .role h3 {
+        font-family: Beaufort;
+        font-weight: bolder;
+        font-size: 175%;
+        font-style: italic;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        color: #C89B3C;
+        margin: 10% 10% 0;
+    }
+    .role p {
+        font-family: Spiegel;
+        font-size: 150%;
+        color: #A09B8C;
+        margin: 5% 10%;
+    }
+
+
+    /*skill*/
+    .skill {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    .skillctn {
+        display: flex;
+        flex-direction: column;
+        margin: 0 5% 5%;
+    }
+    .skillbar {
+        display: flex;
+        flex-direction: row;
+        gap: 5%;
+        justify-content: space-around;
+        align-items: center;
+        align-self: center;
+        width: 90%;
+        margin: auto auto 7.5%;
+        height: 7em;
+    }
+    .skillbar button {
+        width: 7em;
+        height: 7em;
+        background-color: transparent;
+        border: none;
+
+        background-size: 5em;
+        background-position: center;
+        background-repeat: no-repeat;
+        transition: all .15s ease-in-out;
+    }
+    .skillbar button:hover, .skillbar .button-clicked {
+        background-size: 6em;
+    }
+    .skillbar .button-clicked {
+        width: 8em;
+        height: 8em;
+        border: 2px solid #C89B3C;
+    }
+    .skill {
+        display: flex;
+        flex-direction: row;
+        gap: 5%;
+        margin: 5% auto;
+        transition: all .15s ease-in-out;
+    }
+    .skillinfo {
+        flex: 50%;
+        flex-direction: column;
+        min-width: 50%;
+        border: 1px solid #C89B3C;
+    }
+    .skillheader {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .skillheader h3, .skillheader h4 {
+        font-family: Beaufort;
+        font-weight: bolder;
+        font-style: italic;
+        font-size: 175%;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .skillheader h3 {
+        color: #C89B3C;
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+    .skillheader h4 {
+        color: #5B5A56;
+        margin-left: 5%;
+    }
+
+    .skilldescription {
+        min-height: 200px;
+        font-family: Spiegel;
+        font-size: 150%;
+        color: #A09B8C;
+        margin: 10% 5% auto;
+    }
+
+    .preview {
+        position: relative;
+        flex: 50%;
+        flex-direction: column;
+        max-width: 50%;
+        
+    }
+
+    .preview video {
+        position: relative;
+        width: 100% 100%;
+        max-width: 100%;
+    }
+    .preview img {
+        position: absolute;
+        top: 5%;
+        left: -2.5%;
+        width: 100% 100%;
+        max-width: 100%;
+        z-index: 2;
+    }
+
+    /* Extra small devices (phones, 600px and down) */
+    @media only screen and (max-width: 600px) {
+        .mainsplash {
+            background-image: linear-gradient(to bottom, transparent, #010A13 50%);
+            margin-top: 25%;
+            padding-top: 0;
+            background-size: contain;
+            background-position: top;
+        }
+        .champname { 
+            padding-top: 220px;
+        }
+        .champname h1 {
+            font-size: 4rem;
+        }
+        .champname h3 {
+            font-size: 2rem;
+        }
+        h2 {
+            font-size: 2rem;
+        }
+        .skill {
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+            font-size: .75rem;
+        }
+        .skillinfo {
+            margin: 0;
+            padding: 0;
+        }
+        .skillbar button {
+            width: 3em;
+            height: 3em;
+        }
+        .skillbar button:hover, .skillbar .button-clicked {
+            background-size: 3em;
+        }
+        .skillbar .button-clicked {
+            width: 4em;
+            height: 4em;
+            border: 2px solid #C89B3C;
+        }
+        .preview {
+            margin-top: 5%;
+            max-width: 90%;
+        }
+
+        .champinfo {
+            flex-direction: column;
+            font-size: .75rem;
+        }
+        .stattable {
+            width: 100%;
+        }
+        .stattable hr {
+             min-height: 300px;
+        }
+        .role {
+            width: 100%;
+        }
+        .catbtn, .lore {
+            font-size: .75rem;
+        }
+    }
+
+    /* Small devices (portrait tablets and large phones, 600px and up) */
+    @media only screen and (min-width: 600px) {
+        .mainsplash {
+            background-image: linear-gradient(to bottom, transparent, #010A13 50%);
+            margin-top: 10%;
+            padding-top: 0;
+            background-size: contain;
+            background-position: top;
+        }
+        .champname { 
+            padding-top: 400px;
+        }
+        
+    }
+
+    /* Medium devices (landscape tablets, 768px and up) */
+    @media only screen and (min-width: 768px) and (max-width: 922px) {
+        .skill {
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+            font-size: .75rem;
+        }
+        .champinfo {
+            flex-direction: column;
+            font-size: 1rem;
+        }
+        .stattable {
+            width: 100%;
+        }
+        .stattable hr {
+             min-height: 300px;
+        }
+        .role {
+            width: 100%;
+        }
+        .skill {
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+            font-size: 1rem;
+        }
+        .skillinfo {
+            margin: 0;
+            padding: 0;
+        }
+        .skillbar button {
+            width: 6em;
+            height: 6em;
+        }
+        .skillbar button:hover, .skillbar .button-clicked {
+            background-size: 5em;
+        }
+        .skillbar .button-clicked {
+            width: 6em;
+            height: 6em;
+            border: 2px solid #C89B3C;
+        }
+        .preview {
+            margin-top: 5%;
+            max-width: 90%;
+        }
+    }
+
+    /* Large devices (laptops/desktops, 992px and up) */
+    @media only screen and (min-width: 1024px) {
+        .champname { 
+            padding-top: 550px;
+        }
+    }
+
+    /* Extra large devices (large laptops and desktops, 1200px and up) */
+    @media only screen and (min-width: 1440px) {
+        .champname { 
+            padding-top: 775px;
+        }
+    }

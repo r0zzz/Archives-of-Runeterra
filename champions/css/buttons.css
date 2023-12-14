@@ -1,0 +1,65 @@
+.btns {
+    flex: 60%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+.btns button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6em 0 1em;
+    background-repeat: no-repeat;
+    background-size: 3em;
+    background-position: center;
+    width: 5em;
+    min-height: 7em;
+    border: none;
+    background-color: transparent;
+    transition: all .15s;
+    border-bottom: 2px solid transparent;
+
+    font-family: Spiegel;
+    text-transform: uppercase;
+}
+#allbtn {
+    padding: 0;
+}
+
+.btns button:hover, .btns .button-clicked{
+    background-size: 3.5em;
+    border-bottom: 2px solid black;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .btns button {
+        width: 3em;
+        height: 3em;
+        background-size: 2em;
+    }
+    .btns button:hover, .btns .button-clicked{
+        background-size: 2.5em;
+        border-bottom: 2px solid black;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
