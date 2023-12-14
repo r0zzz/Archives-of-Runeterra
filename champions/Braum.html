@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../css/header.css">
+        <link rel="stylesheet" href="../css/footer.css">
+        <link rel="stylesheet" href="css/profile.css">
+        <link rel="stylesheet" href="../css/gotop.css">
+        <link rel="shortcut icon" href="assets/ui/logo.white.png" type="image/x-icon"> <!--favicon-->
+        
+
+        <title></title> <!--change to whatever the champion is-->
+    </head>
+
+    <body>
+        <!--HEADER-->
+        <header>
+            <div class="btnctn">
+
+                <div class="logoctn">
+                    <a href="../main.html">
+                        <img src="assets/ui/logo.white.png" alt="">
+                    </a>
+                </div>
+
+                <div class="navbtns">
+                    <a href="../champions/0catalogue.html">
+                        <div class="btn">
+                            <div class="btnname"><p>Champions</p></div>
+                            <hr>
+                        </div>
+                    </a>
+                    <a href="../gameplay/gameplay.html">
+                        <div class="btn">
+                            <div class="btnname"><p>Gameplay</p></div>
+                            <hr>
+                        </div>
+                    </a>
+                    <a href="../items/0catalougue.html">
+                        <div class="btn">
+                            <div class="btnname"><p>Items</p></div>
+                            <hr>
+                        </div>
+                    </a>
+                    <a href="../runes/runes.html">
+                        <div class="btn">
+                            <div class="btnname"><p>Runes</p></div>
+                            <hr>
+                        </div>
+                    </a>
+                </div>
+            
+                <div class="mobilemenu">
+                    <button id="menu">&#9776;</button>
+                </div>
+            </div>
+        </header>
+        <!--part of header, for mobile ui-->
+        <div class="navmenu" id="navmenu">
+            <a href="../champions/0catalogue.html">
+                <div class="btn">
+                    <div class="btnname"><p>Champions</p></div>
+                </div>
+            </a>
+            <a href="../gameplay/gameplay.html">
+                <div class="btn">
+                    <div class="btnname"><p>Gameplay</p></div>
+                </div>
+            </a>
+            <a href="../items/0catalougue.html">
+                <div class="btn">
+                    <div class="btnname"><p>Items</p></div>
+                </div>
+            </a>
+            <a href="../runes/runes.html">
+                <div class="btn">
+                    <div class="btnname"><p>Runes</p></div>
+                </div>
+            </a>
+        </div>
+
+        <!--scroll to top-->
+        <a href="#" id="gotopctn">
+            <div id="gotop"><img src="../assets/gotop.png" alt=""></div>
+        </a>
+        
+        <!--splash-->
+        <div class="splash">  <!--change url to asset1 - 165 from ahri-->
+            <div class="mainsplash"> <!--change to who the champ is-->
+                <div class="champname">
+                    <h1 id="name">name</h1>
+                    <h3 id="title">title</h3>
+                </div>
+                
+                <div class="lore">
+                    <p id="lore">lore</p>
+                </div>
+            </div>
+        </div>
+
+        <!--catbar-->
+        <div class="catbar">
+            <a href="#info">
+                <div class="catbtn">
+                    <p>champion info</p>
+                </div>
+            </a>
+            <a href="#skill">
+                <div class="catbtn">
+                    <p>skills</p>
+                </div>
+            </a>
+        </div>
+
+        <div class="divider">
+            <img src="assets/ui/divider.png" alt="">
+        </div>
+        <!--stats-->
+        <h2 id="info">champion info</h2>
+        <div id="champinfo" class="champinfo" style="background-image: url();">  <!--change depending on role; inclomplete name is the one to use (as.png, ft.png, mg.png, mm.png, sp.png, tk.png)-->
+            <div class="stattable">
+                <h3>base statistics</h3>
+                <div class="tablectn">
+                    <div class="stattable_1">
+                        <div class="stat">
+                            <div class="statheader">
+                                <h4>health</h4>
+                                <img src="assets/stats/health.png" alt="">
+                            </div>
+                            <p id="health">0</p> <!--change stats based on lol wiki-->
+                        </div>
+                        <div class="stat">
+                            <div class="statheader">
+                                <h4>health regen</h4>
+                                <img src="assets/stats/health_regen.png" alt="">
+                            </div>
+                            <p id="healthregen">0</p>
+                        </div>
+                        <div class="stat">
+                            <div class="statheader">
+                                <h4>armor</h4>
+                                <img src="assets/stats/armor.png" alt="">
+                            </div>
+                            <p id="armor">0</p>
+                        </div>
+                        <div class="stat">
+                            <div class="statheader">
+                                <h4>magic resistance</h4>
+                                <img src="assets/stats/magic_resist.png" alt="">
+                            </div>
+                            <p id="magicresistance">0</p>
+                        </div>
+                        <div class="stat">
+                            <div class="statheader">
+                                <h4>movement speed</h4>
+                                <img src="assets/stats/move_speed.png" alt="">
+                            </div>
+                            <p id="movementspeed">0</p>
+                        </div>
+                    </div>
+
+                    <hr>
+
+                    <div class="stattable_2">
+                        <div class="stat">
+                            <div class="statheader">
+                                <h4 id="resourcename">rs</h4>
+                                <img src="assets/stats/mana.png" alt="">
+                            </div>
+                            <p id="resource">0</p>
+                        </div>
+                        <div class="stat">
+                            <div class="statheader">
+                                <h4 id="resourceregenname">rs regen</h4>
+                                <img src="assets/stats/mana_regen.png" alt="">
+                            </div>
+                            <p id="resourceregen">0</p>
+                        </div>
+                        <div class="stat">
+                            <div class="statheader">
+                                <h4>attack damage</h4>
+                                <img src="assets/stats/attack_damage.png" alt="">
+                            </div>
+                            <p id="attackdamage">0</p>
+                        </div>
+                        <div class="stat">
+                            <div class="statheader">
+                                <h4>attack speed</h4>
+                                <img src="assets/stats/attack_speed.png" alt="">
+                            </div>
+                            <p id="attackspeed">0</p>
+                        </div>
+                        <div class="stat">
+                            <div class="statheader">
+                                <h4>attack range</h4>
+                                <img src="assets/stats/range.png" alt="">
+                            </div>
+                            <p id="attackrange">0</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="role">
+                <img id="roleicon" src="" alt="">
+
+                <h3 id="role">role</h3> <!-- change based on lol wiki, same with its description-->
+                <p id="roledesc">role desc</p>
+            </div>
+        </div>
+
+        <div class="divider">
+            <img src="assets/ui/divider.png" alt="">
+        </div>
+
+
+         <!--skills-->
+        <h2 id="skill">skills</h2>
+
+        <div class="skillctn">
+            <div class="skill">
+                <div class="skillinfo">
+                    <div class="skillheader">
+                        <h3 id="sname">name</h3>
+                        <h4 id="stype">pqwer</h4>
+                    </div>
+                    <div class="skilldescription">
+                        <p id="sdesc">description</p>
+                    </div>
+
+                    <div class="skillbar">  <!--change skill icons-->
+                        <button type="button" data-icon="1"></button>
+                        <button type="button" data-icon="2"></button>
+                        <button type="button" data-icon="3"></button>
+                        <button type="button" data-icon="4"></button>
+                        <button type="button" data-icon="5"></button>
+                    </div>
+                </div>
+
+                <div class="preview"> <!--change preview-->
+                    <video src="assets/champ/Aatrox/skill/ability_0266_P1.webm" autoplay="autoplay" loop="loop" muted="muted"></video>
+                    <img src="assets/ui/frame.png" alt="">
+                </div>
+            </div>
+        </div>
+
+        <!--FOOTER-->
+        <footer>
+            <div class="logos">
+                <div><a href="https://leagueoflegends.com/" target="_blank"><img src="./../assets/icon.png" alt=""></a></div>
+                <div><img src="./../assets/teamlogo.png" alt=""></div>
+            </div>
+            <div class="rights">
+                <h3>archives of runeterra</h3>
+                <p>all rights reserved</p>
+            </div>
+            <div class="links">
+                <div><a href="../about.html">about</a></div>
+                <div><a href="../contact.html">contact us</a></div>
+            </div>
+        </footer>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="../js/header.js"></script>
+        <script src="js/skillfilter.js"></script>
+        <script src="js/braum.js"></script>
+    </body>
+</html>
