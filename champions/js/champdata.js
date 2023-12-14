@@ -176,7 +176,7 @@ function getQueryParam(name) {
 
 let datachamp = parseInt(getQueryParam('data-champ'));
 
-let file = "../json/"+ dataarray[datachamp] + ".json"; // call file based on the passed value
+let file = "js/json/"+ dataarray[datachamp] + ".json"; // call file based on the passed value
 
 fetch(file)
     .then(response => { // fetch from external json
