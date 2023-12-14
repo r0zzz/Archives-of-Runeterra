@@ -1,0 +1,178 @@
+/*declare custom fonts*/
+@font-face {
+    font-family: Beaufort;
+    src: url(../assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Regular.ttf)
+}
+@font-face {
+    font-family: BeaufortBold;
+    src: url(../assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Bold.ttf)
+}
+@font-face {
+    font-family: Spiegel;
+    src: url(../assets/Fonts/Spiegel-TTF/Spiegel_TT_Regular.ttf)
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+header {
+    background-image: url(../assets/banner.blurred.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.titlectn {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10%;
+    padding: 2em 0;
+    width: 100%;
+}
+.logo {
+    margin-left: 5em;
+}
+.title {
+    font-family: BeaufortBold;
+    font-weight: bolder;
+    font-size: 250%;
+    width: 100%;
+    height: fit-content;
+    background-color: #ffffff40;
+}
+.title h1 {
+    -webkit-text-stroke: black 1px;
+    color: white;
+    width: 100%;
+    height: max-content;
+}
+
+.ctn {
+    display: flex;
+    flex-direction: row;
+    margin: 5%;
+    justify-content: space-around;
+    align-items: center;
+}
+.pnctn {
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.patchnotes {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.pntext {
+    height: 100%;
+    font-family: Spiegel;
+    font-size: 125%;
+    transition: all .3s ease-in-out;
+}
+.pn img {
+    width: 100%;
+    transition: all .15s ease;
+}
+.cardctn {
+    flex: 50%;
+    width: 100%;
+}
+.pn:hover .patchnotes img {
+    transform: scale(0.985);
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    header {
+        background: none;
+        background-color: #282828;
+    }
+    .titlectn {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 2.5% 0;
+    }
+    .logo {
+        margin: 0;
+        padding: 0;
+    }
+    .logo img {
+        width: 100px;
+    }
+    .title {
+        background: none;
+        font-size: 1rem;
+        padding: 0;
+        margin: 0;
+    }
+    .title h1 {
+        margin: 0;
+        padding: 0;
+    }
+    .pntext {
+        font-size: 1rem;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    header {
+        background-color: #282828;
+        padding-left: 2%;
+    }
+    .logo {
+        margin: 0;
+        padding: 0;
+    }
+    .logo img {
+        width: 150px;
+    }
+    .title {
+        font-size: 1rem;
+        padding: 2.5% 0;
+    }
+    .title h1 {
+        font-size: 3rem;
+        margin-left: 5%;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 1024px) {
+    .logo img {
+        width: 200px;
+    }
+    .title h1 {
+        font-size: 4rem;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1440px) {
+    .logo img {
+        width: 250px;
+    }
+    .title h1 {
+        font-size: 5rem;
+    }
+}

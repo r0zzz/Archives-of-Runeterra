@@ -1,0 +1,2130 @@
+[
+    {
+        "icon": "assets/card/legendary/abyssalmask.png",
+        "name": "abyssal mask",
+        "desc": "UNIQUE – UNMAKE: Enemy champions within 550 units of you become cursed, reducing their magic resistance by 5 (+ 1.2% bonus health), capped at a reduction of 25. Gain 9 bonus magic resistance per cursed enemy.   ",
+        "cost": "2400",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 300,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 60,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/anathemaschains.png",
+        "name": "anathema's chains",
+        "desc": "UNIQUE – VOW: Curse the target enemy champion, designating them as your Nemesis and granting you 1 stack of Vendetta every 2 seconds over 60 seconds, stacking up to 30 times. These stacks are lost upon selecting a new Nemesis. Cannot be cast for 15 seconds while in combat with enemy champions (90 second cooldown; Global range). UNIQUE – VENDETTA: Take 1% reduced damage per stack of Vendetta from your Nemesis, up to 30% damage reduction against them. UNIQUE – VENGEANCE: At maximum stacks, your Nemesis has 20% reduced tenacity while they are within Range center 700 units of you.",
+        "cost": "2500",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 650,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/archangelsstaff.png",
+        "name": "archangel's staff",
+        "desc": "UNIQUE – AWE: Grants ability power equal to 1% bonus mana. UNIQUE – MANA CHARGE: Grants a charge every 8 seconds, up to 4 charges. Affecting an enemy or ally with an ability consumes a charge to grant 3 bonus mana, increased to 6 if they are a champion, up to a maximum of 360 bonus mana. Transforms into Seraph's Embrace at 360 bonus mana.",
+        "cost": "3000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 70,
+        "ability-haste": 10,
+        "mana": 500,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/ardentcenser.png",
+        "name": "ardent censer",
+        "desc": "UNIQUE – SANCTIFY: Healing or shielding allied champions (excluding yourself) enhances you and them for 6 seconds, granting 20% bonus attack speed and 15 bonus magic damage on-hit on basic attacks.",
+        "cost": "2100",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 35,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 75,
+        "heal-and-shield-power": 8,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 5
+    },
+    {
+        "icon": "assets/card/legendary/axiomarc.png",
+        "name": "axiom arc",
+        "desc": "UNIQUE – FLUX: Scoring a Damage rating takedown against an enemy champion within 3 seconds of damaging them refunds 10% (+ 0.4% per 1 Lethality) of your ultimate ability's total cooldown.",
+        "cost": "3000",
+
+        "attack-damage": 55,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 18,
+
+        "ability-power": 0,
+        "ability-haste": 25,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/bansheesveil.png",
+        "name": "banshee's veil",
+        "desc": "UNIQUE – ANNUL: Grants a spell shield that blocks the next hostile ability (40 (restarts upon taking damage from champions) second cooldown).",
+        "cost": "2600",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 80,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 45,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/blackcleaver.png",
+        "name": "black cleaver",
+        "desc": "UNIQUE – CARVE: Dealing physical damage to an enemy champion applies a stack of Carve for 6 seconds, stacking up to 6 times. Each stack inflicts 5% armor reduction, up to 30% at 6 stacks. UNIQUE – RAGE: Dealing physical damage to an enemy champion grants 3 bonus movement speed per stack of Carve on them for 2 seconds, up to 18.",
+        "cost": "3100",
+
+        "attack-damage": 50,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste":30,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 400,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/blackmistscythe.png",
+        "name": "black mist scythe",
+        "desc": "UNIQUE – WARDING: Consumes a charge to place a Stealth Ward at the target location, which grants sight of the surrounding area. Charges refill upon visiting the shop (4 charges; 600 range). UNIQUE: Receives diminishing gold from excessive minion kills.",
+        "cost": "400",
+
+        "attack-damage": 20,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 100,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 75,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/bladeoftheruinedking.png",
+        "name": "blade of the ruined king",
+        "desc": "UNIQUE – MIST'S EDGE: Basic attacks deal bonus physical damage on-hit equal to (Melee role 12% / Ranged role 9%) of the target's current health, with a minimum of 15 against all units and a maximum of 60 against minions and monsters. UNIQUE – SIPHON: Basic attacks on-hit against enemy champions apply a stack for 6 seconds, stacking up to 3 times. The third stack consumes them all to deal 40 − 103 (based on level) bonus magic damage on-hit and slow the target by 25% for 2 seconds, while also granting you 25% bonus movement speed for the same duration (30 second cooldown).",
+        "cost": "3300",
+
+        "attack-damage": 40,
+        "attack-speed": 25,
+        "critical-strike-chance": 0,
+        "life-steal": 8,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/bloodthirster.png",
+        "name": "bloodthirster",
+        "desc": "UNIQUE – ENGORGE: While above 70% maximum health, gain 10 − 40 (based on level) bonus attack damage.",
+        "cost": "3400",
+
+        "attack-damage": 55,
+        "attack-speed": 0,
+        "critical-strike-chance": 20,
+        "life-steal": 18,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/bulwarkofthemountain.png",
+        "name": "bulwark of the mountain",
+        "desc": "UNIQUE – WARDING: Consumes a charge to place a Stealth Ward at the target location, which grants sight of the surrounding area. Charges refill upon visiting the shop (4 charges; 600 range). UNIQUE: Receives diminishing gold from excessive minion kills.",
+        "cost": "400",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 20,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 250,
+        "health-regeneration": 100,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/chempunkchainsword.png",
+        "name": "chempunk chainsword",
+        "desc": "UNIQUE – HACKSHORN: Dealing physical damage to enemy champions inflicts them with Grievous Wounds for 3 seconds.",
+        "cost": "2800",
+
+        "attack-damage": 55,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 25,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 250,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/chemtechputrifier.png",
+        "name": "chemtech putrifier",
+        "desc": "UNIQUE – PUFFCAP TOXIN: Dealing damage to enemy champions inflicts them with Grievous Wounds for 3 seconds.",
+        "cost": "2100",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 35,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 75,
+        "heal-and-shield-power": 10,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/cosmicdrive.png",
+        "name": "cosmic drive",
+        "desc": "UNIQUE – SPELLDANCE: Damaging an enemy champion with a basic attack or ability damage grants 2.5% bonus movement speed every 1.5 seconds over the next 5 seconds, stacking up to 4 times for a total of 10% and refreshing the duration with each damage instance. At maximum stacks, gain an additional 10% bonus movement speed.",
+        "cost": "3000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 100,
+        "ability-haste": 30,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 5
+    },
+    {
+        "icon": "assets/card/legendary/deadmansplate.png",
+        "name": "dead man's plate",
+        "desc": "UNIQUE – SHIPWRECKER: While moving, generates 7 stacks of Momentum every 0.25 seconds, granting up to 40 bonus movement speed at 100 stacks after 3.75 seconds of moving. Momentum decays by 15 every 0.25 seconds while immobilized. Basic attacks consume all stacks to deal 0 − 40 (based on Momentum) (+ 0% − 100% (based on Momentum) base AD) bonus physical damage on-hit. At maximum stacks, the target is also slowed by 50% for 1 second.",
+        "cost": "2900",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 300,
+        "health-regeneration": 0,
+        "armor": 45,
+        "magic-resistance": 0,
+
+        "movement-speed": 5
+    },
+    {
+        "icon": "assets/card/legendary/deathsdance.png",
+        "name": "death's dance",
+        "desc": "UNIQUE – IGNORE PAIN: Reduces (Melee role 30% / Ranged role 10%) of all post-mitigation physical and magic damage received and instead stores the damage to successively take it as true damage over 3 seconds, dealing a third of the stored damage each second. UNIQUE – DEFY: If an enemy champion dies within 3 seconds of you damaging them, removes Ignore Pain's remaining stored damage and heals you for 50% bonus AD over 2 seconds.",
+        "cost": "3300",
+
+        "attack-damage": 55,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 45,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/demonicembrace.png",
+        "name": "demonic embrace",
+        "desc": "UNIQUE – DARK PACT: Gain ability power equal to 2% bonus health. UNIQUE – AZAKANA GAZE: Dealing ability damage curses enemies, causing them to take「 (Melee role 6.4% / Ranged role 4%) of their maximum health as total magic damage over 4 seconds, capped at 400 against monsters. 」",
+        "cost": "3000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 75,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 350,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/edgeofnight.png",
+        "name": "edge of night",
+        "desc": "UNIQUE – ANNUL: Grants a spell shield that blocks the next hostile ability (40 (restarts upon taking damage from champions) second cooldown).",
+        "cost": "2900",
+
+        "attack-damage": 50,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 10,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/essencereaver.png",
+        "name": "essence reaver",
+        "desc": "UNIQUE – SPELLBLADE: After using an ability, your next basic attack on-hit within 10 seconds deals 130% base AD (+ 20% bonus AD) bonus physical damage and restores mana equal to「 40% of that amount 」 (1.5 (begins after using the empowered attack) second cooldown).",
+        "cost": "2900",
+
+        "attack-damage": 55,
+        "attack-speed": 0,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/fimbulwinter.png",
+        "name": "fimbulwinter",
+        "desc": "UNIQUE – AWE: Grants bonus health equal to 8% maximum mana. UNIQUE – EVERLASTING: Immobilizing, or slowing if you are melee, an enemy champion grants a 100 − 180 (based on level) (+ 4.5% current mana) shield for 3 seconds (8 second cooldown). The shield's strength is increased「 by 80% 」if there is more than one enemy champion within Range center 1200 units.",
+        "cost": "2600",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 840,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 400,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/forceofnature.png",
+        "name": "force of nature",
+        "desc": "UNIQUE – ABSORB: Taking magic damage from champions grants a stack of Steadfast for 7 seconds, stacking up to 10 times with the duration refreshing on subsequent magic damage from them and whenever dealing damage to them. Becoming immobilized by an enemy champion grants 2 stacks and also refreshes the duration. Damaging basic attacks and spells per cast instance can only grant 1 stack of Steadfast every 1 second. UNIQUE – DISSIPATE: While at 10 stacks of Steadfast, gain 10% bonus movement speed and 30 bonus magic resistance.",
+        "cost": "2800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 400,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 60,
+
+        "movement-speed": 5
+    },
+    {
+        "icon": "assets/card/legendary/frozenheart.png",
+        "name": "frozen heart",
+        "desc": "UNIQUE – ROCK SOLID: Every first incoming instance of post-mitigation basic damage per cast instance is reduced by 5 (+ 3.5 per 1000 maximum health), maximum 20% reduction each. UNIQUE – WINTER'S CARESS: Cripples the attack speed of enemies within 700 units by 20%.",
+        "cost": "2700",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 400,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 90,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/gargoylestoneplate.png",
+        "name": "gargoyle stoneplate",
+        "desc": "UNIQUE – MONOLITH: Gain a shield for 100 (+ 90% bonus health), decaying over 2.5 seconds, and 25% increased size while active (90 second cooldown). UNIQUE – FORTIFY: Increase your bonus armor and bonus magic resistance by 5% for 6 seconds when a champion deals damage to you, stacking up to 5 times for a maximum of 25%. This stacks once per unique champion.",
+        "cost": "3200",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 60,
+        "magic-resistance": 60,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/guardianangel.png",
+        "name": "guardian angel",
+        "desc": "UNIQUE – REBIRTH: Upon taking lethal damage, enter resurrection for 4 seconds, during which you are invulnerable, untargetable, and unable to act, and afterwards heal for 50% of base health and restore 30% of maximum mana (300 (starts after resurrecting) second cooldown).",
+        "cost": "3000",
+
+        "attack-damage": 45,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 40,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/horizonfocus.png",
+        "name": "horizon focus",
+        "desc": "UNIQUE – HYPERSHOT: Dealing ability damage to a champion with an ability that is neither unit-targeted nor auto-targeted at more than Range center 700 units away or slowing, immobilizing or polymorphing them reveals them and increases your damage dealt to them by 10% for 6 seconds.",
+        "cost": "3000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 100,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 150,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/hullbreaker.png",
+        "name": "hullbreaker",
+        "desc": "UNIQUE – BOARDING PARTY: While no allied champions are within Range center 1400 units, gain (Melee role 10 − 60 / Ranged role 5 − 30) (based on level) bonus armor and bonus magic resistance and 20% bonus basic damage against structures. Allied siege minions and super minions within 1050 units gain (Melee role 30 − 180 / Ranged role 15 − 90) (based on level) bonus armor and bonus magic resistance, 10% bonus size and deal 200% bonus damage against structures. Bonus resistances are lost instantly when an allied champion is nearby.",
+        "cost": "3000",
+
+        "attack-damage": 60,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 400,
+        "health-regeneration": 150,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 5
+    },
+    {
+        "icon": "assets/card/legendary/immortalshieldbow.png",
+        "name": "immortal shieldbow",
+        "desc": "UNIQUE – LIFELINE: If you would take damage that would reduce you below 30% of your maximum health, you first gain a shield that absorbs 290 − 500 (based on level) damage for 3 seconds and 30% bonus attack speed for 8 seconds (90 second cooldown).",
+        "cost": "3000",
+
+        "attack-damage": 50,
+        "attack-speed": 0,
+        "critical-strike-chance": 20,
+        "life-steal": 10,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/imperialmandate.png",
+        "name": "imperial mandate",
+        "desc": "UNIQUE – COORDINATED FIRE: Abilities that slow or immobilize enemy champions deal 40 − 60 (based on level) bonus magic damage and mark them for 4 seconds. Allied champions that damage marked enemies consume the mark to deal 80 − 120 (based on ally's level) bonus magic damage and grant you and the triggering ally 25% bonus movement speed for 2 seconds (6 (per champion, starts upon mark application) second cooldown).",
+        "cost": "2300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 55,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 100,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/knightsvow.png",
+        "name": "knight's vow",
+        "desc": "UNIQUE – PLEDGE: Designate the target allied champion as being Worthy, forming a Focused Resolve tether between you and them. Champions can only be designated as Worthy by one Knight's Vow at a time. You cannot be designated as Worthy by an ally's Knight's Vow (60 second cooldown; Range center 1250 range). UNIQUE – SACRIFICE: While your Worthy ally is tethered to you and you are above 30% of your maximum health, redirect 10% of the pre-mitigation physical and magic damage they take to you as true damage and heal for 10% of the damage dealt by your Worthy ally to champions. If they are below 30% maximum health, the damage redirection is increased to 20%.",
+        "cost": "2200",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 350,
+        "health-regeneration": 125,
+        "armor": 25,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/krakenslayer.png",
+        "name": "kraken slayer",
+        "desc": "UNIQUE – BRING IT DOWN: Basic attacks (Melee role on-hit / Ranged role on-attack) grant a stack for 3 seconds, up to 2 stacks. At 2 stacks, the next basic attack consumes all stacks to deal 35 − 85 (based on level) (+ 65% AD) (+ 60% AP) bonus physical damage on-hit. Consuming stacks on the same target within 6 seconds increases the damage by 50%, up to 100%.",
+        "cost": "3000",
+
+        "attack-damage": 40,
+        "attack-speed": 30,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/lichbane.png",
+        "name": "lich bane",
+        "desc": "UNIQUE – SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals 75% base AD (+ 50% AP) bonus magic damage on-hit (1.5 (begins after using the empowered attack) second cooldown).",
+        "cost": "3000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 85,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 8
+    },
+    {
+        "icon": "assets/card/legendary/lorddominiksregards.png",
+        "name": "lord dominik's regards",
+        "desc": "UNIQUE – GIANT SLAYER: Deal 0% − 22% (based on maximum health difference) bonus damage against enemy champions with greater maximum health than you.",
+        "cost": "3000",
+
+        "attack-damage": 35,
+        "attack-speed": 0,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 30,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/manamune.png",
+        "name": "manamune",
+        "desc": "UNIQUE – AWE: Grants bonus attack damage equal to 2.5% maximum mana. UNIQUE – MANA CHARGE: Grants a charge every 8 seconds, up to 4 charges. Consumes a charge on-hit and whenever affecting an enemy or ally with an ability to grant 3 bonus mana, increased to 6 for champion targets, up to a maximum of 360 bonus mana. Transforms into Muramana at 360 bonus mana.",
+        "cost": "2900",
+
+        "attack-damage": 35,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 500,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/mawofmalmortius.png",
+        "name": "maw of malmortius",
+        "desc": "UNIQUE – LIFELINE: If you would take magic damage that would reduce you below 30% of your maximum health, you first gain a shield that absorbs (Melee role 200 / Ranged role 150) (+ (Melee role 225% / Ranged role 168.75%) bonus AD) magic damage for 2.5 seconds (90 second cooldown). UNIQUE: Triggering Lifeline also grants 12% life steal while in in-combat. This effect is lost after leaving combat.",
+        "cost": "2800",
+
+        "attack-damage": 65,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 50,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/mejaissoulstealer.png",
+        "name": "mejai's soulstealer",
+        "desc": "UNIQUE – GLORY: Gain 4 stacks for each champion kill and 2 stacks for each assist, up to a maximum of 25 stacks. Lose 10 stacks on death. Stacks are preserved from Dark Seal. UNIQUE – DREAD: Gain 5 ability power for each stack of Glory, up to 125 at maximum stacks, and 10% bonus movement speed if you have at least 10 stacks.",
+        "cost": "1600",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 20,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 100,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/mercurialscimitar.png",
+        "name": "mercurial scimitar",
+        "desc": "UNIQUE – QUICKSILVER: Removes all crowd control debuffs (except Airborne) from your champion and grants 50% bonus total movement speed and ghosting for 1.5 seconds (90 second cooldown).",
+        "cost": "3000",
+
+        "attack-damage": 40,
+        "attack-speed": 0,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 50,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/mikaelsblessing.png",
+        "name": "mikael's blessing",
+        "desc": "UNIQUE – PURIFY: Remove all crowd control debuffs (except Airborne, Ground, Nearsight, and Suppression) from yourself or the target allied champion and heal the target for 100 − 250 (based on target's level) (120 second cooldown; Range center 650 range). HARMONY: Gain 25% base health regeneration for every additional 25% base mana regeneration.",
+        "cost": "2300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 100,
+        "heal-and-shield-power": 15,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 250,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/morellonomicon.png",
+        "name": "morellonomicon",
+        "desc": "UNIQUE – AFFLICTION: Dealing magic damage to enemy champions inflicts them with Grievous Wounds for 3 seconds.",
+        "cost": "3000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 90,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 10,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/mortalreminder.png",
+        "name": "mortal reminder",
+        "desc": "UNIQUE – SEPSIS: Dealing physical damage to enemy champions inflicts them with Grievous Wounds for 3 seconds.",
+        "cost": "3000",
+
+        "attack-damage": 40,
+        "attack-speed": 0,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 30,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/muramana.png",
+        "name": "muramana",
+        "desc": "UNIQUE – AWE: Grants bonus attack damage equal to 2.5% maximum mana. UNIQUE – SHOCK: Basic attacks on-hit against champions deal 1.5% maximum mana bonus physical damage. Dealing ability damage to champions deals (Melee role 3.5% / Ranged role 2.7%) maximum mana (+ 6% AD) bonus physical damage. Can only be triggered on the same target once every 6.5 seconds from the same attack or cast.",
+        "cost": "2900",
+
+        "attack-damage": 35,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 860,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/nashorstooth.png",
+        "name": "nashor's tooth",
+        "desc": "UNIQUE – ICATHIAN BITE: Basic attacks deal 15 (+ 20% AP) bonus magic damage on-hit.",
+        "cost": "3200",
+
+        "attack-damage": 0,
+        "attack-speed": 50,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 100,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/pauldronsofwhiterock.png",
+        "name": "pauldrons of whiterock",
+        "desc": "UNIQUE – WARDING: Consumes a charge to place a Stealth Ward at the target location, which grants sight of the surrounding area. Charges refill upon visiting the shop (4 charges; 600 range). UNIQUE: Receives diminishing gold from excessive minion kills.",
+        "cost": "400",
+
+        "attack-damage": 15,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 250,
+        "health-regeneration": 100,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/phantomdancer.png",
+        "name": "phantom dancer",
+        "desc": "UNIQUE – SPECTRAL WALTZ: Basic attacks on-attack grant ghosting, 7% bonus movement speed, and a stack of Spectral Waltz for 3 seconds, up to 4 stacks. While at 4 stacks, gain 30% bonus attack speed.",
+        "cost": "2800",
+
+        "attack-damage": 20,
+        "attack-speed": 35,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 7 
+    },
+    {
+        "icon": "assets/card/legendary/prowlersclaw.png",
+        "name": "prowler's claw",
+        "desc": "UNIQUE – SANDSTRIKE: Using a dash, lunge or blink, or exiting from stealth, causes your next basic attack against a champion within 3 seconds to deal (Melee role 85 / Ranged role 65) (+ (Melee role 55% / Ranged role 35%) bonus AD) bonus physical damage on-hit and slow the target by 99% for 0.5 seconds (5 (begins after using the empowered attack) second cooldown).",
+        "cost": "3000",
+
+        "attack-damage": 55,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 18,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/rabadonsdeathcap.png",
+        "name": "rabadon's deathcap",
+        "desc": "UNIQUE – MAGICAL OPUS: Increase your ability power by 40%.",
+        "cost": "3600",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 120,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/randuinsomen.png",
+        "name": "randuin's omen",
+        "desc": "UNIQUE – HUMILITY: Unleash a shockwave around you that slows nearby enemies by 55% for 2 seconds (60 second cooldown; Range center 500 range). UNIQUE – ROCK SOLID: Every first incoming instance of post-mitigation basic damage per cast instance is reduced by 5 (+ 3.5 per 1000 maximum health), maximum 20% reduction each. UNIQUE – CRITICAL RESILIENCE: Reduces incoming damage from critical strikes by 25%.",
+        "cost": "2700",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 400,
+        "health-regeneration": 0,
+        "armor": 60,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/rapidfirecannon.png",
+        "name": "rapid firecannon",
+        "desc": "UNIQUE – ENERGIZED: Moving and basic attacking generates Energize stacks, up to 100. UNIQUE – SHARPSHOOTER: When fully Energized, your next basic attack deals 60 bonus magic damage on-hit. Energized attacks gain 35% bonus range, capped at 150.",
+        "cost": "3000",
+
+        "attack-damage": 30,
+        "attack-speed": 15,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 7
+    },
+    {
+        "icon": "assets/card/legendary/ravenoushydra.png",
+        "name": "ravenous hydra",
+        "desc": "UNIQUE – CLEAVE: Damaging basic attacks and ability damage from abilities deal (Melee role 40% AD / Ranged role 20% AD) physical damage to other enemies within 350 units of the target damaged. Can only hit each target once per attack or ability, and may only trigger once every 10 seconds from the same cast. UNIQUE – CARNIVOROUS: Gain 0.5 bonus attack damage whenever you kill a minion, doubled for kills against champions, large monsters, and large minions. This effect stacks up to 40 times, for a total of 20 bonus attack damage. Lose 60% of stacks upon death.",
+        "cost": "3400",
+
+        "attack-damage": 65,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 10,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 25,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/redemption.png",
+        "name": "redemption",
+        "desc": "UNIQUE – INTERVENTION: Call upon a beam of light to strike upon the target location after 2.5 seconds, granting sight of the area for the duration. Allies within the area are healed for 200 − 400 (based on target's level), while enemy champions within take 10% of target's maximum health as true damage. Can be used while dead. (90 second cooldown; 5500 range). HARMONY: Gain 25% base health regeneration for every additional 25% base mana regeneration.",
+        "cost": "2300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 100,
+        "heal-and-shield-power": 15,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 250,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/runaanshurricane.png",
+        "name": "runaan's hurricane",
+        "desc": "UNIQUE – PECK: Basic attacks deal 30 bonus magic damage on-hit. UNIQUE – WIND'S FURY: Basic attacks on-attack fire additional bolts at up to 2 enemies in front of you, each dealing 40% AD physical damage. Bolts apply on-hit effects at 100% effectiveness and are affected by critical strike modifiers.The bolts will target the closest enemies to you that are not the main target.",
+        "cost": "2800",
+
+        "attack-damage": 0,
+        "attack-speed": 40,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 7
+    },
+    {
+        "icon": "assets/card/legendary/rylaiscrystalscepter.png",
+        "name": "rylai's crystal scpeter",
+        "desc": "temUNIQUE – RIMEFROST: Dealing ability damage slows affected units by 30% for 1 second.p",
+        "cost": "2600",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 75,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 400,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/seraphsembrace.png",
+        "name": "seraph's embrace",
+        "desc": "UNIQUE – AWE: Grants ability power equal to 2.5% bonus mana. UNIQUE – LIFELINE: If you would take damage that would reduce you below 30% of your maximum health, you first gain a shield that absorbs 250 (+ 20% current mana) damage for 3 seconds (90 second cooldown).",
+        "cost": "3000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 70,
+        "ability-haste": 10,
+        "mana": 860,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/serpentsfang.png",
+        "name": "serpent's fang",
+        "desc": "UNIQUE – SHIELD REAVER: Dealing damage to an enemy champion inflicts them with venom for 3 seconds, reducing any shields they gain within the duration by (Melee role 50% / Ranged role 35%), and if the target was not already afflicted by the venom, reducing all of their active shields by the same amount.",
+        "cost": "2600",
+
+        "attack-damage": 55,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 15,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/seryldasgrudge.png",
+        "name": "serylda's grudge",
+        "desc": "UNIQUE – BITTER COLD: Dealing ability damage slows affected units by 30% for 1 second.",
+        "cost": "3200",
+
+        "attack-damage": 45,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 30,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/shadowflame.png",
+        "name": "shadowflame",
+        "desc": "UNIQUE – CINDERBLOOM: Dealing magic damage to champions ignores 10 − 20 (based on target's current health) of their magic resistance, increased to maximum value if they were affected by a shield within the last 5 seconds.",
+        "cost": "3000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 100,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/shardoftrueice.png",
+        "name": "shard of true ice",
+        "desc": "UNIQUE – WARDING: Consumes a charge to place a Stealth Ward at the target location, which grants sight of the surrounding area. Charges refill upon visiting the shop (4 charges; 600 range). UNIQUE: Receives diminishing gold from excessive minion kills.",
+        "cost": "400",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 40,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 100,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 75,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/silvermeredawn.png",
+        "name": "silvermere dawn",
+        "desc": "UNIQUE – QUICKSILVER: Removes all crowd control debuffs (except Airborne) from your champion and grants 50% tenacity, 50% slow resist, and ghosting for 3 seconds (90 second cooldown).",
+        "cost": "3000",
+
+        "attack-damage": 40,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 300,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 40,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/spearofshojin.png",
+        "name": "spear of shojin",
+        "desc": "UNIQUE – DRAGONFORCE: Gain (Melee role 16 (+ 4% bonus AD) / Ranged role 12 (+ 3% bonus AD)) basic ability haste, reduced「 by 50% 」for immobilizing spells. UNIQUE – EXIGENCY: Gain up to (Melee role 15% / Ranged role 10%) bonus movement speed based on missing health, capped at 67% missing health.",
+        "cost": "3300",
+
+        "attack-damage": 55,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 500,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/spiritvisage.png",
+        "name": "spirit visage",
+        "desc": "UNIQUE – BOUNDLESS VITALITY: Increases all healing and shielding received as well as health regeneration by 25%.",
+        "cost": "2900",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 450,
+        "health-regeneration": 100,
+        "armor": 0,
+        "magic-resistance": 60,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/staffofflowingwater.png",
+        "name": "staff of flowing water",
+        "desc": "UNIQUE – RAPIDS: Healing or shielding allied champions (excluding yourself) grants you and them 30 − 45 (based on target's level) ability power and 20 ability haste for 4 seconds.",
+        "cost": "2100",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 35,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 75,
+        "heal-and-shield-power": 8,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 5
+    },
+    {
+        "icon": "assets/card/legendary/statikkshiv.png",
+        "name": "statikk shiv",
+        "desc": "UNIQUE – ENERGIZED: Moving and basic attacking generates Energize stacks, up to 100. UNIQUE – ELECTROSHOCK: When fully Energized, your next basic attack deals 100 − 180 (based on level) (+ 15% AP) bonus magic damage, modified to 150 against minions. Energized attacks bounce their additional effect to the closest target within 500 units, repeating from the new target to strike up to 6 / 9 / 12 (based on level) targets.",
+        "cost": "3000",
+
+        "attack-damage": 50,
+        "attack-speed": 30,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/steraksgage.png",
+        "name": "sterak's gage",
+        "desc": "UNIQUE – THE CLAWS THAT CATCH: Gain bonus attack damage equal to 50% base AD. UNIQUE – LIFELINE: If you would take damage that would reduce you below 30% of your maximum health, you first gain a shield that absorbs damage equal to 80% of bonus health which decays over 4.5 seconds, as well as 25% increased size and 30% tenacity for 8 seconds (60 second cooldown).",
+        "cost": "3000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 450,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/stormrazor.png",
+        "name": "stormrazor",
+        "desc": "UNIQUE – ENERGIZED: Moving and basic attacking generates Energize stacks, up to 100. UNIQUE – BOLT: When fully Energized, your next basic attack deals 90 (+ 25% AD) bonus magic damage on-hit and grants you 45% bonus movement speed for 1 second.",
+        "cost": "3000",
+
+        "attack-damage": 55,
+        "attack-speed": 15,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/sunfireaegis.png",
+        "name": "sunfire aegis",
+        "desc": "UNIQUE – IMMOLATE: Taking or dealing damage activates this passive for 3 seconds. Deal 15 (+ 1.75% bonus health) magic damage every second to enemies within Range center 325 (+ 100% bonus size) units, with the damage being increased by 25% against minions. This executes minions that would be killed by one more tick of damage. Damaging enemy champions or epic monsters with this effect grants a stack for 5 seconds that increases subsequent Immolate damage by 10%, stacking up to 6 times for a 60% increase.",
+        "cost": "2700",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 500,
+        "health-regeneration": 0,
+        "armor": 50,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/thecollector.png",
+        "name": "the collector",
+        "desc": "UNIQUE – DEATH AND TAXES: If you deal post-mitigation damage that would leave a champion below 5% of their maximum health, execute them. Champion kills grant you an additional 25 Gold.",
+        "cost": "3000",
+
+        "attack-damage": 55,
+        "attack-speed": 0,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 18,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/thornmail.png",
+        "name": "thornmail",
+        "desc": "UNIQUE – THORNS: When struck by a basic attack on-hit, deal 10 (+ 25% bonus armor) magic damage to the attacker and, if they are a champion, inflict them with Grievous Wounds for 3 seconds.",
+        "cost": "2700",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 350,
+        "health-regeneration": 0,
+        "armor": 70,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/titanichydra.png",
+        "name": "titanic hydra",
+        "desc": "UNIQUE – COLOSSUS: Gain bonus attack damage equal to 2% of bonus health. UNIQUE – CLEAVE: Basic attacks on-hit deal (Melee role 4 / Ranged role 3) (+ (Melee role 1.5% / Ranged role 1.125%) maximum health) bonus physical damage to the target and (Melee role 40 / Ranged role 30) (+ (Melee role 3% / Ranged role 2.25%) maximum health) physical damage to other enemies in a cone in the direction of the target.",
+        "cost": "3300",
+
+        "attack-damage": 30,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 500,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/turbochemtank.png",
+        "name": "turbo chemtank",
+        "desc": "UNIQUE – SUPERCHARGED: For 4 seconds, grants 40% bonus movement speed and ghosting while facing a turret or visible enemy champion within 2000 units. After the duration or when an enemy champion is within 225 units, you emit a shockwave, slowing enemy champions within Range center 450 units by 50% for 1.5 seconds (90 second cooldown).",
+        "cost": "2800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 500,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 50,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/umbralglaive.png",
+        "name": "umbral glaive",
+        "desc": "UNIQUE – BLACKOUT: When near an enemy stealthed ward or Noxious trap, gain Blackout for 8 seconds (50 second cooldown; 400 range). BLACKOUT: You disable surrounding stealthed wards, as well as expose and reveal nearby stealthed wards and traps while Blackout is active. UNIQUE: Your basic attacks deal (Melee role 2 / Ranged role 1) bonus true damage to wards.",
+        "cost": "2300",
+
+        "attack-damage": 50,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 13,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/vigilantwardstone.png",
+        "name": "vigilant wardstone",
+        "desc": "UNIQUE – ARCANE CACHE: This item can store up to 3 purchased Control Wards. UNIQUE – BEHOLD: Increase your  Stealth Ward, Totem Ward, and Control Ward caps by 1. UNIQUE – CHOSEN OF IXTAL: Increases bonus attack damage, bonus health, ability power and ability haste by 20%.",
+        "cost": "2300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 50,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 250,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/voidstaff.png",
+        "name": "void staff",
+        "desc": "",
+        "cost": "2800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 65,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 40,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/warmogsamor.png",
+        "name": "warmog's armor",
+        "desc": "UNIQUE: Grants Warmog's Heart if you have at least 1100 bonus health. UNIQUE – WARMOG'S HEART: Regenerate「 2.5% maximum health every 0.5 seconds 」if damage has not been taken in the last 6 seconds (3 seconds for damage from non-champions).",
+        "cost": "3000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 800,
+        "health-regeneration": 200,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/wintersapproach.png",
+        "name": "winter's approach",
+        "desc": "UNIQUE – AWE: Grants bonus health equal to 8% maximum mana. UNIQUE – MANA CHARGE: Grants a charge every 8 seconds, up to 4 charges. Consumes a charge on-hit and whenever affecting an enemy or ally with an ability to grant 3 bonus mana, increased to 6 for champion targets, up to a maximum of 360 bonus mana. Transforms into Fimbulwinter Fimbulwinter at 360 bonus mana.",
+        "cost": "2600",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 500,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 400,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/witsend.png",
+        "name": "wit's end",
+        "desc": "UNIQUE – FRAY: Basic attacks deal 15 − 80 (based on level) bonus magic damage on-hit and grant you 20 bonus movement speed for 2 seconds.",
+        "cost": "3200",
+
+        "attack-damage": 40,
+        "attack-speed": 40,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 40,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/zekesconvergence.png",
+        "name": "zeke's convergence",
+        "desc": "UNIQUE – CONDUIT: Designate the target allied champion as the Accomplice, forming a Focused Resolve tether between you and them. Champions can only be designated as the Accomplice by one Zeke's Convergence at a time (60 second cooldown; Range center 1250 range). UNIQUE – CONVERGENCE: Immobilizing enemy champions marks them for 8 seconds. Your Accomplice's basic attacks on-hit and ability hits against marked enemies fire a missile at them that deals 30 − 70 (based on level) (+ 7.5% of your AP) (+ 1.5% of your maximum health) bonus magic damage upon arrival.",
+        "cost": "2200",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 250,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 45,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/legendary/zhonyashourglass.png",
+        "name": "zhonya's hourglass",
+        "desc": "UNIQUE – STASIS: Put yourself in stasis for 2.5 seconds, rendering you untargetable and invulnerable for the duration but also unable to move, declare basic attacks, cast abilities, use summoner spells, or activate items (120 second cooldown).",
+        "cost": "3000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 80,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 45,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    }
+]

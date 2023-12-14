@@ -1,0 +1,129 @@
+/*declare custom fonts*/
+@font-face {
+    font-family: Beaufort;
+    src: url(../assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Regular.ttf)
+}
+@font-face {
+    font-family: BeaufortBold;
+    src: url(../assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Bold.ttf)
+}
+@font-face {
+    font-family: Spiegel;
+    src: url(../assets/Fonts/Spiegel-TTF/Spiegel_TT_Regular.ttf)
+}
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+}
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    transition: all .15s ease;
+    border: 2px dashed black;
+    margin: 10px 0;
+    padding: 20px 5px;
+    width: 100%;
+}
+.cardimg {
+    flex: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.cardimg img {
+    max-width: 300px;
+    max-height: 200px;
+}
+.carddesc {
+    flex: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+
+}
+.carddesc h2, .carddesc p {
+    text-align: justify;
+    margin: 0;
+}
+.carddesc h2 {
+    font-family: Beaufort;
+    font-size: 150%;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.carddesc p {
+    font-family: Spiegel;
+    font-size: 125%;
+}
+.moreinfo {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.moreinfo-hide {
+    display: none;
+}
+.moreinfo-show {
+    display: flex;
+}
+.card-clicked {
+    border: 2px solid #C89B3C;
+    background-color: #CDFAFA;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .card {
+        flex-direction: column;
+    }
+    .card h2 {
+        font-size: 1.5rem;
+    }
+    .card p {
+        font-size: 1rem;
+    }
+    .card img {
+        max-width: 300px;
+    }
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .card {
+        flex-direction: column;
+    }
+    .card img {
+        max-width: 400px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 1024) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1440px) {
+
+}

@@ -1,0 +1,1318 @@
+[
+    {
+        "icon": "assets/card/epic/aegisofthelegion.png",
+        "name": "aegis of the legion",
+        "desc": "",
+        "cost": "1200",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 30,
+        "magic-resistance": 30,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/aetherwisp.png",
+        "name": "aether wisp",
+        "desc": "UNIQUE – GLIDE: Gain 5% bonus movement speed.",
+        "cost": "850",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 30,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/bamiscinder.png",
+        "name": "bami's cinder",
+        "desc": "UNIQUE – IMMOLATE: Taking or dealing damage activates this passive for 3 seconds. Deal 12 (+ 1% bonus health) magic damage every second to enemies within Range center 325 (+ 100% bonus size) units, with the damage being increased by 25% against minions and monsters. This executes minions that would be killed by one more tick of damage.",
+        "cost": "1000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 300,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/bandleglassmirror.png",
+        "name": "bandleglass mirror",
+        "desc": "",
+        "cost": "950",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 20,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 50,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/blightingjewel.png",
+        "name": "blighting jewel",
+        "desc": "",
+        "cost": "1100",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 25,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 13,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/bramblevest.png",
+        "name": "bramble vest",
+        "desc": "UNIQUE – THORNS: When struck by a basic attack on-hit, deal 6 magic damage to the attacker and, if they are a champion, inflict them with Grievous Wounds for 3 seconds.",
+        "cost": "800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 30,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/catalystofaeons.png",
+        "name": "catalyst of aeons",
+        "desc": "UNIQUE – ETERNITY: Restore mana equal to 7% of pre-mitigation damage taken from champions, and heal for an amount equal to 25% of mana spent, up to 20 per cast. Toggled abilities can only heal for up to 20 per second.",
+        "cost": "1300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 300,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 300,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/caulfieldswarhammer.png",
+        "name": "caulfield's warhammer",
+        "desc": "",
+        "cost": "1100",
+
+        "attack-damage": 25,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/chainvest.png",
+        "name": "chain vest",
+        "desc": "",
+        "cost": "800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 40,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/chaliceofblessing.png",
+        "name": "chalice of blessing",
+        "desc": "UNIQUE – HARMONY: Gain 25% base health regeneration for every additional 25% base mana regeneration.",
+        "cost": "950",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 50,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/crystallinebracer.png",
+        "name": "crystalline bracer",
+        "desc": "",
+        "cost": "800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 100,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/executionerscalling.png",
+        "name": "executioner's calling",
+        "desc": "UNIQUE – REND: Dealing physical damage to enemy champions inflicts them with Grievous Wounds for 3 seconds.",
+        "cost": "800",
+
+        "attack-damage": 15,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/fiendishcodex.png",
+        "name": "fiendish codex",
+        "desc": "",
+        "cost": "900",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 35,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/forbiddenidol.png",
+        "name": "forbidden idol ",
+        "desc": "",
+        "cost": "800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 50,
+        "heal-and-shield-power": 8,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/frostfang.png",
+        "name": "frostfang",
+        "desc": "UNIQUE – TRIBUTE: Grants a charge every 12 seconds, up to 3 charges. If an allied champion is nearby, damaging basic attacks and abilities against champions and structures consume a charge, up to one per attack or cast. Consuming a charge grants 20 Gold. Receive diminishing gold from excessive minion kills. UNIQUE – QUEST: Earn 500 Gold using this item to upgrade to Shard of True Ice, increasing the Warding active to instead have 4 wards in stock.",
+        "cost": "400",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 15,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 50,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 70,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/giantsbelt.png",
+        "name": "giant's belt",
+        "desc": "",
+        "cost": "900",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 350,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/glacialbuckler.png",
+        "name": "glacial buckler",
+        "desc": "",
+        "cost": "900",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 10,
+        "mana": 250,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 20,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/harrowingcresent.png",
+        "name": "harrowing cresent",
+        "desc": "UNIQUE – TRIBUTE: Grants a charge every 12 seconds, up to 3 charges. If an allied champion is nearby, damaging basic attacks and abilities against champions and structures consume a charge, up to one per attack or cast. Consuming a charge grants 20 Gold. Receive diminishing gold from excessive minion kills. UNIQUE – QUEST: Earn 500 Gold using this item to upgrade to Black Mist Scythe, increasing the Warding active to instead have 4 wards in stock.",
+        "cost": "400",
+
+        "attack-damage": 10,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 50,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 60,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/hearthboundaxe.png",
+        "name": "hearthbound axe",
+        "desc": "UNIQUE – NIMBLE: Basic attacks grant (Melee role 20 / Ranged role 10) bonus movement speed for 2 seconds.",
+        "cost": "1100",
+
+        "attack-damage": 20,
+        "attack-speed": 15,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/hexdrinker.png",
+        "name": "hexdrinker",
+        "desc": "UNIQUE – LIFELINE: If you would take magic damage that would reduce you below 30% of your maximum health, you first gain a Hybrid resistances shield that absorbs (Melee role 110 − 280 / Ranged role 82.5 − 210) (based on level) magic damage for 2.5 seconds (90 second cooldown).",
+        "cost": "1300",
+
+        "attack-damage": 25,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 35,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/hextechalternator.png",
+        "name": "hextech alternator",
+        "desc": "UNIQUE – REVVED: Damaging an enemy champion deals 50 − 125 (based on level) bonus magic damage (40 second cooldown).",
+        "cost": "1050",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 25,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 150,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/ironspikewhip.png",
+        "name": "ironspike whip",
+        "desc": "UNIQUE – CRESCENT: Deal 100% base AD physical damage to enemies in a 450 radius centered around you (20 (affected by ability haste) second cooldown).",
+        "cost": "1100",
+
+        "attack-damage": 30,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/kindlegem.png",
+        "name": "kindlegem",
+        "desc": "",
+        "cost": "800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/kircheisshard.png",
+        "name": "kircheis shard",
+        "desc": "UNIQUE – ENERGIZED: Moving and basic attacking generates Energize stacks, up to 100. UNIQUE – JOLT: When fully Energized, your next basic attack deals 60 bonus magic damage on-hit.",
+        "cost": "700",
+
+        "attack-damage": 15,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/lastwhisper.png",
+        "name": "last whisper",
+        "desc": "",
+        "cost": "1450",
+
+        "attack-damage": 20,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 18,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/leechingleer.png",
+        "name": "leeching leer",
+        "desc": "",
+        "cost": "1300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 20,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 5,
+        "magic-penetration": 0,
+
+        "health": 250,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/lifewellpendant.png",
+        "name": "lifewell pendant",
+        "desc": "",
+        "cost": "1050",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 5,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 150,
+        "health-regeneration": 0,
+        "armor": 25,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/lostchapter.png",
+        "name": "lost chapter",
+        "desc": "UNIQUE – ENLIGHTEN: Upon leveling up, restores 20% of maximum mana over 3 seconds.",
+        "cost": "1100",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 40,
+        "ability-haste": 10,
+        "mana": 200,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/negatroncloak.png",
+        "name": "negatron cloak",
+        "desc": "",
+        "cost": "900",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 50,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/noonquiver.png",
+        "name": "noonquiver",
+        "desc": "PRECISION: Basic attacks deal 20 bonus physical damage on-hit against minions and monsters.",
+        "cost": "1300",
+
+        "attack-damage": 30,
+        "attack-speed": 15,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/oblivionorb.png",
+        "name": "oblivion orb",
+        "desc": "UNIQUE – CURSED: Dealing magic damage to enemy champions inflicts them with Grievous Wounds for 3 seconds.",
+        "cost": "800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 30,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/phage.png",
+        "name": "phage",
+        "desc": "UNIQUE – STURDY: After dealing physical damage to an enemy champion, heal for (Melee role 1.6% / Ranged role 0.8%) of maximum health over 6 seconds.",
+        "cost": "1100",
+
+        "attack-damage": 15,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/quicksilversash.png",
+        "name": "quicksilver sash",
+        "desc": "UNIQUE – QUICKSILVER: Removes all crowd control debuffs (except Airborne) from your champion (90 second cooldown).     ",
+        "cost": "1300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 30,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/rageknife.png",
+        "name": "rageknife",
+        "desc": "UNIQUE – WRATH: Basic attacks deal 20 bonus magic damage on-hit. UNIQUE – SEETHING STRIKE: Basic attacks grant 5% bonus attack speed for 3 seconds, stacking up to 3 times for a total of 15% bonus attack speed.",
+        "cost": "1200",
+
+        "attack-damage": 0,
+        "attack-speed": 25,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/recurvebow.png",
+        "name": "recurve bow",
+        "desc": "STEELTIPPED: Basic attacks deal 15 bonus magic damage on-hit.",
+        "cost": "700",
+
+        "attack-damage": 0,
+        "attack-speed": 15,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/runesteelspaulders.png",
+        "name": "runesteel spaulders",
+        "desc": "UNIQUE – WARDING: Consumes a charge to place a Stealth Ward at the target location, which grants sight of the surrounding area. Charges refill upon visiting the shop (3 charges; 600 range). UNIQUE – SPOILS OF WAR: Grants a charge every 35 seconds, up to 3 charges. Basic attacks can consume a charge to execute minions below 50% of their maximum health. Killing a minion by any means with a charge grants you and the nearest allied champion kill gold. These effects require an allied champion to be nearby. Receive diminishing gold from excessive minion kills. UNIQUE – QUEST: Earn 500 Gold using this item to upgrade to Pauldrons of Whiterock, increasing the Warding active to instead have 4 wards in stock.",
+        "cost": "400",
+
+        "attack-damage": 6,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 100,
+        "health-regeneration": 75,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/seekersarmguard.png",
+        "name": "seeker's armguard",
+        "desc": "UNIQUE – WITCH'S PATH: Killing a unit grants 0.5 bonus armor, up to a maximum of 15 at 30 unit kills.",
+        "cost": "1000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 30,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 20,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/serrateddirk.png",
+        "name": "serrated dirk",
+        "desc": "UNIQUE – GOUGE: Gain 10 Lethality (6.22 − 10 (based on level) armor penetration).",
+        "cost": "1100",
+
+        "attack-damage": 30,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/spectrescowl.png",
+        "name": "spectre's cowl",
+        "desc": "UNIQUE – INCORPOREAL: Gain 150% base health regeneration after taking damage from a champion, with the duration equal to 33.3% of the damage taken, up to a maximum of 10 seconds.",
+        "cost": "1250",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 250,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 25,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/targonsbuckler.png",
+        "name": "targon's buckler",
+        "desc": "UNIQUE – WARDING: Consumes a charge to place a Stealth Ward at the target location, which grants sight of the surrounding area. Charges refill upon visiting the shop (3 charges; 600 range). UNIQUE – SPOILS OF WAR: Grants a charge every 35 seconds, up to 3 charges. Basic attacks can consume a charge to execute minions below 50% of their maximum health. Killing a minion by any means with a charge grants you and the nearest allied champion kill gold. These effects require an allied champion to be nearby. Receive diminishing gold from excessive minion kills. UNIQUE – QUEST: Earn 500 Gold using this item to upgrade to Bulwark of the Mountain, increasing the Warding active to instead have 4 wards in stock.",
+        "cost": "400",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 10,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 100,
+        "health-regeneration": 75,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/tiamat.png",
+        "name": "tiamat",
+        "desc": "UNIQUE – CLEAVE: Basic attacks on-hit deal (Melee role 40% AD / Ranged role 20% AD) physical damage to other enemies within 350 units of the target.",
+        "cost": "1200",
+
+        "attack-damage": 25,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/vampiricscepter.png",
+        "name": "vampiric scpeter",
+        "desc": "",
+        "cost": "900",
+
+        "attack-damage": 15,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 7,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/verdantbarrier.png",
+        "name": "veradant barrier",
+        "desc": "UNIQUE – ADAPTIVE: Killing a unit grants 0.3 bonus magic resistance, up to a maximum of 9 at 30 unit kills.",
+        "cost": "1000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 20,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 25,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/wardensmail.png",
+        "name": "warden's mail",
+        "desc": "UNIQUE – ROCK SOLID: Every first incoming instance of post-mitigation basic damage per cast instance is reduced by 5 (+ 3.5 per 1000 maximum health), maximum 20% reduction each.",
+        "cost": "1000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 40,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/watchfulwardstone.png",
+        "name": "watchful wardstone",
+        "desc": "UNIQUE – ARCANE CACHE: This item can store up to 3 purchased Control Wards. UNIQUE – BLESSING OF IXTAL: Increases bonus attack damage, bonus health, ability power and ability haste by 8%.",
+        "cost": "1100",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 50,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 150,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/wingedmoonplate.png",
+        "name": "winged moonplate",
+        "desc": "UNIQUE – FLIGHT: Gain 5% bonus movement speed.",
+        "cost": "800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 150,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/epic/zeal.png",
+        "name": "zeal",
+        "desc": "temp",
+        "cost": "1100",
+
+        "attack-damage": 0,
+        "attack-speed": 15,
+        "critical-strike-chance": 15,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 5
+    }
+]

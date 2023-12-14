@@ -1,0 +1,208 @@
+/*declare custom fonts*/
+@font-face {
+    font-family: Beaufort;
+    src: url(../assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Regular.ttf)
+}
+@font-face {
+    font-family: BeaufortBold;
+    src: url(../assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Bold.ttf)
+}
+@font-face {
+    font-family: Spiegel;
+    src: url(../assets/Fonts/Spiegel-TTF/Spiegel_TT_Regular.ttf)
+}
+body {
+    margin: 0;
+    background-color: #282828;
+}
+h1 {
+    font-family: Beaufort;
+    font-weight: 900;
+    font-size: 500%;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+    color: #C89B3C;
+}
+.ctn {
+    display: flex;
+    flex-direction: row;
+}
+.runeheader {
+    width: 100%;
+    height: auto;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 2.5%;
+    margin: 0;
+}
+.runeheader h2 {
+    font-family: Beaufort;
+    font-size: 400%;
+    font-style: italic;
+    text-transform: uppercase;
+    margin-left: 2.5%;
+}
+.runeheader p {
+    font-family: Spiegel;
+    font-size: 200%;
+    margin-left: 2.5%;
+}
+#precision h2 {
+    color: rgb(255, 217, 0);
+}
+#domination h2 {
+    color: rgb(253, 90, 90);
+}
+#sorcery h2 {
+    color: rgb(101, 43, 226);
+}
+#resolve h2 {
+    color: rgb(71, 255, 71);
+}
+#inspiration h2 {
+    color: rgb(67, 248, 254)
+}
+.runeinfo {
+    flex: 30%;
+    width: 100%;
+}
+.runes {
+    flex: 70%;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.runectn {
+    margin: 0;
+}
+.runectn h3 {
+    font-family: Beaufort;
+    font-size: 175%;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.runectn p {
+    font-family: Spiegel;
+    font-size: 125%;
+}
+.runectn, .runectn-show {
+    display: block;
+    width: 100%;
+}
+.keystones, .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: first baseline;
+    width: 100%;
+    background-color: #282828;
+}
+.row {
+    margin: 0;
+}
+.keystone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 25%;
+}
+.keystoneinfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 25%;
+}
+.row img {
+    margin: 10% auto;
+}
+.keystone img {
+    width: 7.5em;
+}
+.shardctn img {
+    width: 5em;
+}
+.sharddesc {
+    display: flex;
+    align-items: first baseline;
+    justify-content: first baseline;
+    flex-direction: column;
+    width: 100%;
+    margin: auto 2.5%;
+}
+.shardinfo {
+    flex: 25%;
+    max-width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.sharddesc h3 {
+    color: white;
+    font-family: Beaufort;
+    font-size: 175%;
+    text-transform: uppercase;
+    font-style: italic;
+    margin: 1% 2.5%;
+}
+.sharddesc p {
+    color: white;
+    font-family: Spiegel;
+    font-size: 125%;
+    text-align: justify;
+    margin: auto 2.5%;
+}
+
+.runectn-hide {
+    display: none;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 3rem;
+    }
+    .runeheader h2 {
+        font-size: 2rem;
+    }
+    .runeheader p {
+        font-size: 1rem;
+    }
+    
+    .runectn {
+        font-size: 1rem;
+    }
+    .keystone img {
+        width: 75px;
+    }
+    .shardctn img {
+        width: 50px;
+    }
+    .sharddesc h3, .sharddesc p {
+        font-size: .75rem;
+    }
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 1024) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1440px) {
+
+}

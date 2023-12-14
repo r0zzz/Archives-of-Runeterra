@@ -1,0 +1,450 @@
+[
+    {
+        "icon": "assets/card/basic/amplifyingtome.png",
+        "name": "amplifying tome",
+        "desc": "",
+        "cost": "435",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 20,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/bfsword.png",
+        "name": "b.f. sword",
+        "desc": "",
+        "cost": "1300",
+
+        "attack-damage": 40,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/blastingwand.png",
+        "name": "blasting wand",
+        "desc": "",
+        "cost": "850",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 40,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/cloakofagility.png",
+        "name": "cloak of agility",
+        "desc": "",
+        "cost": "600",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 15,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/clotharmor.png",
+        "name": "cloth armor",
+        "desc": "",
+        "cost": "300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 15,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/dagger.png",
+        "name": "dagger",
+        "desc": "",
+        "cost": "300",
+
+        "attack-damage": 0,
+        "attack-speed": 12,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/faeriecharm.png",
+        "name": "faerie charm",
+        "desc": "",
+        "cost": "250",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 50,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/longsword.png",
+        "name": "long sword",
+        "desc": "temp",
+        "cost": "350",
+
+        "attack-damage": 10,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/needlesslylargerod.png",
+        "name": "needlessly large rod",
+        "desc": "",
+        "cost": "1250",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 60,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/nullmagicmantle.png",
+        "name": "null-magic mantle",
+        "desc": "",
+        "cost": "450",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 25,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/pickaxe.png",
+        "name": "pickaxe",
+        "desc": "",
+        "cost": "875",
+
+        "attack-damage": 25,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/rejuvenationbead.png",
+        "name": "rejuvenation bead",
+        "desc": "",
+        "cost": "300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 100,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/rubycrystal.png",
+        "name": "ruby crystal",
+        "desc": "",
+        "cost": "400",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 150,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/sapphirecrystal.png",
+        "name": "sapphire crystal",
+        "desc": "",
+        "cost": "350",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 250,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/sheen.png",
+        "name": "sheen",
+        "desc": "UNIQUE – SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals 100% base AD bonus physical damage on-hit (1.5 (begins after using the empowered attack) second cooldown).",
+        "cost": "700",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/basic/stopwatch.png",
+        "name": "stopwatch",
+        "desc": "UNIQUE – STASIS: Put yourself in Stasis icon stasis for 2.5 seconds, rendering you Untargetable icon untargetable and Cosmic Radiance invulnerable for the duration but also unable to move, declare basic attacks, cast abilities, use summoner spells, or activate items.",
+        "cost": "750",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    }
+]

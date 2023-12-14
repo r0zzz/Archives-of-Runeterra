@@ -1,0 +1,366 @@
+[
+    {
+        "icon": "assets/card/starter/cull.png",
+        "name": "cull",
+        "desc": "UNIQUE – REAP: Killing a minion grants an additional 1 Gold, up to a maximum of 100 Gold 100. After having killed 100 minions, grants an additional 350 Gold and permanently disables this passive.",
+        "cost": "450",
+
+        "attack-damage": 7,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/starter/darkseal.png",
+        "name": "dark seal",
+        "desc": "UNIQUE – GLORY: Gain 2 stacks for each champion kill and 1 stack for each assist, up to a maximum of 10 stacks. Lose 5 stacks on death. Stacks are preserved when upgrading to Mejai's Soulstealer. UNIQUE – DREAD: Gain 4 ability power for each stack of Glory.",
+        "cost": "350",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 15,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 50,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/starter/doransblade.png",
+        "name": "doran's blade",
+        "desc": "UNIQUE – WARMONGER: +2.5% omnivamp",
+        "cost": "450",
+
+        "attack-damage": 10,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 100,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/starter/doransring.png",
+        "name": "doran's ring",
+        "desc": "UNIQUE – FOCUS: Basic attacks deal 5 bonus physical damage on-hit against minions. UNIQUE – DRAIN: Restore 1 mana every second, increased to 1.5 for 10 seconds when you damage an enemy champion. If you cannot gain mana, heal for「 45% of this value 」instead.",
+        "cost": "400",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 18,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 90,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/starter/doransshield.png",
+        "name": "doran's shield",
+        "desc": "UNIQUE – FOCUS: Basic attacks deal 5 bonus physical damage on-hit against minions. UNIQUE – ENDURE: After taking damage from a champion or large monster, gain health regeneration equal to 0 − 45 (based on current missing health) health over 8 seconds. Reduced to「 66% effectiveness 」 if owned by ranged champions or when triggered by area of effect, damage over time, or proc.",
+        "cost": "450",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 110,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/starter/gustwalkerhatchling.png",
+        "name": "gustwalker hatchling",
+        "desc": "UNIQUE: After your pet reaches its final evolution, consumes this item to grant you the Gustwalker buff.",
+        "cost": "450",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/starter/mosstomperseedling.png",
+        "name": "mosstomper seedling",
+        "desc": "UNIQUE: After your pet reaches its final evolution, consumes this item to grant you the Mosstomper buff.",
+        "cost": "450",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/starter/relicshield.png",
+        "name": "relic shield",
+        "desc": "UNIQUE – SPOILS OF WAR: Grants a charge every 35 seconds, up to 3 charges. Basic attacks can consume a charge to execute minions below (Melee role 50% / Ranged role 30%) of their maximum health. Killing a minion by any means with a charge grants you and the nearest allied champion kill gold. These effects require an allied champion to be nearby. Receive diminishing gold from excessive minion kills. UNIQUE – QUEST: Earn 500 Gold using this item to upgrade to Targon's Buckler, gaining the Warding active with 3 wards in stock.",
+        "cost": "400",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 7,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 50,
+        "health-regeneration": 50,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/starter/scorchclawpup.png",
+        "name": "scorchclaw pup",
+        "desc": "UNIQUE: After your pet reaches its final evolution, consumes this item to grant you the Scorchclaw buff.",
+        "cost": "450",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/starter/spectralsickle.png",
+        "name": "spectral sickle",
+        "desc": "UNIQUE – TRIBUTE: Grants a charge every 12 seconds, up to 3 charges. If an allied champion is nearby, damaging basic attacks and abilities against champions and structures consume a charge, up to one per attack or cast. Consuming a charge grants 20 Gold. Receive diminishing gold from excessive minion kills. UNIQUE – QUEST: Earn 500 Gold using this item to upgrade to Harrowing Crescent, gaining the Warding active with 3 wards in stock.",
+        "cost": "400",
+
+        "attack-damage": 6,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 25,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 25,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/starter/spellthiefsedge.png",
+        "name": "spellthief's edge",
+        "desc": "tUNIQUE – TRIBUTE: Grants a charge every 12 seconds, up to 3 charges. If an allied champion is nearby, damaging basic attacks and abilities against champions and structures consume a charge, up to one per attack or cast. Consuming a charge grants 20 Gold. Receive diminishing gold from excessive minion kills. UNIQUE – QUEST: Earn 500 Gold using this item to upgrade to Frostfang, gaining the Warding active with 3 wards in stock.",
+        "cost": "400",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 10,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 25,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 25,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/starter/steelshoulderguards.png",
+        "name": "steel shoulderguards",
+        "desc": "UNIQUE – SPOILS OF WAR: Grants a charge every 35 seconds, up to 3 charges. Basic attacks can consume a charge to execute minions below (Melee role 50% / Ranged role 30%) of their maximum health. Killing a minion by any means with a charge grants you and the nearest allied champion kill gold. These effects require an allied champion to be nearby. Receive diminishing gold from excessive minion kills. UNIQUE – QUEST: Earn 500 Gold using this item to upgrade to Runesteel Spaulders, gaining the Warding active with 3 wards in stock.",
+        "cost": "400",
+
+        "attack-damage": 4,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 50,
+        "health-regeneration": 50,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/starter/tearofthegoddess.png",
+        "name": "tear of the goddess",
+        "desc": "UNIQUE – FOCUS: Basic attacks deal 5 bonus physical damage on-hit against minions. UNIQUE – MANA CHARGE: Grants a charge every 8 seconds, up to 4 charges. Affecting an enemy or ally with an ability consumes a charge to grant 3 bonus mana, increased to 6 if they are a champion, up to maximum of 360 bonus mana.",
+        "cost": "400",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 240,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    }
+]

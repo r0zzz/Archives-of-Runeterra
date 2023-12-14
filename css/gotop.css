@@ -1,0 +1,115 @@
+/*declare custom fonts*/
+@font-face {
+    font-family: Beaufort;
+    src: url(../assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Regular.ttf)
+}
+@font-face {
+    font-family: BeaufortBold;
+    src: url(../assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Bold.ttf)
+}
+@font-face {
+    font-family: Spiegel;
+    src: url(../assets/Fonts/Spiegel-TTF/Spiegel_TT_Regular.ttf)
+}
+
+#gotop {
+    background-color: white;
+    color: #010A13;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #C8AA6E;
+    border-radius: 25px;
+    transition: all .15s ease;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#gotopctn {
+    text-decoration: none;
+    width: fit-content;
+    z-index: 99;
+    position: sticky;
+        top: 90%;
+        left: 95%;
+}
+#gotop img {
+    width: 25px;
+}
+
+#gotopctn:hover #gotop {
+    background-color: #C89B3C;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    header {
+        position: relative;
+    }
+    header .navbtns {
+        display: none;
+    }
+    .logoctn {
+        margin: 0;  
+    }
+    .logoctn img {
+        width: 75px;
+        margin-left: 20px;
+    }
+    .mobilemenu {
+        display: flex;
+        margin-right: 20px;
+    }
+    .mobilemenu button {
+        background-color: #282828;
+        border: none;
+        color: #A09B8C;
+        font-size: 2em;
+    }
+    
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    #gotopctn {
+        top: 92.5%;
+        left: 85%;
+    }
+    #gotop {
+        width: 40px;
+        height: 40px;
+    }
+    #gotop img {
+        width: 20px;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    #gotopctn {
+        top: 92.5%;
+        left: 90%;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 1024px) {
+    #gotopctn {
+        top: 92.5%;
+        left: 92.5%;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1440px) {
+    #gotopctn {
+        top: 92.5%;
+        left: 95%;
+    }
+}
+

@@ -1,0 +1,249 @@
+/*declare custom fonts*/
+@font-face {
+    font-family: Beaufort;
+    src: url(../Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Regular.ttf)
+}
+@font-face {
+    font-family: BeaufortBold;
+    src: url(../Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Bold.ttf)
+}
+@font-face {
+    font-family: Spiegel;
+    src: url(../Fonts/Spiegel-TTF/Spiegel_TT_Regular.ttf)
+}
+
+html {
+    scroll-behavior: smooth;
+}
+header {
+    position: sticky;
+        top: 0;
+    z-index: 3;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    justify-content: space-around;
+    background-color: #010A13;
+}
+
+h1 {
+    font-family: BeaufortBold;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 5rem;
+    text-transform: uppercase;
+    width: fit-content;
+    margin: 5% auto;
+    color: #C89B3C;
+}
+
+.catctn {
+    position: sticky;
+        top: 0;
+    background-color: white;
+    padding: 1%;
+    z-index: 2;
+}
+.ctn {
+    display: flex;
+    flex-direction: row;
+}
+.itemclass {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.itemclass button {
+    font-size: 200%;
+    background-color: transparent;
+    color: #A09B8C;
+    border: none;
+    margin-right: 20px;
+    display: none;
+}
+.infoctn {
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid #C89B3C;
+    border-radius: 30px;
+    margin: 10px;
+    padding-bottom: 5%;
+    height: fit-content;
+}
+.itemicon {
+    margin: 10%;
+    padding: 1%;
+    border: 2px solid #C89B3C;
+}
+.itemicon img {
+    width: 5em;
+    height: 5em;
+}
+.iteminfo {
+    display: flex;
+    flex-direction: column;
+    align-items: first baseline;
+    width: 90%;
+}
+#name {
+    margin: 0;
+    font-family: Beaufort;
+    text-transform: uppercase;
+    color: #C89B3C;
+}
+.cost {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0;
+    gap: 1%;
+    width: 100%;
+    font-family: Spiegel;
+    font-size: 110%;
+    color: #C89B3C;
+}
+.cost img {
+    width: 1em;
+    height: 1em;
+}
+#desc {
+    font-family: Spiegel;
+    font-size: 110%;
+    color: #A09B8C;
+}
+.stat {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1%;
+    width: 100%;
+    font-family: Spiegel;
+    font-size: 110%;
+    color: #A09B8C;
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+}
+.stat img {
+    width: 1em;
+    height: 1em;
+    margin: 0;
+    padding: 0;
+}
+.stat p {
+    margin: 5px 0;
+    padding: 0;
+}
+
+.itemctn {
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-self: center;
+    align-items: first baseline;
+    justify-content: space-around;
+    margin: 2.5%;
+}
+.itemctn hr {
+    margin: 1% auto;
+    border: #C89B3C 1px solid;
+}
+h3 {
+    font-family: BeaufortBold;
+    font-size: 150%;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    color: #A09B8C;
+}
+.itemcat {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: baseline;
+    gap: 1%;
+    flex-wrap: wrap;
+    width: fit-content;
+}
+.item {
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid #010A13;
+}
+.item img {
+    width: 5em;
+    height: 5em;
+    margin: 2px;
+    transition: all .15s ease;
+}
+.item:hover .item img{
+    transform: scale(1.05);
+}
+
+.stat-show {
+    display: flex;
+}
+.stat-hide {
+    display: none;
+}
+.item-clicked {
+    border: 2px solid #C89B3C;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 3rem;
+    }
+    .ctn {
+        flex-direction: column;
+    }
+    .itemctn {
+        width: 100%;
+        margin: 2.5%;
+    }
+    .itemclass button {
+        display: block;
+    }
+    .itemcat {
+        display: none;
+    }
+    .item img {
+        width: 3em;
+        height: 3em;
+    }
+    .itemclass h3 {
+        font-size: 1rem;
+    }
+    .itemcat-show {
+        display: flex;
+    }
+    .itemcat-hide {
+        display: none;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 1024px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1440px) {
+
+}

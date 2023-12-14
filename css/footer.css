@@ -1,0 +1,183 @@
+/*declare custom fonts*/
+@font-face {
+    font-family: Beaufort;
+    src: url(assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Regular.ttf)
+}
+@font-face {
+    font-family: BeaufortBold;
+    src: url(assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Bold.ttf)
+}
+@font-face {
+    font-family: Spiegel;
+    src: url(assets/Fonts/Spiegel-TTF/Spiegel_TT_Regular.ttf)
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    height: fit-content;
+    background-color: #282828;
+    padding: 2em 0;
+    z-index: 3;
+}
+.logos, .rights, .links {
+    display: flex;
+    flex: 30%;
+    width: 100%;
+    margin: 1em;
+}
+.logos {
+    flex-direction: row;
+    align-items: center;
+}
+.logos div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    flex: 50%;
+}
+.logos img {
+    width: 150px;
+    margin: auto;
+}
+
+.rights {
+    flex-direction: column;
+    text-align: center;
+    color: #C89B3C;
+}
+.rights h3 {
+    font-family: Beaufort;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+}
+.rights p {
+    font-family: Spiegel;
+    font-size: 1rem;
+    text-transform: capitalize;
+}
+
+.links {
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.links div {
+    width: 100%;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.links a {
+    width: 100%;
+    color: #C89B3C;
+    font-family: Spiegel;
+    font-size: 1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: .15s;
+}
+
+/*on hover*/
+.links a:hover {
+    color: #F0E6D2;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .rights {
+        order: 3;
+    }
+    footer {
+        display: flex;
+        flex-direction: column;
+    }
+    .logos {
+        display: flex;
+        flex-direction: column;
+    }
+    .logos img {
+        width: 150px;
+    }
+    .links {
+        justify-content: space-between;
+    }
+    .links div {
+        width: fit-content;
+        justify-content: center;
+        align-items: center;
+        margin: 2.5% 15%;
+    }
+    .links a {
+        min-width: 100%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .rights {
+        order: 3;
+    }
+    footer {
+        display: flex;
+        flex-direction: column;
+    }
+    .logos {
+        display: flex;
+        flex-direction: column;
+    }
+    .logos img {
+        width: 150px;
+    }
+    .links {
+        justify-content: space-between;
+    }
+    .links div {
+        width: fit-content;
+        justify-content: center;
+        align-items: center;
+        margin: 2.5% 15%;
+    }
+    .links a {
+        min-width: 100%;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 1024px) {
+    footer {
+        display: flex;
+        flex-direction: row;
+    }
+    .logos {
+        order: 1;
+        display: flex;
+        flex-direction: row;
+    }
+    .logos img {
+        width: 100px;
+    }
+    .rights {
+        order: 2;
+    }
+    .links {
+        order: 3;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1440px) {
+    
+}

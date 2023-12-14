@@ -1,0 +1,120 @@
+/*declare custom fonts*/
+@font-face {
+    font-family: Beaufort;
+    src: url(assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Regular.ttf)
+}
+@font-face {
+    font-family: BeaufortBold;
+    src: url(assets/Fonts/BeaufortForLoL-TTF/BeaufortforLOL-Bold.ttf)
+}
+@font-face {
+    font-family: Spiegel;
+    src: url(assets/Fonts/Spiegel-TTF/Spiegel_TT_Regular.ttf)
+}
+
+.cardctn {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+a {
+    display: flex;
+    flex: 50%;
+    width: fit-content;
+    text-decoration: none;
+    color: black;
+    max-width: 50%;
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    text-align: center;
+    margin: 1em 1em;
+}
+.card h2 {
+    font-family: BeaufortBold;
+    font-style: italic;
+    font-size: 2rem;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    margin-top: 7.5%;
+    transition: .3s;
+}
+.cardimg{
+    position: relative;
+    width: fit-content;
+    height: fit-content;
+    align-self: center;
+    transition: .3s;
+}
+.cardimg img {
+    max-width: 90%;
+}
+.cardframe {
+    position: absolute;
+    top: -3%;
+    width: fit-content;
+    height: fit-content;
+    transition: .3s;
+    z-index: 2;
+}
+.cardframe img {
+    max-width: 80%;
+}
+.card:hover .cardimg {
+    transform: scale(.975);
+}
+.card:hover .cardframe {
+    transform: scale(1.025);
+}
+.card:hover h2 {
+    color: #C89B3C;
+    transform: scale(1.1);
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .ctn {
+        flex-direction: column;
+        flex: 100%;
+    }
+    .ctn a {
+        flex: 100%;
+        max-width: 100%;
+    }
+    .card {
+        width: 100%;
+        flex: 100%;
+    }
+    h2 {
+        font-size: .1rem;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .ctn {
+        flex-direction: column;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .ctn {
+        flex-direction: row;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}

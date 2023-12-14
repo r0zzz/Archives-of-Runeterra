@@ -1,0 +1,786 @@
+[
+    {
+        "icon": "assets/card/mythic/crownoftheshatteredqueen.png",
+        "name": "crown of the shattered queen",
+        "desc": "UNIQUE – SAFEGUARD: Become Safeguarded to reduce incoming champion damage by 40%, lingering for 2.5 seconds after taking damage from a champion (40 (restarts upon taking damage from champions) second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with 1% bonus movement speed and 8 ability power.",
+        "cost": "2800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 85,
+        "ability-haste": 20,
+        "mana": 600,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 250,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/divinesunderer.png",
+        "name": "divine sunderer",
+        "desc": "UNIQUE – SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals 160% base AD (+ (Melee role 4% / Ranged role 2%) of target's maximum health) as bonus physical damage on-hit, for a minimum of 150% base AD and a maximum of 250% base AD against monsters. If the target is a champion, heal for 88% base AD (+ (Melee role 2.2% / Ranged role 1.1%) of target's maximum health) (1.5 (begins after using the empowered attack) second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with 3% armor penetration and 3% magic penetration.",
+        "cost": "3300",
+
+        "attack-damage": 40,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 300,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/duskbladeofdraktharr.png",
+        "name": "duskblade of draktharr",
+        "desc": "UNIQUE – NIGHTSTALKER: Your abilities deal 0% − 16% (based on target's missing health) increased damage against enemy champions. Scoring a takedown against an enemy champion within 3 seconds of damaging them renders you untargetable for 1.5 seconds, which ends prematurely if you perform an action that breaks stealth (30 second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 bonus movement speed and 5 ability haste.",
+        "cost": "3100",
+
+        "attack-damage": 60,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 18,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/echoesofhelia.png",
+        "name": "echoes of helia",
+        "desc": "UNIQUE – SOUL SIPHON: Damaging an enemy champion with a basic attack or ability damage grants a Soul Shard, up to 2. Healing or shielding an allied champion (excluding yourself) consumes all Soul Shards to launch a missile at them and the nearest enemy champion within 1100 units of them, healing the ally for 20 − 80 (based on ally's level) per shard and dealing 30 − 180 (based on ally's level) magic damage per shard to the enemy. UNIQUE – DISSONANCE: Gain 3 ability power for every additional 25% base mana regeneration. Disables HARMONY on your other items. MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 ability haste.",
+        "cost": "2300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 30,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 125,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/eclipse.png",
+        "name": "eclipse",
+        "desc": "UNIQUE – EVER RISING MOON: Hitting an enemy champion with 2 separate attacks or abilities within 1.5 seconds deals bonus physical damage equal to (Melee role 6% / Ranged role 3%) of target's maximum health and grants you 15% bonus movement speed and a shield for (Melee role 160 / Ranged role 80) (+ (Melee role 35% / Ranged role 17.5%) bonus AD) for 2 seconds ((Melee role 6 / Ranged role 12) second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with 4% armor penetration and 5 bonus movement speed.",
+        "cost": "3100",
+
+        "attack-damage": 60,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 12,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/evenshroud.png",
+        "name": "evenshroud",
+        "desc": "UNIQUE – CORUSCATION: Becoming affected by or applying an immobilizing or grounding effect to or from an enemy champion affects them and all enemy champions within Range center 600 units of you with Repent, increasing the damage they take by 7% for 5 seconds. MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 armor and 5 magic resistance.",
+        "cost": "2300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 30,
+        "magic-resistance": 30,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/everfrost.png",
+        "name": "everfrost",
+        "desc": "UNIQUE – GLACIATE: Unleash a fan of icy shards in a cone in the target direction, dealing 100 (+ 30% AP) magic damage to enemies struck within and slowing them by 65% for 1 second. Enemies hit in the center of the cone are rooted for the same duration instead (30 second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with 10 ability power.",
+        "cost": "2800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 70,
+        "ability-haste": 20,
+        "mana": 600,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 250,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/galeforce.png",
+        "name": "galeforce",
+        "desc": "UNIQUE – CLOUDBURST: Dash to the target location, though not through terrain, and fire three homing missiles at the most wounded enemy within Range center 750 units of you at the end of the dash, prioritizing enemy champions. Each missile deals 50 − 116.67 (based on level) (+ 15% bonus AD) physical damage, for a total of 150 − 350 (based on level) (+ 45% bonus AD), increased by 0% − 50% (based on target's missing health) (120 second cooldown; 200 - 425 range). MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 bonus attack damage.",
+        "cost": "3400",
+
+        "attack-damage": 50,
+        "attack-speed": 15,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 7
+    },
+    {
+        "icon": "assets/card/mythic/goredrinker.png",
+        "name": "goredrinker",
+        "desc": "UNIQUE – THIRSTING SLASH: Deal 175% base AD physical damage to enemies in a Range center 450 radius centered around you. Heal for 20% AD (+ 8% of your missing health) for each enemy champion hit (15 (reduced by ability haste) second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with 75 bonus health and 3 ability haste.",
+        "cost": "3200",
+
+        "attack-damage": 55,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 8,
+        "magic-penetration": 0,
+
+        "health": 400,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/guinsoosrageblade.png",
+        "name": "guinsoo's rageblade",
+        "desc": "UNIQUE – WRATH: Basic attacks deal 30 bonus magic damage on-hit. Additionally, convert every 1% critical strike chance into 1.5 additional bonus magic damage on-hit, capped at 100% critical strike chance, for a maximum of 180 bonus magic damage on-hit. This damage is affected by critical strike modifiers. UNIQUE – SEETHING STRIKE: Basic attacks grant 8% bonus attack speed for 3 seconds, stacking up to 4 times for a total of 32% bonus attack speed. At maximum stacks, basic attacks on-attack grant a Phantom stack for 6 seconds, up to 2 stacks. At 2 Phantom stacks, the next basic attack consumes all of those stacks on-attack to trigger a Phantom Hit that applies on-hit effects to the target at 100% effectiveness after a 0.15 second delay. MYTHIC PASSIVE: Empowers each of your other Legendary items with 5% armor penetration and 6% magic penetration.",
+        "cost": "3200",
+
+        "attack-damage": 30,
+        "attack-speed": 25,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 30,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/heartsteel.png",
+        "name": "heartsteel",
+        "desc": "UNIQUE – COLOSSAL CONSUMPTION: While within 700 units of an enemy champion, generate a stack on them each second, stacking up to 3 times. Your next basic attack against a target with 3 stacks is empowered to consume them all to deal 125 (+ 6% maximum health) bonus physical damage on-hit and grant you permanent bonus health equal to「 10% of that amount 」 (30 (per target) second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with (1% maximum health) bonus health and 6% increased size.",
+        "cost": "3200",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 800,
+        "health-regeneration": 200,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/hextechrocketbelt.png",
+        "name": "hextech rocketbelt",
+        "desc": "UNIQUE – SUPERSONIC: Dash 125 to 275 units in the target direction, though not through terrain, unleashing an arc of 7 rockets in the same direction that deal 125 (+ 15% AP) magic damage to enemies hit. Afterwards, gain 30% bonus movement speed while facing nearby enemy champions for 1.5 seconds (40 second cooldown). Supersonic resets the user's basic attack timer. MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 magic penetration.",
+        "cost": "3200",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 90,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 6,
+
+        "health": 250,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/iceborngauntlet.png",
+        "name": "iceborn gauntlet",
+        "desc": "UNIQUE – SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals 100% base AD bonus physical damage on-hit and creates a 300 radius frost field for 2.5 seconds. Enemies within the field are slowed by (Melee role 15% / Ranged role 7.5%) (+ (Melee role 0.4% / Ranged role 0.2%) per 100 maximum health). Your primary target is slowed for double the amount and has their damage against you reduced by 10% for 2.5 seconds (1.5 (begins after using the empowered attack) second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with 50 bonus health and 5% tenacity and slow resistance.",
+        "cost": "3000",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 400,
+        "health-regeneration": 0,
+        "armor": 50,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/infinityedge.png",
+        "name": "infinity edge",
+        "desc": "MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 bonus attack damage.",
+        "cost": "3400",
+
+        "attack-damage": 65,
+        "attack-speed": 0,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 0,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/jakshotheprotean.png",
+        "name": "jak'sho, the protean",
+        "desc": "UNIQUE – VOIDBORN RESILIENCE: For each second in combat with champions, gain 2 bonus armor and bonus magic resistance for 6 seconds, stacking up to 8 times for a total of 16 bonus resistances. Upon reaching maximum stacks, instantly deal 80 (+ 7% bonus health) magic damage to enemy champions within 700 units and heal for the same amount for each target damaged. You then increase your bonus resistances by 20% until the end of combat. MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 armor and 5 magic resistance.",
+        "cost": "3200",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 400,
+        "health-regeneration": 0,
+        "armor": 30,
+        "magic-resistance": 30,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/liandrysanguish.png",
+        "name": "liandry's anguish",
+        "desc": "UNIQUE – TORMENT: Dealing ability damage burns enemies, causing them to take「 50 (+ 6% AP) (+ 4% of target's maximum health) total magic damage over 4 seconds, capped at 400 against monsters. 」 UNIQUE – AGONY: Deal 0% − 12% (based on target's bonus health) bonus magic damage against enemy champions. MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 ability haste.",
+        "cost": "3200",
+
+        "attack-damage": 80,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 600,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/locketoftheironsolari.png",
+        "name": "locket of the iron solari",
+        "desc": "UNIQUE – DEVOTION: Grants you and allied champions within Range center 850 units a shield for 200 − 360 (based on target's level) that decays over 2.5 seconds (90 second cooldown). UNIQUE – CONSECRATE: Grants allied champions (excluding yourself) within 850 units 3 bonus armor and 3 bonus magic resistance. MYTHIC PASSIVE: Empowers each of your other Legendary items with 2 bonus resistances for this item's passive effect, Consecrate.",
+        "cost": "2300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 30,
+        "magic-resistance": 30,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/ludenstempest.png",
+        "name": "luden's tempest",
+        "desc": "UNIQUE – ECHO: Dealing ability damage to an enemy deals 100 (+ 10% AP) additional magic damage to them and launches orbs at up to 3 other enemies within Range center 600 units around them, impacting after 0.528 seconds to deal the same damage to each, and grants you 15% bonus movement speed for 2 seconds. Dealing ability damage against champions reduces the cooldown of Echo by 0.5 seconds per champion, up to a maximum of 3 seconds per cast (10 second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 magic penetration.",
+        "cost": "3200",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 80,
+        "ability-haste": 20,
+        "mana": 600,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 6,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/moonstonerenewer.png",
+        "name": "moonstone renewer",
+        "desc": "UNIQUE – STARLIT GRACE: Healing or shielding an allied champion chains the effect to the other nearest allied champion within Range center 800 units of them (excluding yourself), granting them 35% of the heal or 40% of the shield. If no other allied champions are in the radius, grant the same target an additional 25% of the heal or 30% of the shield. MYTHIC PASSIVE: Empowers each of your other Legendary items with 5% heal and shield power.",
+        "cost": "2300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 35,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 100,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/navoriquickblades.png",
+        "name": "navori quickblades",
+        "desc": "UNIQUE – TRANSCENDENCE: Basic attacks on-attack reduce your basic abilities' current cooldowns by 15% of their remaining cooldowns. UNIQUE – IMPERMANENCE: Your ability damage and proc damage dealt by abilities is increased by 0% − 20% (based on critical strike chance). MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 bonus attack damage.",
+        "cost": "3400",
+
+        "attack-damage": 65,
+        "attack-speed": 0,
+        "critical-strike-chance": 20,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/nightharvester.png",
+        "name": "night harvester",
+        "desc": "UNIQUE – SOULREND: Damaging an enemy champion with a basic attack or ability damage deals 125 (+ 15% AP) bonus magic damage and grants you 25% bonus movement speed for 1.5 seconds, with the duration extending on subsequent triggers (30 (per champion) second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 ability haste.",
+        "cost": "3200",
+
+        "attack-damage": 90,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 25,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 300,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/radiantvirtue.png",
+        "name": "radiant virtue",
+        "desc": "UNIQUE – GUIDING LIGHT: Upon casting your ultimate, you Transcend for 9 seconds. While Transcended, increase your maximum health by 12.5% and cause you and all allies within Range center 1200 units to heal for 2.5% of your maximum health upon you Transcending and every 3 seconds thereafter (90 second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with 75 bonus health.",
+        "cost": "2700",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 10,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 350,
+        "health-regeneration": 0,
+        "armor": 30,
+        "magic-resistance": 30,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/riftmaker.png",
+        "name": "riftmaker",
+        "desc": "UNIQUE – VOID CORRUPTION: For each second in combat with champions, deal 3% increased damage, stacking up to 3 times for a total of 9%. While this effect is fully stacked, convert 100% of the increased damage into true damage. MYTHIC PASSIVE: Empowers each of your other Legendary items with 2% omnivamp and 8 ability power.",
+        "cost": "3200",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 70,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 7,
+        "magic-penetration": 0,
+
+        "health": 300,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/rodofages.png",
+        "name": "rod of ages",
+        "desc": "UNIQUE: This item gains 20 bonus health, 20 bonus mana, and 4 ability power every minute, up to 10 times, for a maximum of 200 bonus health, 200 bonus mana, and 40 ability power. Upon reaching maximum stacks, gain a level that preserves your current experience (cap remains at level 18) and increase all effects of Eternity by 50%. UNIQUE – ETERNITY: Restore mana equal to 7% of pre-mitigation damage taken from champions, and heal for an amount equal to 25% of mana spent, up to 20 per cast. Toggled abilities can only heal for up to 20 per second. For every 200 healing or mana restored this way, gain 35% bonus movement speed that decays over 3 seconds. MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 ability haste.",
+        "cost": "2800",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 60,
+        "ability-haste": 0,
+        "mana": 400,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 400,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/shurelyasbattlesong.png",
+        "name": "shurelya's battlesong",
+        "desc": "UNIQUE – INSPIRE: Grants you and all allies within 1000 units 30% bonus movement speed for 4 seconds (75 second cooldown). UNIQUE – MOTIVATE: Healing, shielding, or buffing allied champions (excluding yourself) grants you and them 20% bonus movement speed for 1.5 seconds (4 (per champion) second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 ability haste.",
+        "cost": "2300",
+
+        "attack-damage": 0,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 35,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 100,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 200,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/stridebreaker.png",
+        "name": "stridebreaker",
+        "desc": "UNIQUE – HALTING SLASH: Deal 175% base AD physical damage to enemies in a 450 radius centered around you and slow them by 40% for 3 seconds. Can move while casting (15 (reduced by ability haste) second cooldown). UNIQUE – HEROIC GAIT: Dealing physical damage grants you 20 bonus movement speed for 2 seconds. MYTHIC PASSIVE: Empowers each of your other Legendary items with 2% bonus movement speed.",
+        "cost": "3300",
+
+        "attack-damage": 60,
+        "attack-speed": 20,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 375,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/trinityforce.png",
+        "name": "trinity force",
+        "desc": "UNIQUE – THREEFOLD STRIKE: Basic attacks grant 20 bonus movement speed for 5 seconds and, if the target is a champion or a structure, increase base attack damage by 6% for the same duration, stacking up to 3 times for a 18% increase. Stacks expire by one every 0.5 seconds when the duration ends. UNIQUE – SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals 200% base AD bonus physical damage on-hit (1.5 (begins after using the empowered attack) second cooldown). MYTHIC PASSIVE: Empowers each of your other Legendary items with 3 bonus attack damage, 3 ability haste, and 3 bonus movement speed.",
+        "cost": "3333",
+
+        "attack-damage": 40,
+        "attack-speed": 33,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 0,
+
+        "ability-power": 0,
+        "ability-haste": 20,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 300,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    },
+    {
+        "icon": "assets/card/mythic/youmuusghostblade.png",
+        "name": "youmuu's ghostblade",
+        "desc": "UNIQUE – WRAITH STEP: Gain 25% bonus movement speed and ghosting for 6 seconds (45 second cooldown). UNIQUE – HAUNT: While moving, generate 1 Spectral Shard for every 55 units travelled. Gain 0.4 bonus movement speed while out-of-combat for every Spectral Shard, up to 40 bonus movement speed with 100 Spectral Shards. At maximum shards, also gain 7 − 18 (based on level) lethality. Dealing damage to an enemy champion causes Spectral Shards to reset after 3 seconds. MYTHIC PASSIVE: Empowers each of your other Legendary items with 7 bonus attack damage.",
+        "cost": "3100",
+
+        "attack-damage": 60,
+        "attack-speed": 0,
+        "critical-strike-chance": 0,
+        "life-steal": 0,
+        "armor-penetration": 0,
+        "lethality": 18,
+
+        "ability-power": 0,
+        "ability-haste": 15,
+        "mana": 0,
+        "mana-regeneration": 0,
+        "heal-and-shield-power": 0,
+        "omnivamp": 0,
+        "magic-penetration": 0,
+
+        "health": 0,
+        "health-regeneration": 0,
+        "armor": 0,
+        "magic-resistance": 0,
+
+        "movement-speed": 0
+    }
+]
