@@ -37,34 +37,34 @@
         "p-name": "fired up!",
         "p-desc": "Milio's abilities enchant allies on touch, making their next damage deal a burst of extra damage and burn the target.",
         "p-icon": "assets/champ/milio/Ability/p.png",
-        "p-vid": "assets/champ/milio/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0902/ability_0902_P1.webm"
     },
 
     {
         "q-name": "ultra mega fire kick",
         "q-desc": "Kick a ball that knocks back an enemy. The ball launches upward on hit and falls toward the enemy, damaging and slowing enemies in the area upon impact.",
         "q-icon": "assets/champ/milio/Ability/q.png",
-        "q-vid": "assets/champ/milio/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0902/ability_0902_Q1.webm"
     },
 
     {
         "w-name": "cozy campfire",
         "w-desc": "Create an empowering zone that heals allies and increases attack range to those inside. The zone follows the ally nearest to the cast point.",
         "w-icon": "assets/champ/milio/Ability/w.png",
-        "w-vid": "assets/champ/milio/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0902/ability_0902_W1.webm"
     },
 
     {
         "e-name": "warm hugs",
         "e-desc": "Milio tosses a shield to an ally, temporarily increasing their movement speed. This ability has 2 charges.",
         "e-icon": "assets/champ/milio/Ability/e.png",
-        "e-vid": "assets/champ/milio/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0902/ability_0902_E1.webm"
     },
 
     {
         "r-name": "breath of life",
         "r-desc": "Milio unleashes a wave of soothing flames that heal and remove crowd control effects from allies in range.",
         "r-icon": "assets/champ/milio/Ability/r.png",
-        "r-vid": "assets/champ/milio/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0902/ability_0902_R1.webm"
     }
 ]

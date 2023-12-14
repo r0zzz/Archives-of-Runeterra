@@ -37,34 +37,34 @@
         "p-name": "adaptive defenses",
         "p-desc": "Basic attacks on champions grant a shield equal to a percentage of Camille's maximum health against their damage type (Physical or Magic) for a brief duration.",
         "p-icon": "assets/champ/camille/Ability/p.png",
-        "p-vid": "assets/champ/camille/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0164/ability_0164_P1.webm"
     },
 
     {
         "q-name": "precision protocol",
         "q-desc": "Camille's next attack deals bonus damage and grants bonus Move Speed. This spell can be recast for a short period of time, doing significantly increased bonus damage if Camille delays a period of time between the two attacks.",
         "q-icon": "assets/champ/camille/Ability/q.png",
-        "q-vid": "assets/champ/camille/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0164/ability_0164_Q1.webm"
     },
 
     {
         "w-name": "tactical sweep",
         "w-desc": "Camille blasts in a cone after a delay, dealing damage. Enemies in the outer half are slowed and take extra damage, while also healing Camille.",
         "w-icon": "assets/champ/camille/Ability/w.png",
-        "w-vid": "assets/champ/camille/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0164/ability_0164_W1.webm"
     },
 
     {
         "e-name": "hookshot",
         "e-desc": "Camille pulls herself to a wall, leaping off and knocking up enemy champions upon landing.",
         "e-icon": "assets/champ/camille/Ability/e.png",
-        "e-vid": "assets/champ/camille/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0164/ability_0164_E1.webm"
     },
 
     {
         "r-name": "the hextech ultimatum",
         "r-desc": "Camille dashes to target champion, anchoring them to the area. She also deals bonus magic damage to the target with her basic attacks.",
         "r-icon": "assets/champ/camille/Ability/r.png",
-        "r-vid": "assets/champ/camille/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0164/ability_0164_R1.webm"
     }
 ]

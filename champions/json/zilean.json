@@ -37,34 +37,34 @@
         "p-name": "time in a bottle",
         "p-desc": "Zilean stores time as Experience and can grant it to his allies. When he has enough Experience to finish an ally's level up, he can right-click them to impart it. Zilean receives as much Experience as he gives.",
         "p-icon": "assets/champ/zilean/Ability/p.png",
-        "p-vid": "assets/champ/zilean/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0026/ability_0026_P1.webm"
     },
 
     {
         "q-name": "time bomb",
         "q-desc": "Tosses a bomb to target area that sticks to units that come near it (prioritizes Champions). It detonates after 3 seconds, dealing area of effect damage. If a Time Bomb is detonated early by another Time Bomb, it also stuns enemies.",
         "q-icon": "assets/champ/zilean/Ability/q.png",
-        "q-vid": "assets/champ/zilean/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0026/ability_0026_Q1.webm"
     },
 
     {
         "w-name": "rewind",
         "w-desc": "Zilean can prepare himself for future confrontations, reducing the cooldowns of his other basic abilities.",
         "w-icon": "assets/champ/zilean/Ability/w.png",
-        "w-vid": "assets/champ/zilean/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0026/ability_0026_W1.webm"
     },
 
     {
         "e-name": "time warp",
         "e-desc": "Zilean bends time around any unit, decreasing an enemy's Move Speed or increasing an ally's Move Speed for a short time.",
         "e-icon": "assets/champ/zilean/Ability/e.png",
-        "e-vid": "assets/champ/zilean/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0026/ability_0026_E1.webm"
     },
 
     {
         "r-name": "chronoshift",
         "r-desc": "Zilean places a protective time rune on an allied champion, teleporting the champion back in time if they take lethal damage.",
         "r-icon": "assets/champ/zilean/Ability/r.png",
-        "r-vid": "assets/champ/zilean/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0026/ability_0026_R1.webm"
     }
 ]

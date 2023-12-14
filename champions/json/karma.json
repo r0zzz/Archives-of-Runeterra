@@ -44,27 +44,27 @@
         "q-name": "inner flame",
         "q-desc": "Karma sends forth a ball of spirit energy that explodes and deals damage upon hitting an enemy unit. Mantra Bonus: In addition to the explosion, Mantra increases the destructive power of her Inner Flame, creating a cataclysm which deals damage after a short delay.",
         "q-icon": "assets/champ/karma/Ability/q.png",
-        "q-vid": "assets/champ/karma/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0043/ability_0043_Q1.webm"
     },
 
     {
         "w-name": "focused resolve",
         "w-desc": "Karma creates a tether between herself and a targeted enemy, dealing damage and revealing them. If the tether is not broken, the enemy will be rooted and damaged again. Mantra Bonus: Karma strengthens the link, healing herself and extending the root duration.",
         "w-icon": "assets/champ/karma/Ability/w.png",
-        "w-vid": "assets/champ/karma/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0043/ability_0043_W1.webm"
     },
 
     {
         "e-name": "inspire",
         "e-desc": "Karma summons a protective shield that absorbs incoming damage and increases the Move Speed of the protected ally. Mantra Bonus: Energy radiates out from her target, strengthening the initial shield and applying Inspire to nearby allied champions.",
         "e-icon": "assets/champ/karma/Ability/e.png",
-        "e-vid": "assets/champ/karma/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0043/ability_0043_E1.webm"
     },
 
     {
         "r-name": "mantra",
         "r-desc": "Karma empowers her next ability to do an additional effect. Mantra is available at level 1 and does not require a skill point.",
         "r-icon": "assets/champ/karma/Ability/r.png",
-        "r-vid": "assets/champ/karma/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0043/ability_0043_R1.webm"
     }
 ]

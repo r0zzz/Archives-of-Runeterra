@@ -44,27 +44,27 @@
         "q-name": "rapid fire",
         "q-desc": "Tristana fires her weapon rapidly, increasing her Attack Speed for a short time.",
         "q-icon": "assets/champ/tristana/Ability/q.png",
-        "q-vid": "assets/champ/tristana/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0018/ability_0018_Q1.webm"
     },
 
     {
         "w-name": "rocket jump",
         "w-desc": "Tristana fires at the ground to propel her to a distant location, dealing damage and slowing surrounding units for a brief period where she lands.",
         "w-icon": "assets/champ/tristana/Ability/w.png",
-        "w-vid": "assets/champ/tristana/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0018/ability_0018_W1.webm"
     },
 
     {
         "e-name": "explosive charge",
         "e-desc": "When Tristana kills a unit, her cannonballs burst into shrapnel, dealing damage to surrounding enemies. Can be activated to place a bomb on a target enemy that explodes after a short duration dealing damage to surrounding units.",
         "e-icon": "assets/champ/tristana/Ability/e.png",
-        "e-vid": "assets/champ/tristana/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0018/ability_0018_E1.webm"
     },
 
     {
         "r-name": "buster shot",
         "r-desc": "Tristana loads a massive cannonball into her weapon and fires it at an enemy unit. This deals Magic Damage and knocks the target back. If the target is carrying the Explosive Charge bomb, the bomb detonation radius is doubled.",
         "r-icon": "assets/champ/tristana/Ability/r.png",
-        "r-vid": "assets/champ/tristana/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0018/ability_0018_R1.webm"
     }
 ]

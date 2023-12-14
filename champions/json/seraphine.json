@@ -37,34 +37,34 @@
         "p-name": "stage presence",
         "p-desc": "Every third basic spell will cast twice from Seraphine. Additionally, casting spells near allies grants her bonus magic damage and range on her next basic attack.",
         "p-icon": "assets/champ/seraphine/Ability/p.png",
-        "p-vid": "assets/champ/seraphine/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0147/ability_0147_P1.webm"
     },
 
     {
         "q-name": "high note",
         "q-desc": "Seraphine deals damage in an area.",
         "q-icon": "assets/champ/seraphine/Ability/q.png",
-        "q-vid": "assets/champ/seraphine/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0147/ability_0147_Q1.webm"
     },
 
     {
         "w-name": "surround sound",
         "w-desc": "Seraphine Shields and Hastes nearby allies. If she is already Shielded she will Heal nearby allies as well.",
         "w-icon": "assets/champ/seraphine/Ability/w.png",
-        "w-vid": "assets/champ/seraphine/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0147/ability_0147_W1.webm"
     },
 
     {
         "e-name": "beat drop",
         "e-desc": "Seraphine deals damage and impairs the movement of enemies in a line.",
         "e-icon": "assets/champ/seraphine/Ability/e.png",
-        "e-vid": "assets/champ/seraphine/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0147/ability_0147_E1.webm"
     },
 
     {
         "r-name": "encore",
         "r-desc": "Seraphine deals damage and charms enemies hit, refreshing the range with every allied or enemy champion hit.",
         "r-icon": "assets/champ/seraphine/Ability/r.png",
-        "r-vid": "assets/champ/seraphine/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0147/ability_0147_R1.webm"
     }
 ]

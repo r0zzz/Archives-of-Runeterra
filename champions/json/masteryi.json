@@ -37,34 +37,34 @@
         "p-name": "double strike",
         "p-desc": "Every few consecutive basic attack, Master Yi strikes twice.",
         "p-icon": "assets/champ/masteryi/Ability/p.png",
-        "p-vid": "assets/champ/masteryi/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0011/ability_0011_P1.webm"
     },
 
     {
         "q-name": "alpha strike",
         "q-desc": "Master Yi teleports across the battlefield with blinding speed, dealing physical damage to multiple units in his path, while simultaneously becoming untargetable. Alpha Strike can critically strike and deals bonus physical damage to monsters. Basic attacks reduce Alpha Strike's cooldown.",
         "q-icon": "assets/champ/masteryi/Ability/q.png",
-        "q-vid": "assets/champ/masteryi/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0011/ability_0011_Q1.webm"
     },
 
     {
         "w-name": "meditate",
         "w-desc": "Master Yi rejuvenates his body by focus of mind, restoring Health and taking reduced damage for a short time. In addition, Master Yi will gain stacks of Double Strike and pause the remaining duration on Wuju Style and Highlander for each second he channels.",
         "w-icon": "assets/champ/masteryi/Ability/w.png",
-        "w-vid": "assets/champ/masteryi/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0011/ability_0011_W1.webm"
     },
 
     {
         "e-name": "wuju style",
         "e-desc": "Grants bonus true damage on basic attacks.",
         "e-icon": "assets/champ/masteryi/Ability/e.png",
-        "e-vid": "assets/champ/masteryi/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0011/ability_0011_E1.webm"
     },
 
     {
         "r-name": "highlander",
         "r-desc": "Master Yi moves with unparalleled agility, temporarily increasing his Move Speed and Attack Speed as well as making him immune to all slowing effects. While active, Champion kills or assists extend Highlander's duration. Passively reduces cooldown for his other abilities on a kill or assist.",
         "r-icon": "assets/champ/masteryi/Ability/r.png",
-        "r-vid": "assets/champ/masteryi/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0011/ability_0011_R1.webm"
     }
 ]

@@ -37,34 +37,34 @@
         "p-name": "death defied",
         "p-desc": "Upon dying, Karthus enters a spirit form that allows him to continue casting spells.",
         "p-icon": "assets/champ/karthus/Ability/p.png",
-        "p-vid": "assets/champ/karthus/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0030/ability_0030_P1.webm"
     },
 
     {
         "q-name": "lay waste",
         "q-desc": "Karthus unleashes a delayed blast at a location, dealing damage to nearby enemies. Deals increased damage to isolated enemies.",
         "q-icon": "assets/champ/karthus/Ability/q.png",
-        "q-vid": "assets/champ/karthus/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0030/ability_0030_Q1.webm"
     },
 
     {
         "w-name": "wall of pain",
         "w-desc": "Karthus creates a passable screen of leeching energy. Any enemy units that walk through the screen have their Move Speed and Magic Resist reduced for a period.",
         "w-icon": "assets/champ/karthus/Ability/w.png",
-        "w-vid": "assets/champ/karthus/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0030/ability_0030_W1.webm"
     },
 
     {
         "e-name": "defile",
         "e-desc": "Karthus passively steals energy from his victims, gaining Mana on each kill. Alternatively, Karthus can surround himself in the souls of his prey, dealing damage to nearby enemies, but quickly draining his own Mana.",
         "e-icon": "assets/champ/karthus/Ability/e.png",
-        "e-vid": "assets/champ/karthus/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0030/ability_0030_E1.webm"
     },
 
     {
         "r-name": "requiem",
         "r-desc": "After channeling for 3 seconds, Karthus deals damage to all enemy champions.",
         "r-icon": "assets/champ/karthus/Ability/r.png",
-        "r-vid": "assets/champ/karthus/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0030/ability_0030_R1.webm"
     }
 ]

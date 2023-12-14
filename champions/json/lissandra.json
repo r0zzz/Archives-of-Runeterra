@@ -37,34 +37,34 @@
         "p-name": "iceborn subjugation",
         "p-desc": "When an enemy champion dies near Lissandra they become a Frozen Thrall. Frozen Thralls slow nearby enemies and then, after a delay, shatter from the intense cold, dealing magic damage to nearby targets.",
         "p-icon": "assets/champ/lissandra/Ability/p.png",
-        "p-vid": "assets/champ/lissandra/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0127/ability_0127_P1.webm"
     },
 
     {
         "q-name": "ice shard",
         "q-desc": "Throws a spear of ice that shatters when it hits an enemy, dealing magic damage and slowing Move Speed. Shards pass through the target, dealing the same damage to other enemies hit.",
         "q-icon": "assets/champ/lissandra/Ability/q.png",
-        "q-vid": "assets/champ/lissandra/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0127/ability_0127_Q1.webm"
     },
 
     {
         "w-name": "ring of frost",
         "w-desc": "Freezes nearby enemies in ice, dealing magic damage and rooting them.",
         "w-icon": "assets/champ/lissandra/Ability/w.png",
-        "w-vid": "assets/champ/lissandra/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0127/ability_0127_W1.webm"
     },
 
     {
         "e-name": "glacial path",
         "e-desc": "Lissandra creates an ice claw that deals magic damage. Reactivating this ability transports Lissandra to the claw's current location.",
         "e-icon": "assets/champ/lissandra/Ability/e.png",
-        "e-vid": "assets/champ/lissandra/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0127/ability_0127_E1.webm"
     },
 
     {
         "r-name": "frozen tomb",
         "r-desc": "f cast on an enemy champion, the target is frozen solid, stunning it. If cast on Lissandra, she encases herself in dark ice, healing herself while becoming untargetable and invulnerable. Dark ice then emanates from the target dealing magic damage to enemies and slowing Move Speed.",
         "r-icon": "assets/champ/lissandra/Ability/r.png",
-        "r-vid": "assets/champ/lissandra/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0127/ability_0127_R1.webm"
     }
 ]

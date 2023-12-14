@@ -37,34 +37,34 @@
         "p-name": "rebirth",
         "p-desc": "Upon taking fatal damage, Anivia reverts to an egg and is reborn with full health.",
         "p-icon": "assets/champ/anivia/Ability/p.png",
-        "p-vid": "assets/champ/anivia/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_P1.webm"
     },
 
     {
         "q-name": "flash frost",
         "q-desc": "Anivia brings her wings together and summons a sphere of ice that flies towards her opponents, chilling and damaging anyone in its path. When the sphere explodes it does moderate damage in a radius, stunning anyone in the area.",
         "q-icon": "assets/champ/anivia/Ability/q.png",
-        "q-vid": "assets/champ/anivia/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_Q1.webm"
     },
 
     {
         "w-name": "crytallize",
         "w-desc": "Anivia condenses the moisture in the air into an impassable wall of ice to block all movement. The wall only lasts a short duration before it melts.",
         "w-icon": "assets/champ/anivia/Ability/w.png",
-        "w-vid": "assets/champ/anivia/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_W1.webm"
     },
 
     {
         "e-name": "frostbite",
         "e-desc": "With a flap of her wings, Anivia blasts a freezing gust of wind at her target, dealing damage. If the target was recently hit by Flash Frost or damaged by a fully formed Glacial Storm, the damage they take is doubled.",
         "e-icon": "assets/champ/anivia/Ability/e.png",
-        "e-vid": "assets/champ/anivia/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_E1.webm"
     },
 
     {
         "r-name": "glacial storm",
         "r-desc": "Anivia summons a driving rain of ice and hail to damage her enemies and slow their advance.",
         "r-icon": "assets/champ/anivia/Ability/r.png",
-        "r-vid": "assets/champ/anivia/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0034/ability_0034_R1.webm"
     }
 ]

@@ -37,34 +37,34 @@
         "p-name": "noxious slipstream",
         "p-desc": "Singed drafts off nearby champions, gaining a burst of Move Speed when passing them.",
         "p-icon": "assets/champ/singed/Ability/p.png",
-        "p-vid": "assets/champ/singed/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0027/ability_0027_P1.webm"
     },
 
     {
         "q-name": "poison trail",
         "q-desc": "Leaves a trail of poison behind Singed, dealing damage to enemies caught in the path.",
         "q-icon": "assets/champ/singed/Ability/q.png",
-        "q-vid": "assets/champ/singed/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0027/ability_0027_Q1.webm"
     },
 
     {
         "w-name": "mega adhesive",
         "w-desc": "Throws a vial of mega adhesive on the ground, slowing and grounding enemies who walk on it.",
         "w-icon": "assets/champ/singed/Ability/w.png",
-        "w-vid": "assets/champ/singed/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0027/ability_0027_W1.webm"
     },
 
     {
         "e-name": "fling",
         "e-desc": "Damages target enemy unit and flings them into the air behind Singed. If the target Singed flings lands in his Mega Adhesive, they are also rooted.",
         "e-icon": "assets/champ/singed/Ability/e.png",
-        "e-vid": "assets/champ/singed/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0027/ability_0027_E1.webm"
     },
 
     {
         "r-name": "insanity potion",
         "r-desc": "Singed drinks a potent brew of chemicals, granting him increased combat stats, and making his Poison Trail apply Grievous Wounds.",
         "r-icon": "assets/champ/singed/Ability/r.png",
-        "r-vid": "assets/champ/singed/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0027/ability_0027_R1.webm"
     }
 ]

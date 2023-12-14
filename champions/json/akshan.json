@@ -37,34 +37,34 @@
         "p-name": "dirty fighting",
         "p-desc": "Every three hits from Akshan's Attacks and Abilities deals bonus damage and grants him a Shield if the target was a champion. When Akshan Attacks, he fires an additional Attack for reduced damage. If he cancels the additional Attack, he instead gains Move Speed.",
         "p-icon": "assets/champ/akshan/Ability/p.png",
-        "p-vid": "assets/champ/akshan/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0166/ability_0166_P1.webm"
     },
 
     {
         "q-name": "avengerang",
         "q-desc": "Akshan throws a boomerang that deals damage going out and coming back, extending its range each time it hits an enemy.",
         "q-icon": "assets/champ/akshan/Ability/q.png",
-        "q-vid": "assets/champ/akshan/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0166/ability_0166_Q1.webm"
     },
 
     {
         "w-name": "going rogue",
         "w-desc": "Akshan passively marks enemy champions as Scoundrels when they kill his ally champions. If Akshan kills a Scoundrel, he resurrects the allies they killed, gains bonus gold, and clears all marks. When activated, Akshan enters camouflage and gains Move Speed and Mana Regen while moving towards Scoundrels. Akshan loses the camouflage quickly while he is not in brush or near terrain.",
         "w-icon": "assets/champ/akshan/Ability/w.png",
-        "w-vid": "assets/champ/akshan/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0166/ability_0166_W1.webm"
     },
 
     {
         "e-name": "heroic swing",
         "e-desc": "Akshan fires a grappling hook into terrain then swings around it, repeatedly firing at the nearest enemy while swinging. He can jump off early or gets knocked off when colliding with champions or terrain.",
         "e-icon": "assets/champ/akshan/Ability/e.png",
-        "e-vid": "assets/champ/akshan/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0166/ability_0166_E1.webm"
     },
 
     {
         "r-name": "comeuppance",
         "r-desc": "Akshan locks onto an enemy champion and starts storing bullets. When released, he fires all stored bullets, dealing damage based on missing health to the first champion, minion, or structure hit.",
         "r-icon": "assets/champ/akshan/Ability/r.png",
-        "r-vid": "assets/champ/akshan/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0166/ability_0166_R1.webm"
     }
 ]

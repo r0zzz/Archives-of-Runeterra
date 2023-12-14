@@ -37,34 +37,34 @@
         "p-name": "assassin's mark",
         "p-desc": "Dealing spell damage to a champion creates a ring of energy around them. Exiting that ring empowers Akali's next Attack with bonus range and damage.",
         "p-icon": "assets/champ/akali/Ability/p.png",
-        "p-vid": "assets/champ/akali/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_P1.webm"
     },
 
     {
         "q-name": "five point strike",
         "q-desc": "Akali throws out five kunai, dealing damage based on her bonus Attack Damage and Ability Power and slowing.",
         "q-icon": "assets/champ/akali/Ability/q.png",
-        "q-vid": "assets/champ/akali/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_Q1.webm"
     },
 
     {
         "w-name": "twilight shroud",
         "w-desc": "Akali drops a cover of smoke and briefly gains Move Speed. While inside the shroud, Akali becomes invisible and unable to be selected by enemy spells and attacks. Attacking or using abilities will briefly reveal her.",
         "w-icon": "assets/champ/akali/Ability/w.png",
-        "w-vid": "assets/champ/akali/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_W1.webm"
     },
 
     {
         "e-name": "shuriken flip",
         "e-desc": "Flip backward and fire a shuriken forward, dealing magic damage. The first enemy or smoke cloud hit is marked. Re-cast to dash to the marked target, dealing additional damage.",
         "e-icon": "assets/champ/akali/Ability/e.png",
-        "e-vid": "assets/champ/akali/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_E1.webm"
     },
 
     {
         "r-name": "perfect execution",
         "r-desc": "Akali leaps in a direction, damaging enemies she strikes. Re-cast: Akali dashes in a direction, executing all enemies she strikes.",
         "r-icon": "assets/champ/akali/Ability/r.png",
-        "r-vid": "assets/champ/akali/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0084/ability_0084_R1.webm"
     }
 ]

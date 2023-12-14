@@ -44,27 +44,27 @@
         "q-name": "baleful strike",
         "q-desc": "Veigar unleashes a bolt of dark energy that deals magic damage to the first two enemies hit. Units killed by this bolt grant Veigar some ability power permanently.",
         "q-icon": "assets/champ/veigar/Ability/q.png",
-        "q-vid": "assets/champ/veigar/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_Q1.webm"
     },
 
     {
         "w-name": "dark matter",
         "w-desc": "Veigar calls a great mass of dark matter to fall from the sky to the target location, dealing magic damage when it lands. Stacks of Phenomenal Evil reduce Dark Matter's cooldown.",
         "w-icon": "assets/champ/veigar/Ability/w.png",
-        "w-vid": "assets/champ/veigar/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_W1.webm"
     },
 
     {
         "e-name": "event horizon",
         "e-desc": "Veigar twists the edges of space, creating a cage that Stuns enemies that pass through.",
         "e-icon": "assets/champ/veigar/Ability/e.png",
-        "e-vid": "assets/champ/veigar/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_E1.webm"
     },
 
     {
         "r-name": "primordial burst",
         "r-desc": "Blasts target enemy champion, dealing a large amount of magic damage, increasing based on the target's missing health.",
         "r-icon": "assets/champ/veigar/Ability/r.png",
-        "r-vid": "assets/champ/veigar/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0045/ability_0045_R1.webm"
     }
 ]

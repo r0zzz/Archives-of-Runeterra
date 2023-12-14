@@ -37,34 +37,34 @@
         "p-name": "concussive blows",
         "p-desc": "Braum's basic attacks apply Concussive Blows. Once the first stack is applied, ally basic attacks also stack Concussive Blows. Upon reaching 4 stacks, the target is stunned and takes magic damage. For the next few seconds they cannot receive new stacks, but take bonus magic damage from Braum's attacks.",
         "p-icon": "assets/champ/braum/Ability/p.png",
-        "p-vid": "assets/champ/braum/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0201/ability_0201_P1.webm"
     },
 
     {
         "q-name": "winter's bite",
         "q-desc": "Braum propels freezing ice from his shield, slowing and dealing magic damage. Applies a stack of Concussive Blows.",
         "q-icon": "assets/champ/braum/Ability/q.png",
-        "q-vid": "assets/champ/braum/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0201/ability_0201_Q1.webm"
     },
 
     {
         "w-name": "stand behind me",
         "w-desc": "Braum leaps to a target allied champion or minion. On arrival, Braum and the ally gain Armor and Magic Resist for a few seconds.",
         "w-icon": "assets/champ/braum/Ability/w.png",
-        "w-vid": "assets/champ/braum/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0201/ability_0201_W1.webm"
     },
 
     {
         "e-name": "unbreakable",
         "e-desc": "Braum raises his shield in a direction for several seconds, intercepting all projectiles causing them to hit him and be destroyed. He negates the damage of the first attack completely and reduces the damage of all subsequent attacks from this direction.",
         "e-icon": "assets/champ/braum/Ability/e.png",
-        "e-vid": "assets/champ/braum/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0201/ability_0201_E1.webm"
     },
 
     {
         "r-name": "glacial fissure",
         "r-desc": "Braum slams the ground, knocking up enemies nearby and in a line in front of him. A fissure is left along the line that slows enemies.",
         "r-icon": "assets/champ/braum/Ability/r.png",
-        "r-vid": "assets/champ/braum/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0201/ability_0201_R1.webm"
     }
 ]

@@ -37,34 +37,34 @@
         "p-name": "whisper",
         "p-desc": "Jhin's hand cannon, Whisper, is a precise instrument designed to deal superior damage. It fires at a fixed rate and carries only four shots. Jhin imbues the final bullet with dark magics to critically strike and deal bonus execute damage. Whenever Whisper crits, it inspires Jhin with a burst of Move Speed.",
         "p-icon": "assets/champ/jhin/Ability/p.png",
-        "p-vid": "assets/champ/jhin/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0202/ability_0202_P1.webm"
     },
 
     {
         "q-name": "dancing grenade",
         "q-desc": "Jhin launches a magical cartridge at an enemy. It can hit up to four targets and gains damage each time it kills.",
         "q-icon": "assets/champ/jhin/Ability/q.png",
-        "q-vid": "assets/champ/jhin/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0202/ability_0202_Q1.webm"
     },
 
     {
         "w-name": "deadly flourish",
         "w-desc": "Jhin brandishes his cane, firing a single shot with incredible range. It pierces through minions and monsters, but stops on the first champion hit. If the target was recently struck by Jhin's allies, lotus traps, or damaged by Jhin, they are rooted.",
         "w-icon": "assets/champ/jhin/Ability/w.png",
-        "w-vid": "assets/champ/jhin/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0202/ability_0202_W1.webm"
     },
 
     {
         "e-name": "captive audience",
         "e-desc": "Jhin places an invisible lotus trap that blooms when walked over. It slows nearby enemies before dealing damage with an explosion of serrated petals. Beauty in Death - When Jhin kills an enemy champion, a lotus trap will bloom near their corpse.",
         "e-icon": "assets/champ/jhin/Ability/e.png",
-        "e-vid": "assets/champ/jhin/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0202/ability_0202_E1.webm"
     },
 
     {
         "r-name": "curtain call",
         "r-desc": "Jhin channels, transforming Whisper into a shoulder-mounted mega-cannon. It is able to fire 4 super shots at extreme range that pierce through minions and monsters, but stop on the first champion impacted. Whisper cripples enemies hit, which slows them and deals execute damage. The 4th shot is perfectly crafted, epically powerful, and guaranteed to critically strike.",
         "r-icon": "assets/champ/jhin/Ability/r.png",
-        "r-vid": "assets/champ/jhin/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0202/ability_0202_R1.webm"
     }
 ]

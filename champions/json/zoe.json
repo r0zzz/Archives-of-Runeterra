@@ -37,34 +37,34 @@
         "p-name": "more sparkles!",
         "p-desc": "Zoe's next basic attack after casting a spell deals bonus magic damage.",
         "p-icon": "assets/champ/zoe/Ability/p.png",
-        "p-vid": "assets/champ/zoe/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0142/ability_0142_P1.webm"
     },
 
     {
         "q-name": "paddle star!",
         "q-desc": "Zoe fires a missile that she can redirect in flight. Deals more damage the longer it flies in a straight line.",
         "q-icon": "assets/champ/zoe/Ability/q.png",
-        "q-vid": "assets/champ/zoe/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0142/ability_0142_Q1.webm"
     },
 
     {
         "w-name": "spell thief",
         "w-desc": "Zoe can pick up the remnants of enemy summoner spell and active item casts and cast them once herself. Whenever she casts a summoner spell, she gains 3 missiles that fire at the nearest target.",
         "w-icon": "assets/champ/zoe/Ability/w.png",
-        "w-vid": "assets/champ/zoe/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0142/ability_0142_W1.webm"
     },
 
     {
         "e-name": "sleepy trouble bubble",
         "e-desc": "Causes the target to become drowsy, then fall asleep. While asleep, the target's Magic Resist is reduced. The first source of damage that breaks the sleep is doubled, up to a cap.",
         "e-icon": "assets/champ/zoe/Ability/e.png",
-        "e-vid": "assets/champ/zoe/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0142/ability_0142_E1.webm"
     },
 
     {
         "r-name": "portal jump",
         "r-desc": "Blink to a nearby position for 1 second. Then blink back.",
         "r-icon": "assets/champ/zoe/Ability/r.png",
-        "r-vid": "assets/champ/zoe/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0142/ability_0142_R1.webm"
     }
 ]

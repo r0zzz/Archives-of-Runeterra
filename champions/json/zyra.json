@@ -37,34 +37,34 @@
         "p-name": "garden of thorns",
         "p-desc": "Seeds spawn around Zyra periodically, becoming faster with level. Zyra can cast Deadly Spines or Grasping Roots near seeds to grow plants, who fight for Zyra.",
         "p-icon": "assets/champ/zyra/Ability/p.png",
-        "p-vid": "assets/champ/zyra/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0143/ability_0143_P1.webm"
     },
 
     {
         "q-name": "deadly spines",
         "q-desc": "Thick vines spread through the ground and explode into spines, dealing magic damage to enemies within the area. If cast near a seed, Deadly Spines grows a Thorn Spitter plant, which fires at enemies from afar.",
         "q-icon": "assets/champ/zyra/Ability/q.png",
-        "q-vid": "assets/champ/zyra/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0143/ability_0143_Q1.webm"
     },
 
     {
         "w-name": "rampant growth",
         "w-desc": "Zyra plants a seed, lasting up to 60 seconds. Deadly Spines and Grasping Roots cast near seeds will turn them into plants who fight for Zyra. Zyra can store multiple seeds at once, and killing enemies reduces Rampant Growth's recharge time.",
         "w-icon": "assets/champ/zyra/Ability/w.png",
-        "w-vid": "assets/champ/zyra/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0143/ability_0143_W1.webm"
     },
 
     {
         "e-name": "grasping roots",
         "e-desc": "Zyra sends forth vines through the ground to ensnare her target, dealing damage and rooting enemies they come across. If cast near a seed, Grasping Roots grows a Vine Lasher, whose short range attacks reduce enemy Move Speed.",
         "e-icon": "assets/champ/zyra/Ability/e.png",
-        "e-vid": "assets/champ/zyra/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0143/ability_0143_E1.webm"
     },
 
     {
         "r-name": "stranglethorns",
         "r-desc": "Zyra summons a twisted thicket at her target location, dealing damage to enemies as it expands and knocking them airborne as it contracts. Plants within the thicket are enraged.",
         "r-icon": "assets/champ/zyra/Ability/r.png",
-        "r-vid": "assets/champ/zyra/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0143/ability_0143_R1.webm"
     }
 ]

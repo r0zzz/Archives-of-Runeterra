@@ -44,27 +44,27 @@
         "q-name": "rampage",
         "q-desc": "Hecarim cleaves nearby enemies dealing physical damage. If Hecarim damages at least one enemy, he increases the damage and lowers the cooldown of subsequent Rampages.",
         "q-icon": "assets/champ/hecarim/Ability/q.png",
-        "q-vid": "assets/champ/hecarim/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0120/ability_0120_Q1.webm"
     },
 
     {
         "w-name": "spirit of dread",
         "w-desc": "Hecarim gains Armor and Magic Resist. Hecarim deals magic damage to nearby enemies, and gains Health equal to a percentage of any damage those enemies suffer.",
         "w-icon": "assets/champ/hecarim/Ability/w.png",
-        "w-vid": "assets/champ/hecarim/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0120/ability_0120_W1.webm"
     },
 
     {
         "e-name": "devastating charge",
         "e-desc": "Hecarim gains increasing Move Speed and can move through units for a short duration. His next attack knocks the target back and deals additional physical damage based on the distance he has traveled since activating the ability.",
         "e-icon": "assets/champ/hecarim/Ability/e.png",
-        "e-vid": "assets/champ/hecarim/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0120/ability_0120_E1.webm"
     },
 
     {
         "r-name": "onslaught of shadows",
         "r-desc": "Hecarim summons spectral riders and charges forward, dealing magic damage in a line. Hecarim creates a shockwave when he finishes his charge, causing nearby enemies to flee in terror.",
         "r-icon": "assets/champ/hecarim/Ability/r.png",
-        "r-vid": "assets/champ/hecarim/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0120/ability_0120_R1.webm"
     }
 ]

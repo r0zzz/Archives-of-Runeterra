@@ -37,34 +37,34 @@
         "p-name": "prowl",
         "p-desc": "Moving through brush increases Nidalee's Move Speed by 10% for 2 seconds, increased to 30% toward visible enemy champions within 1400 range. Hitting champions or monsters with Javelin Toss or Bushwhack triggers a Hunt, granting True Sight of them for 4 seconds. During this time, Nidalee gains 10% Move Speed (increased to 30% toward the Hunted target) and her Takedown and Pounce are enhanced against them.",
         "p-icon": "assets/champ/nidalee/Ability/p.png",
-        "p-vid": "assets/champ/nidalee/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0076/ability_0076_P1.webm"
     },
 
     {
         "q-name": "javelin toss / takedown",
         "q-desc": "In human form, Nidalee throws a spiked javelin at her target that gains damage as it flies. As a cougar, her next attack will attempt to fatally wound her target, dealing more damage the less life they have.",
         "q-icon": "assets/champ/nidalee/Ability/q.png",
-        "q-vid": "assets/champ/nidalee/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0076/ability_0076_Q1.webm"
     },
 
     {
         "w-name": "bushwhack / pounce",
         "w-desc": "In human form, Nidalee lays a trap for unwary opponents that, when sprung, damages and reveals its target. As a cougar, she jumps in a direction, dealing damage in an area where she lands.",
         "w-icon": "assets/champ/nidalee/Ability/w.png",
-        "w-vid": "assets/champ/nidalee/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0076/ability_0076_W1.webm"
     },
 
     {
         "e-name": "primal surge / swipe",
         "e-desc": "In human form, Nidalee channels the spirit of the cougar to heal her allies and imbue them with Attack Speed for a short duration. As a cougar, she claws in a direction, dealing damage to enemies in front of her.",
         "e-icon": "assets/champ/nidalee/Ability/e.png",
-        "e-vid": "assets/champ/nidalee/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0076/ability_0076_E1.webm"
     },
 
     {
         "r-name": "aspect of the cougar",
         "r-desc": "Nidalee transforms into a cougar, gaining new abilities.",
         "r-icon": "assets/champ/nidalee/Ability/r.png",
-        "r-vid": "assets/champ/nidalee/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0076/ability_0076_R1.webm"
     }
 ]

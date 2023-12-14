@@ -37,34 +37,34 @@
         "p-name": "pyromania",
         "p-desc": "After casting 4 spells, Annie's next offensive spell will stun the target. Annie begins the game and respawns with Pyromania available.",
         "p-icon": "assets/champ/annie/Ability/p.png",
-        "p-vid": "assets/champ/annie/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0001/ability_0001_P1.webm"
     },
 
     {
         "q-name": "disintegrate",
         "q-desc": "Annie hurls a Mana infused fireball, dealing damage and refunding the Mana cost if it destroys the target.",
         "q-icon": "assets/champ/annie/Ability/q.png",
-        "q-vid": "assets/champ/annie/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0001/ability_0001_Q1.webm"
     },
 
     {
         "w-name": "incinerate",
         "w-desc": "Annie casts a blazing cone of fire, dealing damage to all enemies in the area.",
         "w-icon": "assets/champ/annie/Ability/w.png",
-        "w-vid": "assets/champ/annie/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0001/ability_0001_W1.webm"
     },
 
     {
         "e-name": "molten shield",
         "e-desc": "Grants Annie or an ally a shield, a burst of Move Speed, and damages enemies who strike her with attacks or spells.",
         "e-icon": "assets/champ/annie/Ability/e.png",
-        "e-vid": "assets/champ/annie/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0001/ability_0001_E1.webm"
     },
 
     {
         "r-name": "summon: tibbers",
         "r-desc": "Annie wills her bear Tibbers to life, dealing damage to units in the area. Tibbers can attack and also burns enemies that stand near him.",
         "r-icon": "assets/champ/annie/Ability/r.png",
-        "r-vid": "assets/champ/annie/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0001/ability_0001_R1.webm"
     }
 ]

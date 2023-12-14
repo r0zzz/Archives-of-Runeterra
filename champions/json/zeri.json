@@ -37,34 +37,34 @@
         "p-name": "living battery",
         "p-desc": "Zeri's Attacks deal magic damage and are treated as Abilities. Moving and casting Burst Fire stores up energy in Zeri's Sparkpack. When fully charged her next Attack deals bonus damage.",
         "p-icon": "assets/champ/zeri/Ability/p.png",
-        "p-vid": "assets/champ/zeri/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0221/ability_0221_P1.webm"
     },
 
     {
         "q-name": "burst fire",
         "q-desc": "Burst Fire shoots a burst of 7 rounds that deal attack damage to the first enemy hit. This Ability is treated as an Attack.",
         "q-icon": "assets/champ/zeri/Ability/q.png",
-        "q-vid": "assets/champ/zeri/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0221/ability_0221_Q1.webm"
     },
 
     {
         "w-name": "ultrashock laser",
         "w-desc": "Zeri fires an electric pulse that slows and damages the first enemy hit. If the pulse hits a wall it expands into a long range laser.",
         "w-icon": "assets/champ/zeri/Ability/w.png",
-        "w-vid": "assets/champ/zeri/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0221/ability_0221_W1.webm"
     },
 
     {
         "e-name": "spark surge",
         "e-desc": "Zeri dashes a short distance and energizes her next 3 shots of Burst Fire, causing them to pierce through enemies. She will vault and grind over any terrain she touches.",
         "e-icon": "assets/champ/zeri/Ability/e.png",
-        "e-vid": "assets/champ/zeri/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0221/ability_0221_E1.webm"
     },
 
     {
         "r-name": "lightning crash",
         "r-desc": "Zeri discharges a nova of electricity and overcharges herself, gaining increased damage and stacking Move Speed that refreshes and gets stronger every time she hits an enemy champion. While overcharged, Burst fire becomes a faster triple shot that chains lightning between enemies.",
         "r-icon": "assets/champ/zeri/Ability/r.png",
-        "r-vid": "assets/champ/zeri/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0221/ability_0221_R1.webm"
     }
 ]

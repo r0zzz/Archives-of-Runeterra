@@ -37,34 +37,34 @@
         "p-name": "way of the wanderer",
         "p-desc": "Yasuo's Critical Strike Chance is increased. Additionally, Yasuo builds toward a shield whenever he is moving. The shield triggers when he takes damage from a champion or monster.",
         "p-icon": "assets/champ/yasuo/Ability/p.png",
-        "p-vid": "assets/champ/yasuo/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0157/ability_0157_P1.webm"
     },
 
     {
         "q-name": "steel tempest",
         "q-desc": "Thrusts forward, damaging all enemies in a line. On hit, grants a stack of Gathering Storm for a few seconds. At 2 stacks, Steel Tempest fires a whirlwind that knocks Airborne. Steel Tempest is treated as a basic attack and scales with all the same things.",
         "q-icon": "assets/champ/yasuo/Ability/q.png",
-        "q-vid": "assets/champ/yasuo/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0157/ability_0157_Q1.webm"
     },
 
     {
         "w-name": "wind wall",
         "w-desc": "Creates a moving wall that blocks all enemy projectiles for 4 seconds.",
         "w-icon": "assets/champ/yasuo/Ability/w.png",
-        "w-vid": "assets/champ/yasuo/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0157/ability_0157_W1.webm"
     },
 
     {
         "e-name": "sweeping blade",
         "e-desc": "Dashes through target enemy, dealing magic damage. Each cast increases subsequent dash's damage, up to a max amount. Cannot be re-cast on the same enemy for a few seconds. If Steel Tempest is cast while dashing, it will strike as a circle.",
         "e-icon": "assets/champ/yasuo/Ability/e.png",
-        "e-vid": "assets/champ/yasuo/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0157/ability_0157_E1.webm"
     },
 
     {
         "r-name": "last breath",
         "r-desc": "Blinks to an Airborne enemy champion, dealing physical damage and holding all Airborne enemies in the area in the air. Grants maximum Flow but resets all stacks of Gathering Storm. For a moderate time afterwards, Yasuo's critical strikes gain significant Bonus Armor Penetration.",
         "r-icon": "assets/champ/yasuo/Ability/r.png",
-        "r-vid": "assets/champ/yasuo/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0157/ability_0157_R1.webm"
     }
 ]

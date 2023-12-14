@@ -37,34 +37,34 @@
         "p-name": "berserker rage",
         "p-desc": "Olaf gains Attack Speed and Life Steal based on his missing Health.",
         "p-icon": "assets/champ/olaf/Ability/p.png",
-        "p-vid": "assets/champ/olaf/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0002/ability_0002_P1.webm"
     },
 
     {
         "q-name": "undertow",
         "q-desc": "Olaf throws an axe into the ground at a target location, dealing damage to enemies it passes through and reducing their Armor and Move Speed. If Olaf picks up the axe, the ability's cooldown is reset.",
         "q-icon": "assets/champ/olaf/Ability/q.png",
-        "q-vid": "assets/champ/olaf/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0002/ability_0002_Q1.webm"
     },
 
     {
         "w-name": "tough it out",
         "w-desc": "Olaf's Attack Speed is increased, he reduces incoming damage, and he gains a Shield.",
         "w-icon": "assets/champ/olaf/Ability/w.png",
-        "w-vid": "assets/champ/olaf/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0002/ability_0002_W1.webm"
     },
 
     {
         "e-name": "reckless swing",
         "e-desc": "Olaf attacks with such force that it deals true damage to his target and himself, refunding the Health cost if he destroys the target.",
         "e-icon": "assets/champ/olaf/Ability/e.png",
-        "e-vid": "assets/champ/olaf/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0002/ability_0002_E1.webm"
     },
 
     {
         "r-name": "ragnarok",
         "r-desc": "Olaf passively gains increased armor and magic resist. He can activate this ability to become immune to disables for as long as he keeps attacking.",
         "r-icon": "assets/champ/olaf/Ability/r.png",
-        "r-vid": "assets/champ/olaf/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0002/ability_0002_R1.webm"
     }
 ]

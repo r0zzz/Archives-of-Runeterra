@@ -37,34 +37,34 @@
         "p-name": "an acquired taste",
         "p-desc": "Tahm Kench puts the heft of his immense body behind his attacks, gaining extra damage based on his total health. Damaging enemy champions builds stacks of An Acquired Taste. At three stacks, he can use Devour on an enemy champion.",
         "p-icon": "assets/champ/tahmkench'/Ability/p.png",
-        "p-vid": "assets/champ/tahmkench'/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0223/ability_0223_P1.webm"
     },
 
     {
         "q-name": "tongue lash",
         "q-desc": "Tahm Kench lashes out with his tongue, damaging and slowing the first unit hit and healing himself if he strikes an enemy champion. Applies a stack of An Acquired Taste to enemy champions. If the champion already has 3 stacks of An Acquired Taste, they are stunned and the stacks are consumed.",
         "q-icon": "assets/champ/tahmkench'/Ability/q.png",
-        "q-vid": "assets/champ/tahmkench'/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0223/ability_0223_Q1.webm"
     },
 
     {
         "w-name": "abyssal dive",
         "w-desc": "Dive down and then re-appear at target location, damaging and knocking up all enemies in an area.",
         "w-icon": "assets/champ/tahmkench'/Ability/w.png",
-        "w-vid": "assets/champ/tahmkench'/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0223/ability_0223_W1.webm"
     },
 
     {
         "e-name": "thick skin",
         "e-desc": "Passive: Tahm Kench stores a percent of the damage he takes and heals based on it while out of combat. Active: Convert all stored damage into a temporary shield.",
         "e-icon": "assets/champ/tahmkench'/Ability/e.png",
-        "e-vid": "assets/champ/tahmkench'/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0223/ability_0223_E1.webm"
     },
 
     {
         "r-name": "devour",
         "r-desc": "Tahm Kench devours a champion for a few seconds, dealing magic damage if they are an enemy, or shielding them if they are an ally.",
         "r-icon": "assets/champ/tahmkench'/Ability/r.png",
-        "r-vid": "assets/champ/tahmkench'/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0223/ability_0223_R1.webm"
     }
 ]

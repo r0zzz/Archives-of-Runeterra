@@ -37,34 +37,34 @@
         "p-name": "happy hour",
         "p-desc": "Gragas periodically heals upon using a skill.",
         "p-icon": "assets/champ/gragas/Ability/p.png",
-        "p-vid": "assets/champ/gragas/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0079/ability_0079_P1.webm"
     },
 
     {
         "q-name": "barrel roll",
         "q-desc": "Gragas rolls his cask to a location, which can be activated to explode or will explode on its own after 4 seconds. The potency of the explosion increases over time. Enemies struck by the blast have their Move Speed slowed.",
         "q-icon": "assets/champ/gragas/Ability/q.png",
-        "q-vid": "assets/champ/gragas/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0079/ability_0079_Q1.webm"
     },
 
     {
         "w-name": "drunken rage",
         "w-desc": "Gragas guzzles down brew from his cask for 1 second. After finishing, he becomes drunkenly empowered, dealing magic damage to all nearby enemies on his next basic attack and reducing damage received.",
         "w-icon": "assets/champ/gragas/Ability/w.png",
-        "w-vid": "assets/champ/gragas/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0079/ability_0079_W1.webm"
     },
 
     {
         "e-name": "body slam",
         "e-desc": "Gragas charges to a location and collides with the first enemy unit he comes across, dealing damage to all nearby enemy units and stunning them.",
         "e-icon": "assets/champ/gragas/Ability/e.png",
-        "e-vid": "assets/champ/gragas/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0079/ability_0079_E1.webm"
     },
 
     {
         "r-name": "explosive cask",
         "r-desc": "Gragas hurls his cask to a location, dealing damage and knocking back enemies caught in the blast radius.",
         "r-icon": "assets/champ/gragas/Ability/r.png",
-        "r-vid": "assets/champ/gragas/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0079/ability_0079_R1.webm"
     }
 ]

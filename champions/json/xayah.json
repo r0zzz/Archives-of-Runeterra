@@ -37,34 +37,34 @@
         "p-name": "clean cuts",
         "p-desc": "After using an ability, Xayah's next basic attacks will hit all targets along their path and leave a Feather.",
         "p-icon": "assets/champ/xayah/Ability/p.png",
-        "p-vid": "assets/champ/xayah/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0498/ability_0498_P1.webm"
     },
 
     {
         "q-name": "double daggers",
         "q-desc": "Xayah throws two damaging daggers that also drop Feathers she can recall.",
         "q-icon": "assets/champ/xayah/Ability/q.png",
-        "q-vid": "assets/champ/xayah/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0498/ability_0498_Q1.webm"
     },
 
     {
         "w-name": "deadly plumage",
         "w-desc": "Xayah creates a storm of blades that increase her Attack Speed and damage while also granting her Move Speed if she attacks a champion.",
         "w-icon": "assets/champ/xayah/Ability/w.png",
-        "w-vid": "assets/champ/xayah/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0498/ability_0498_W1.webm"
     },
 
     {
         "e-name": "bladecaller",
         "e-desc": "Xayah calls back all her dropped Feathers dealing damage and rooting enemies.",
         "e-icon": "assets/champ/xayah/Ability/e.png",
-        "e-vid": "assets/champ/xayah/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0498/ability_0498_E1.webm"
     },
 
     {
         "r-name": "featherstorm",
         "r-desc": "Xayah leaps into the air becoming untargetable and throwing out a fan of daggers, dropping Feathers she can recall.",
         "r-icon": "assets/champ/xayah/Ability/r.png",
-        "r-vid": "assets/champ/xayah/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0498/ability_0498_R1.webm"
     }
 ]

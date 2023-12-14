@@ -37,34 +37,34 @@
         "p-name": "void shift",
         "p-desc": "When he hasn't recently taken damage or been crowd controlled, Malzahar gains massive damage reduction and crowd control immunity, lingering for a short period after taking damage.",
         "p-icon": "assets/champ/malzahar/Ability/p.png",
-        "p-vid": "assets/champ/malzahar/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0090/ability_0090_P1.webm"
     },
 
     {
         "q-name": "call of the void",
         "q-desc": "Malzahar opens up two portals to the Void. After a short delay, they fire projectiles that deal Magic Damage and silence enemy champions.",
         "q-icon": "assets/champ/malzahar/Ability/q.png",
-        "q-vid": "assets/champ/malzahar/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0090/ability_0090_Q1.webm"
     },
 
     {
         "w-name": "void swarm",
         "w-desc": "Malzahar summons Voidlings to attack nearby enemies.",
         "w-icon": "assets/champ/malzahar/Ability/w.png",
-        "w-vid": "assets/champ/malzahar/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0090/ability_0090_W1.webm"
     },
 
     {
         "e-name": "malefic visions",
         "e-desc": "Malzahar infects his target's mind with cruel visions of their demise, dealing damage over time. Using Malzahar's other spells on the target will refresh the visions. If the target dies while afflicted by the visions, they pass on to a nearby enemy unit and Malzahar gains Mana. Malzahar's Voidlings are attracted to affected units.",
         "e-icon": "assets/champ/malzahar/Ability/e.png",
-        "e-vid": "assets/champ/malzahar/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0090/ability_0090_E1.webm"
     },
 
     {
         "r-name": "nether grasp",
         "r-desc": "Malzahar channels the essence of the Void to suppress an enemy champion over a zone of damaging negative energy.",
         "r-icon": "assets/champ/malzahar/Ability/r.png",
-        "r-vid": "assets/champ/malzahar/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0090/ability_0090_R1.webm"
     }
 ]

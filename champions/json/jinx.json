@@ -37,34 +37,34 @@
         "p-name": "get excited!",
         "p-desc": "Jinx receives massively increased Move Speed and Attack Speed whenever she helps kill or destroy an enemy champions epic jungle monster, or structure.",
         "p-icon": "assets/champ/jinx/Ability/p.png",
-        "p-vid": "assets/champ/jinx/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0222/ability_0222_P1.webm"
     },
 
     {
         "q-name": "switcheroo!",
         "q-desc": "Jinx modifies her basic attacks by swapping between Pow-Pow, her minigun and Fishbones, her rocket launcher. Attacks with Pow-Pow grant Attack Speed, while attacks with Fishbones deal area of effect damage, gain increased range, but drain Mana and attack slower.",
         "q-icon": "assets/champ/jinx/Ability/q.png",
-        "q-vid": "assets/champ/jinx/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0222/ability_0222_Q1.webm"
     },
 
     {
         "w-name": "zap!",
         "w-desc": "Jinx uses Zapper, her shock pistol, to fire a blast that deals damage to the first enemy hit, slowing and revealing it.",
         "w-icon": "assets/champ/jinx/Ability/w.png",
-        "w-vid": "assets/champ/jinx/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0222/ability_0222_W1.webm"
     },
 
     {
         "e-name": "flame chompers!",
         "e-desc": "Jinx throws out a line of snare grenades that explode after 5 seconds, lighting enemies on fire. Flame Chompers will bite enemy champions who walk over them, rooting them in place.",
         "e-icon": "assets/champ/jinx/Ability/e.png",
-        "e-vid": "assets/champ/jinx/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0222/ability_0222_E1.webm"
     },
 
     {
         "r-name": "super mega death rocket!",
         "r-desc": "Jinx fires a super rocket across the map that gains damage as it travels. The rocket will explode upon colliding with an enemy champion, dealing damage to it and surrounding enemies based on their missing Health.",
         "r-icon": "assets/champ/jinx/Ability/r.png",
-        "r-vid": "assets/champ/jinx/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0222/ability_0222_R1.webm"
     }
 ]

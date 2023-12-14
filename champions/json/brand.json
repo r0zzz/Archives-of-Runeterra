@@ -37,34 +37,34 @@
         "p-name": "blaze",
         "p-desc": "Brand's spells light his targets ablaze, dealing damage over 4 seconds, stacking up to 3 times. If Brand kills an enemy while it is ablaze he regains mana. When Blaze reaches max stacks on a Champion or large monster, it becomes unstable. It detonates in 2 seconds, applying spell effects and dealing massive damage in an area around the victim.",
         "p-icon": "assets/champ/brand/Ability/p.png",
-        "p-vid": "assets/champ/brand/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0063/ability_0063_P1.webm"
     },
 
     {
         "q-name": "sear",
         "q-desc": "Brand launches a ball of fire forward that deals magic damage. If the target is ablaze, Sear will stun the target for 1.5 seconds.",
         "q-icon": "assets/champ/brand/Ability/q.png",
-        "q-vid": "assets/champ/brand/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0063/ability_0063_Q1.webm"
     },
 
     {
         "w-name": "pillar of flame",
         "w-desc": "After a short delay, Brand creates a Pillar of Flame at a target area, dealing magic damage to enemy units within the area. Units that are ablaze take an additional 25% damage.",
         "w-icon": "assets/champ/brand/Ability/w.png",
-        "w-vid": "assets/champ/brand/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0063/ability_0063_W1.webm"
     },
 
     {
         "e-name": "conflagration",
         "e-desc": "Brand conjures a powerful blast at his target that spreads to nearby enemies, dealing magic damage. If the target is ablaze, Conflagration's spread is doubled.",
         "e-icon": "assets/champ/brand/Ability/e.png",
-        "e-vid": "assets/champ/brand/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0063/ability_0063_E1.webm"
     },
 
     {
         "r-name": "pyroclasm",
         "r-desc": "Brand unleashes a devastating torrent of fire that bounces up to 5 times off of Brand and nearby enemies, dealing magic damage to enemies each time bounce. Bounces prioritize stacking Blaze to max on Champions. If a target is ablaze, Pyroclasm will briefly slow them.",
         "r-icon": "assets/champ/brand/Ability/r.png",
-        "r-vid": "assets/champ/brand/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0063/ability_0063_R1.webm"
     }
 ]

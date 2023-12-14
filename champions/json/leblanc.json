@@ -37,34 +37,34 @@
         "p-name": "mirror image",
         "p-desc": "When LeBlanc drops below 40% Health, she becomes invisible for 1 second and creates a Mirror Image that deals no damage and lasts for up to 8 seconds.",
         "p-icon": "assets/champ/leblanc/Ability/p.png",
-        "p-vid": "assets/champ/leblanc/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0007/ability_0007_P1.webm"
     },
 
     {
         "q-name": "sigil of malice",
         "q-desc": "LeBlanc projects a sigil, dealing damage and marking the target for 3.5 seconds. Damaging the marked target with an ability detonates the sigil, dealing additional damage. If either part kills the target, Leblanc refunds the Mana cost and part of this spell's remaining Cooldown.",
         "q-icon": "assets/champ/leblanc/Ability/q.png",
-        "q-vid": "assets/champ/leblanc/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0007/ability_0007_Q1.webm"
     },
 
     {
         "w-name": "distortion",
         "w-desc": "LeBlanc dashes to a location, dealing damage to enemies near her destination. For the next 4 seconds, activate Distortion again to return LeBlanc to her starting location.",
         "w-icon": "assets/champ/leblanc/Ability/w.png",
-        "w-vid": "assets/champ/leblanc/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0007/ability_0007_W1.webm"
     },
 
     {
         "e-name": "ethereal chains",
         "e-desc": "LeBlanc launches a chain that shackles the first enemy hit. If the target remains shackled for 1.5 seconds, LeBlanc roots them and deals additional damage.",
         "e-icon": "assets/champ/leblanc/Ability/e.png",
-        "e-vid": "assets/champ/leblanc/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0007/ability_0007_E1.webm"
     },
 
     {
         "r-name": "mimic",
         "r-desc": "LeBlanc casts a mimicked version of one of her basic spells.",
         "r-icon": "assets/champ/leblanc/Ability/r.png",
-        "r-vid": "assets/champ/leblanc/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0007/ability_0007_R1.webm"
     }
 ]

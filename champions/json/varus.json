@@ -37,34 +37,34 @@
         "p-name": "living vengeance",
         "p-desc": "On kill or assist, Varus temporarily gains Attack Speed. This bonus is larger if the enemy is a champion.",
         "p-icon": "assets/champ/varus/Ability/p.png",
-        "p-vid": "assets/champ/varus/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0110/ability_0110_P1.webm"
     },
 
     {
         "q-name": "piercing arrow",
         "q-desc": "Varus readies and then fires a powerful shot that gains extra range and damage the longer he spends preparing to fire.",
         "q-icon": "assets/champ/varus/Ability/q.png",
-        "q-vid": "assets/champ/varus/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0110/ability_0110_Q1.webm"
     },
 
     {
         "w-name": "blighted quiver",
         "w-desc": "Passive: Varus' basic attacks deal bonus magic damage and apply Blight. Varus' other abilities detonate Blight, dealing magic damage based on the target's maximum Health. Active: Varus empowers his next Piercing Arrow.",
         "w-icon": "assets/champ/varus/Ability/w.png",
-        "w-vid": "assets/champ/varus/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0110/ability_0110_W1.webm"
     },
 
     {
         "e-name": "hail of arrows",
         "e-desc": "Varus fires a hail of arrows that deal physical damage and desecrate the ground. Desecrated ground slows enemies' Move Speed and reduces their self healing and regeneration.",
         "e-icon": "assets/champ/varus/Ability/e.png",
-        "e-vid": "assets/champ/varus/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0110/ability_0110_E1.webm"
     },
 
     {
         "r-name": "chain of corruption",
         "r-desc": "Varus flings out a damaging tendril of corruption that immobilizes the first enemy champion hit and then spreads towards nearby uninfected champions, immobilizing them too on contact.",
         "r-icon": "assets/champ/varus/Ability/r.png",
-        "r-vid": "assets/champ/varus/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0110/ability_0110_R1.webm"
     }
 ]

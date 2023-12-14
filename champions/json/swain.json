@@ -37,34 +37,34 @@
         "p-name": "ravenous flock",
         "p-desc": "Swain's ravens collect Soul Fragments that heal him and permanently increase his maximum health.",
         "p-icon": "assets/champ/swain/Ability/p.png",
-        "p-vid": "assets/champ/swain/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0050/ability_0050_P1.webm"
     },
 
     {
         "q-name": "death's hand",
         "q-desc": "Swain unleashes several bolts of eldritch power that pierce through enemies. Enemies hit take more damage for each bolt they are struck by.",
         "q-icon": "assets/champ/swain/Ability/q.png",
-        "q-vid": "assets/champ/swain/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0050/ability_0050_Q1.webm"
     },
 
     {
         "w-name": "vision of empire",
         "w-desc": "Swain opens a demon eye that deals damage and slows enemies. Champions hit are revealed and also grant Swain a Soul Fragment.",
         "w-icon": "assets/champ/swain/Ability/w.png",
-        "w-vid": "assets/champ/swain/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0050/ability_0050_W1.webm"
     },
 
     {
         "e-name": "nevermore",
         "e-desc": "Swain launches a wave of demonic power forward. It then returns to Swain and roots enemies it hits. Swain can then choose to pull all rooted champions closer. This ability has a shorter cooldown during Demonic Ascension.",
         "e-icon": "assets/champ/swain/Ability/e.png",
-        "e-vid": "assets/champ/swain/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0050/ability_0050_E1.webm"
     },
 
     {
         "r-name": "demonic ascension",
         "r-desc": "Swain transforms into a demon and drains health from nearby enemy champions, minions, and neutral monsters. Swain can cast Demonflare to decimate and slow nearby enemies with a nova of soulfire. This form is indefinite as long as Swain drains enemy champions.",
         "r-icon": "assets/champ/swain/Ability/r.png",
-        "r-vid": "assets/champ/swain/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0050/ability_0050_R1.webm"
     }
 ]

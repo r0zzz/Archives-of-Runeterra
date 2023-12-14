@@ -37,34 +37,34 @@
         "p-name": "arcane mastery",
         "p-desc": "Ryze's spells deal extra damage based on his Bonus Mana, and he gains a percentage increase to his maximum Mana based on his Ability Power.",
         "p-icon": "assets/champ/ryze/Ability/p.png",
-        "p-vid": "assets/champ/ryze/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0013/ability_0013_P1.mp4"
     },
 
     {
         "q-name": "overload",
         "q-desc": "Passively, Ryze's other basic abilities reset the cooldown of Overload and charge a rune. When Ryze casts Overload with 2 runes charged, he gains a brief burst of Move Speed. On cast, Ryze throws a charge of pure energy in a line, dealing damage to the first enemy struck. If the target has Flux on it, Overload deals extra damage and bounces to nearby enemies with Flux.",
         "q-icon": "assets/champ/ryze/Ability/q.png",
-        "q-vid": "assets/champ/ryze/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0013/ability_0013_Q1.mp4"
     },
 
     {
         "w-name": "rune prison",
         "w-desc": "Ryze traps a target in a cage of runes, damaging them and slowing their movement. If the target has Flux on it, they are instead rooted.",
         "w-icon": "assets/champ/ryze/Ability/w.png",
-        "w-vid": "assets/champ/ryze/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0013/ability_0013_W1.mp4"
     },
 
     {
         "e-name": "spell flux",
         "e-desc": "Ryze releases an orb of pure magical power that damages an enemy and debuffs all nearby enemies. Ryze's spells have additional effects against the debuffed enemy.",
         "e-icon": "assets/champ/ryze/Ability/e.png",
-        "e-vid": "assets/champ/ryze/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0013/ability_0013_E1.mp4"
     },
 
     {
         "r-name": "realm warp",
         "r-desc": "Passively, Overload deals even more damage against targets with Flux. On cast, Ryze creates a portal to a nearby location. After a few seconds, allies standing near the portal are teleported to the target location.",
         "r-icon": "assets/champ/ryze/Ability/r.png",
-        "r-vid": "assets/champ/ryze/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0013/ability_0013_R1.mp4"
     }
 ]

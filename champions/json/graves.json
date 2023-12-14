@@ -37,34 +37,34 @@
         "p-name": "new destiny",
         "p-desc": "Graves' shotgun has some unique properties. He must reload when he runs out of ammo. Attacks fire 4 bullets, which cannot pass through units. Non-champions struck by multiple bullets are knocked back.",
         "p-icon": "assets/champ/graves/Ability/p.png",
-        "p-vid": "assets/champ/graves/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0104/ability_0104_P1.webm"
     },
 
     {
         "q-name": "end of the line",
         "q-desc": "Graves fires an explosive shell that detonates after 2 seconds, or 0.2 seconds if it strikes terrain.",
         "q-icon": "assets/champ/graves/Ability/q.png",
-        "q-vid": "assets/champ/graves/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0104/ability_0104_Q1.webm"
     },
 
     {
         "w-name": "smoke screen",
         "w-desc": "Graves fires a smoke canister at the target area creating a cloud of smoke that reduces sight range. Enemies caught in the initial impact are dealt magic damage and have their Move Speed reduced briefly.",
         "w-icon": "assets/champ/graves/Ability/w.png",
-        "w-vid": "assets/champ/graves/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0104/ability_0104_W1.webm"
     },
 
     {
         "e-name": "quickdraw",
         "e-desc": "Graves dashes forward gaining an Armor boost for several seconds. If Graves dashes towards an enemy champion, gain two stacks of True Grit instead. Hitting enemies with basic attacks lowers the cooldown of this skill and refreshes the resistance boost.",
         "e-icon": "assets/champ/graves/Ability/e.png",
-        "e-vid": "assets/champ/graves/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0104/ability_0104_E1.webm"
     },
 
     {
         "r-name": "collateral damage",
         "r-desc": "Graves fires an explosive shell dealing heavy damage to the first champion it hits. After hitting a champion or reaching the end of its range, the shell explodes dealing damage in a cone.",
         "r-icon": "assets/champ/graves/Ability/r.png",
-        "r-vid": "assets/champ/graves/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0104/ability_0104_R1.webm"
     }
 ]

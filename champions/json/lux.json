@@ -37,34 +37,34 @@
         "p-name": "illumination",
         "p-desc": "Lux's damaging spells charge the target with energy for a few seconds. Lux's next attack ignites the energy, dealing bonus magic damage (depending on Lux's level) to the target.",
         "p-icon": "assets/champ/lux/Ability/p.png",
-        "p-vid": "assets/champ/lux/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0099/ability_0099_P1.webm"
     },
 
     {
         "q-name": "light binding",
         "q-desc": "Lux releases a sphere of light that binds and deals damage to up to two enemy units.",
         "q-icon": "assets/champ/lux/Ability/q.png",
-        "q-vid": "assets/champ/lux/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0099/ability_0099_Q1.webm"
     },
 
     {
         "w-name": "prismatic barrier",
         "w-desc": "Lux throws her wand and bends the light around any friendly target it touches, protecting them from enemy damage.",
         "w-icon": "assets/champ/lux/Ability/w.png",
-        "w-vid": "assets/champ/lux/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0099/ability_0099_W1.webm"
     },
 
     {
         "e-name": "lucent singularity",
         "e-desc": "Fires an anomaly of twisted light to an area, which slows nearby enemies. Lux can detonate it to damage enemies in the area of effect.",
         "e-icon": "assets/champ/lux/Ability/e.png",
-        "e-vid": "assets/champ/lux/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0099/ability_0099_E1.webm"
     },
 
     {
         "r-name": "final spark",
         "r-desc": "After gathering energy, Lux fires a beam of light that deals damage to all targets in the area. In addition, triggers Lux's passive ability and refreshes the Illumination debuff duration.",
         "r-icon": "assets/champ/lux/Ability/r.png",
-        "r-vid": "assets/champ/lux/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0099/ability_0099_R1.webm"
     }
 ]

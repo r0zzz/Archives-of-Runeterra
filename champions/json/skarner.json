@@ -37,34 +37,34 @@
         "p-name": "crystal spires",
         "p-desc": "Skarner's presence causes crystals to spawn in set locations around the map. Crystals can be captured by either team by standing close to them. When near crystals his team owns, Skarner gains Move Speed, attack speed, and increased mana regeneration.",
         "p-icon": "assets/champ/skarner/Ability/p.png",
-        "p-vid": "assets/champ/skarner/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0072/ability_0072_P1.webm"
     },
 
     {
         "q-name": "crystal slash",
         "q-desc": "Skarner lashes out with his claws, dealing physical damage to all nearby enemies and charging himself with Crystal Energy for several seconds if a unit is struck. If he casts Crystal Slash again while powered by Crystal Energy, he deals bonus magic damage.",
         "q-icon": "assets/champ/skarner/Ability/q.png",
-        "q-vid": "assets/champ/skarner/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0072/ability_0072_Q1.webm"
     },
 
     {
         "w-name": "crystalline exoskeleton",
         "w-desc": "Skarner gains a shield and has increased Move Speed while the shield persists.",
         "w-icon": "assets/champ/skarner/Ability/w.png",
-        "w-vid": "assets/champ/skarner/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0072/ability_0072_W1.webm"
     },
 
     {
         "e-name": "fracture",
         "e-desc": "Skarner summons a blast of crystalline energy which deals damage to enemies struck and slows them. Basic attacking these enemies within a short window will stun them.",
         "e-icon": "assets/champ/skarner/Ability/e.png",
-        "e-vid": "assets/champ/skarner/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0072/ability_0072_E1.webm"
     },
 
     {
         "r-name": "impale",
         "r-desc": "Skarner suppresses an enemy champion and deals damage to it. During this time, Skarner can move freely and will drag his helpless victim around with him. When the effect ends, the target will be dealt additional damage.",
         "r-icon": "assets/champ/skarner/Ability/r.png",
-        "r-vid": "assets/champ/skarner/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0072/ability_0072_R1.webm"
     }
 ]

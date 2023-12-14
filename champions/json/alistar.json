@@ -37,34 +37,34 @@
         "p-name": "triumphant roar",
         "p-desc": "Alistar charges his roar by stunning or displacing enemy champions or when nearby enemies die. When fully charged he heals himself all nearby allied champions.",
         "p-icon": "assets/champ/alistar/Ability/p.png",
-        "p-vid": "assets/champ/alistar/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_P1.webm"
     },
 
     {
         "q-name": "pulverize",
         "q-desc": "Alistar smashes the ground, dealing damage to nearby enemies and tossing them into the air.",
         "q-icon": "assets/champ/alistar/Ability/q.png",
-        "q-vid": "assets/champ/alistar/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_Q1.webm"
     },
 
     {
         "w-name": "headbutt",
         "w-desc": "Alistar rams a target with his head, dealing damage and knocking the target back.",
         "w-icon": "assets/champ/alistar/Ability/w.png",
-        "w-vid": "assets/champ/alistar/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_W1.webm"
     },
 
     {
         "e-name": "trample",
         "e-desc": "Alistar tramples nearby enemy units, ignoring unit collision and gaining stacks if he damages an enemy champion. At full stacks Alistar's next basic attack against an enemy champion deals additional magic damage and stuns them.",
         "e-icon": "assets/champ/alistar/Ability/e.png",
-        "e-vid": "assets/champ/alistar/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_E1.webm"
     },
 
     {
         "r-name": "unbreakable will",
         "r-desc": "Alistar lets out a wild roar, removing all crowd control effects on himself, and reducing incoming physical and magical damage for the duration.",
         "r-icon": "assets/champ/alistar/Ability/r.png",
-        "r-vid": "assets/champ/alistar/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0012/ability_0012_R1.webm"
     }
 ]

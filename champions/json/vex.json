@@ -37,34 +37,34 @@
         "p-name": "doom 'n gloom",
         "p-desc": "Vex periodically becomes empowered, causing her next basic Ability to fear enemies and interrupt dashes. Whenever a nearby enemy dashes, Vex applies a mark that can be consumed for bonus damage that also reduces the cooldown of her empowered state.",
         "p-icon": "assets/champ/vex/Ability/p.png",
-        "p-vid": "assets/champ/vex/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_P1.webm"
     },
 
     {
         "q-name": "mistral bolt",
         "q-desc": "Launch a damaging missile that accelerates mid-flight.",
         "q-icon": "assets/champ/vex/Ability/q.png",
-        "q-vid": "assets/champ/vex/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_Q1.webm"
     },
 
     {
         "w-name": "personal space",
         "w-desc": "Gain a shield and damage nearby enemies.",
         "w-icon": "assets/champ/vex/Ability/w.png",
-        "w-vid": "assets/champ/vex/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_W1.webm"
     },
 
     {
         "e-name": "looming darkness",
         "e-desc": "Summon a damaging and slowing zone that applies Gloom to enemies.",
         "e-icon": "assets/champ/vex/Ability/e.png",
-        "e-vid": "assets/champ/vex/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_E1.webm"
     },
 
     {
         "r-name": "shadow surge",
         "r-desc": "Fire a missile that marks an enemy champion. Recast to dash to them and deal damage.",
         "r-icon": "assets/champ/vex/Ability/r.png",
-        "r-vid": "assets/champ/vex/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0711/ability_0711_R1.webm"
     }
 ]

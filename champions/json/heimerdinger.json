@@ -44,27 +44,27 @@
         "q-name": "h-28 evolution turret",
         "q-desc": "Heimerdinger lays down a rapid-fire cannon turret equipped with a secondary pass-through beam attack (turrets deal half damage to towers).",
         "q-icon": "assets/champ/heimerdinger/Ability/q.png",
-        "q-vid": "assets/champ/heimerdinger/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0074/ability_0074_Q1.webm"
     },
 
     {
         "w-name": "hextech micro-rockets",
         "w-desc": "Heimerdinger fires long-range rockets that converge on his cursor.",
         "w-icon": "assets/champ/heimerdinger/Ability/w.png",
-        "w-vid": "assets/champ/heimerdinger/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0074/ability_0074_W1.webm"
     },
 
     {
         "e-name": "ch-2 electron storm grenade",
         "e-desc": "Heimerdinger lobs a grenade at a location, dealing damage to enemy units, as well as stunning anyone directly hit and slowing surrounding units.",
         "e-icon": "assets/champ/heimerdinger/Ability/e.png",
-        "e-vid": "assets/champ/heimerdinger/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0074/ability_0074_E1.webm"
     },
 
     {
         "r-name": "upgrade!!!",
         "r-desc": "Heimerdinger invents an upgrade, causing his next spell to have increased effects.",
         "r-icon": "assets/champ/heimerdinger/Ability/r.png",
-        "r-vid": "assets/champ/heimerdinger/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0074/ability_0074_R1.webm"
     }
 ]

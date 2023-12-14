@@ -37,34 +37,34 @@
         "p-name": "salvation",
         "p-desc": "Soraka runs faster towards nearby low health allies.",
         "p-icon": "assets/champ/soraka/Ability/p.png",
-        "p-vid": "assets/champ/soraka/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0016/ability_0016_P1.webm"
     },
 
     {
         "q-name": "starcall",
         "q-desc": "A star falls from the sky at the target location dealing magic damage and slowing enemies. If an enemy champion is hit by Starcall, Soraka recovers Health.",
         "q-icon": "assets/champ/soraka/Ability/q.png",
-        "q-vid": "assets/champ/soraka/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0016/ability_0016_Q1.webm"
     },
 
     {
         "w-name": "astral infusion",
         "w-desc": "Soraka sacrifices a portion of her own health to heal another friendly champion.",
         "w-icon": "assets/champ/soraka/Ability/w.png",
-        "w-vid": "assets/champ/soraka/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0016/ability_0016_W1.webm"
     },
 
     {
         "e-name": "equinox",
         "e-desc": "Creates a zone at a location that silences all enemies inside. When the zone expires, all enemies still inside are rooted.",
         "e-icon": "assets/champ/soraka/Ability/e.png",
-        "e-vid": "assets/champ/soraka/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0016/ability_0016_E1.webm"
     },
 
     {
         "r-name": "wish",
         "r-desc": "Soraka fills her allies with hope, instantly restoring health to herself and all allied champions.",
         "r-icon": "assets/champ/soraka/Ability/r.png",
-        "r-vid": "assets/champ/soraka/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0016/ability_0016_R1.webm"
     }
 ]

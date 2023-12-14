@@ -36,34 +36,34 @@
         "p-name": "moonsilver blade",
         "p-desc": "Every third strike cleaves nearby enemies for an additional magic damage. After casting a spell, Diana gains Attack Speed for her next 3 attacks.",
         "p-icon": "assets/champ/diana/Ability/p.png",
-        "p-vid": "assets/champ/diana/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0131/ability_0131_P1.webm"
     },
 
     {
         "q-name": "crescent strike",
         "q-desc": "Unleashes a bolt of lunar energy in an arc dealing magic damage. Afflicts enemies struck with Moonlight, revealing them if they are not stealthed for 3 seconds.",
         "q-icon": "assets/champ/diana/Ability/q.png",
-        "q-vid": "assets/champ/diana/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0131/ability_0131_Q1.webm"
     },
 
     {
         "w-name": "pale cascade",
         "w-desc": "Diana creates three orbiting spheres that detonate on contact with enemies to deal damage in an area. She also gains a temporary shield that absorbs damage. If her third sphere detonates, the shield gains additional strength.",
         "w-icon": "assets/champ/diana/Ability/w.png",
-        "w-vid": "assets/champ/diana/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0131/ability_0131_W1.webm"
     },
 
     {
         "e-name": "lunar rush",
         "e-desc": "Becomes the living embodiment of the vengeful moon, dashing to an enemy and dealing magic damage. Lunar Rush has no cooldown when used to dash to an enemy afflicted with Moonlight. All other enemies will have the Moonlight debuff removed regardless of whether they were the target of Lunar Rush.",
         "e-icon": "assets/champ/diana/Ability/e.png",
-        "e-vid": "assets/champ/diana/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0131/ability_0131_E1.webm"
     },
 
     {
         "r-name": "moonfall",
         "r-desc": "Diana reveals and draws in all nearby enemies and slows them. If Diana pulls in one or more enemy champions, the moonlight crashes down onto her after a short delay, dealing magic damage in an area around her, increased for each target beyond the first pulled.",
         "r-icon": "assets/champ/diana/Ability/r.png",
-        "r-vid": "assets/champ/diana/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0131/ability_0131_R1.webm"
     }
 ]

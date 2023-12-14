@@ -37,34 +37,34 @@
         "p-name": "unseen threat",
         "p-desc": "Nearby enemies that are Isolated from their allies are marked. Kha'Zix's abilities have interactions with Isolated targets. When Kha'Zix is not visible to the enemy team, he gains Unseen Threat, causing his next basic attack against an enemy champion to deal bonus magic damage and slow them for a few seconds.",
         "p-icon": "assets/champ/khazix/Ability/p.png",
-        "p-vid": "assets/champ/khazix/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0121/ability_0121_P1.webm"
     },
 
     {
         "q-name": "taste their fear",
         "q-desc": "Deals physical damage to the target. Damage increased on Isolated targets. If he chooses to Evolve Reaper Claws, this refunds a percent of it's cooldown against Isolated targets. Kha'Zix also gains increased range on his basic attacks and Taste Their Fear.",
         "q-icon": "assets/champ/khazix/Ability/q.png",
-        "q-vid": "assets/champ/khazix/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0121/ability_0121_Q1.webm"
     },
 
     {
         "w-name": "void spike",
         "w-desc": "Kha'Zix fires exploding spikes that deal physical damage to enemies hit. Kha'Zix is healed if he is also within the explosion radius. If he chooses to Evolve Spike Racks, Void Spike now fires three spikes in a cone, slow enemies hit, and reveals enemy champions hit for 2 seconds. Isolated targets are slowed for extra.",
         "w-icon": "assets/champ/khazix/Ability/w.png",
-        "w-vid": "assets/champ/khazix/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0121/ability_0121_W1.webm"
     },
 
     {
         "e-name": "leap",
         "e-desc": "Kha'Zix leaps to an area, dealing physical damage upon landing. If he chooses to Evolve Wings, Leap's range increases by 200 and the cooldown resets on champion kill or assist.",
         "e-icon": "assets/champ/khazix/Ability/e.png",
-        "e-vid": "assets/champ/khazix/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0121/ability_0121_E1.webm"
     },
 
     {
         "r-name": "void assault",
         "r-desc": "Each rank allows Kha'Zix to evolve one of his abilities, giving it a unique additional effect. When activated, Kha'Zix becomes Invisible, triggering Unseen Threat and increasing Move Speed. If he chooses to Evolve Adaptive Cloaking, Void Assault gains increased Invisibility duration, and an additional use.",
         "r-icon": "assets/champ/khazix/Ability/r.png",
-        "r-vid": "assets/champ/khazix/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0121/ability_0121_R1.webm"
     }
 ]

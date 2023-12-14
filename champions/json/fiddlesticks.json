@@ -37,34 +37,34 @@
         "p-name": "a harmless scarecrow",
         "p-desc": "Fiddlesticks' trinket is replaced by scarecrow effigies.",
         "p-icon": "assets/champ/fiddlesticks/Ability/p.png",
-        "p-vid": "assets/champ/fiddlesticks/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_P1.webm"
     },
 
     {
         "q-name": "terrify",
         "q-desc": "Fiddlesticks damaging enemies with spells while unseen or targeting an enemy with Terrify's activation strikes a target unit with fear, causing it to flee in terror for a duration.",
         "q-icon": "assets/champ/fiddlesticks/Ability/q.png",
-        "q-vid": "assets/champ/fiddlesticks/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_Q1.webm"
     },
 
     {
         "w-name": "bountiful harvest",
         "w-desc": "Fiddlesticks drains health from nearby enemies, dealing bonus execute damage at the end of the duration.",
         "w-icon": "assets/champ/fiddlesticks/Ability/w.png",
-        "w-vid": "assets/champ/fiddlesticks/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_W1.webm"
     },
 
     {
         "e-name": "reap",
         "e-desc": "Fiddlesticks slashes an area with its scythe, slowing all enemies hit and silencing enemies hit in the center of the slash.",
         "e-icon": "assets/champ/fiddlesticks/Ability/e.png",
-        "e-vid": "assets/champ/fiddlesticks/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_E1.webm"
     },
 
     {
         "r-name": "crowstorm",
         "r-desc": "A murder of crows flock wildly around Fiddlesticks, dealing damage per second to all enemy units in the area.",
         "r-icon": "assets/champ/fiddlesticks/Ability/r.png",
-        "r-vid": "assets/champ/fiddlesticks/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0009/ability_0009_R1.webm"
     }
 ]

@@ -44,27 +44,27 @@
         "q-name": "null sphere",
         "q-desc": "Kassadin fires an orb of void energy at a target, dealing damage and interrupting channels. The excess energy forms around himself, granting a temporary shield that absorbs magic damage.",
         "q-icon": "assets/champ/kassadin/Ability/q.png",
-        "q-vid": "assets/champ/kassadin/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0038/ability_0038_Q1.webm"
     },
 
     {
         "w-name": "nether blade",
         "w-desc": "Passive: Kassadin's basic attacks deal bonus magic damage. Active: Kassadin's next basic attack deals significant bonus magic damage and restores Mana.",
         "w-icon": "assets/champ/kassadin/Ability/w.png",
-        "w-vid": "assets/champ/kassadin/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0038/ability_0038_W1.webm"
     },
 
     {
         "e-name": "force pulse",
         "e-desc": "Kassadin draws energy from spells cast in his vicinity. Upon charging up, Kassadin can use Force Pulse to damage and slow enemies in a cone in front of him.",
         "e-icon": "assets/champ/kassadin/Ability/e.png",
-        "e-vid": "assets/champ/kassadin/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0038/ability_0038_E1.webm"
     },
 
     {
         "r-name": "riftwalk",
         "r-desc": "Kassadin teleports to a nearby location dealing damage to nearby enemy units. Multiple Riftwalks in a short period of time cost additional Mana but also deal additional damage.",
         "r-icon": "assets/champ/kassadin/Ability/r.png",
-        "r-vid": "assets/champ/kassadin/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0038/ability_0038_R1.webm"
     }
 ]

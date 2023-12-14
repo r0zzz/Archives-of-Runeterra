@@ -37,34 +37,34 @@
         "p-name": "reign of anger",
         "p-desc": "Renekton's attacks generate Fury, increased when he is low on life. This Fury can empower his abilities with bonus effects.",
         "p-icon": "assets/champ/renekton/Ability/p.png",
-        "p-vid": "assets/champ/renekton/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0058/ability_0058_P1.webm"
     },
 
     {
         "q-name": "cull the meek",
         "q-desc": "Renekton swings his blade, dealing moderate physical damage to all targets around him, and heals for a small portion of the damage dealt. If he has more than 50 Fury, his damage and heal are increased.",
         "q-icon": "assets/champ/renekton/Ability/q.png",
-        "q-vid": "assets/champ/renekton/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0058/ability_0058_Q1.webm"
     },
 
     {
         "w-name": "ruthless predator",
         "w-desc": "Renekton slashes his target twice, dealing moderate physical damage and stuns them for 0.75 seconds. If Renekton has more than 50 Fury, he slashes his target three times, destroying damage shields on the target, dealing high physical damage, and stunning them for 1.5 seconds.",
         "w-icon": "assets/champ/renekton/Ability/w.png",
-        "w-vid": "assets/champ/renekton/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0058/ability_0058_W1.webm"
     },
 
     {
         "e-name": "slice and dice",
         "e-desc": "Renekton dashes, dealing damage to units along the way. Empowered, Renekton deals bonus damage and reduces the Armor of units hit.",
         "e-icon": "assets/champ/renekton/Ability/e.png",
-        "e-vid": "assets/champ/renekton/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0058/ability_0058_E1.webm"
     },
 
     {
         "r-name": "dominus",
         "r-desc": "Renekton transforms into the Tyrant form, gaining bonus Health and dealing damage to enemies around him. While in this form, Renekton gains Fury periodically.",
         "r-icon": "assets/champ/renekton/Ability/r.png",
-        "r-vid": "assets/champ/renekton/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0058/ability_0058_R1.webm"
     }
 ]

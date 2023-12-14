@@ -44,27 +44,27 @@
         "q-name": "transfusion",
         "q-desc": "Vladimir steals life from the target enemy. When Vladimir's resource is full, Transfusion will benefit from massively increased damage and healing for a brief time.",
         "q-icon": "assets/champ/vladimir/Ability/q.png",
-        "q-vid": "assets/champ/vladimir/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0008/ability_0008_Q1.webm"
     },
 
     {
         "w-name": "sanguine pool",
         "w-desc": "Vladimir sinks into a pool of blood, becoming untargetable for 2 seconds. Additionally, enemies on the pool are slowed and Vladimir siphons life from them.",
         "w-icon": "assets/champ/vladimir/Ability/w.png",
-        "w-vid": "assets/champ/vladimir/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0008/ability_0008_W1.webm"
     },
 
     {
         "e-name": "tides of blood",
         "e-desc": "Vladimir pays his own health to charge up a reservoir of blood which, when released, deals damage in the area around him but can be blocked by enemy units.",
         "e-icon": "assets/champ/vladimir/Ability/e.png",
-        "e-vid": "assets/champ/vladimir/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0008/ability_0008_E1.webm"
     },
 
     {
         "r-name": "hemoplague",
         "r-desc": "Vladimir infects an area with a virulent plague. Affected enemies take increased damage for the duration. After a few seconds, Hemoplague deals magic damage to infected enemies and heals Vladimir for each enemy Champion hit.",
         "r-icon": "assets/champ/vladimir/Ability/r.png",
-        "r-vid": "assets/champ/vladimir/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0008/ability_0008_R1.webm"
     }
 ]

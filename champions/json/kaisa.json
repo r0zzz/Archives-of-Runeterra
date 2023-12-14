@@ -37,34 +37,34 @@
         "p-name": "second skin",
         "p-desc": "Kai'Sa's basic attacks stack Plasma, dealing increasing bonus magic damage. Allies' immobilizing effects help stack Plasma. Additionally, Kai'Sa's item purchases upgrade her basic spells to have more powerful properties.",
         "p-icon": "assets/champ/kaisa/Ability/p.png",
-        "p-vid": "assets/champ/kaisa/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0145/ability_0145_P1.webm"
     },
 
     {
         "q-name": "icathian rain",
         "q-desc": "Kai'Sa shoots a swarm of missiles that seek out nearby targets. Living Weapon: Icathian Rain is upgraded to shoot more missiles.",
         "q-icon": "assets/champ/kaisa/Ability/q.png",
-        "q-vid": "assets/champ/kaisa/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0145/ability_0145_Q1.webm"
     },
 
     {
         "w-name": "void seeker",
         "w-desc": "Kai'Sa shoots a long range missile, marking enemies with her passive. Living Weapon: Void Seeker is upgraded to apply more passive marks and reduce cooldown on champion hit.",
         "w-icon": "assets/champ/kaisa/Ability/w.png",
-        "w-vid": "assets/champ/kaisa/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0145/ability_0145_W1.webm"
     },
 
     {
         "e-name": "supercharge",
         "e-desc": "Kai'Sa briefly increases her Move Speed, then increases her Attack Speed. Living Weapon: Supercharge is upgraded to briefly grant Invisibility.",
         "e-icon": "assets/champ/kaisa/Ability/e.png",
-        "e-vid": "assets/champ/kaisa/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0145/ability_0145_E1.webm"
     },
 
     {
         "r-name": "killer instinct",
         "r-desc": "Kai'Sa dashes near an enemy champion.",
         "r-icon": "assets/champ/kaisa/Ability/r.png",
-        "r-vid": "assets/champ/kaisa/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0145/ability_0145_R1.webm"
     }
 ]

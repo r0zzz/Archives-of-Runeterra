@@ -37,34 +37,34 @@
         "p-name": "living forge",
         "p-desc": "Ornn gains an additional bonus Armor and Magic Resistance from all sources. Ornn can spend gold to forge non-consumable items anywhere. Additionally, he can create masterwork items for himself and for his allies.",
         "p-icon": "assets/champ/ornn/Ability/p.png",
-        "p-vid": "assets/champ/ornn/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0516/ability_0516_P1.webm"
     },
 
     {
         "q-name": "volcanic rupture",
         "q-desc": "Ornn slams the ground, sending out a fissure dealing damage and slowing enemies hit. After a small delay, a magma pillar forms at the end location.",
         "q-icon": "assets/champ/ornn/Ability/q.png",
-        "q-vid": "assets/champ/ornn/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0516/ability_0516_Q1.webm"
     },
 
     {
         "w-name": "bellows breath",
         "w-desc": "Ornn advances, breathing fire. Enemies hit by the final gout of flame become Brittle.",
         "w-icon": "assets/champ/ornn/Ability/w.png",
-        "w-vid": "assets/champ/ornn/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0516/ability_0516_W1.webm"
     },
 
     {
         "e-name": "searing charge",
         "e-desc": "Ornn charges, dealing damage to enemies he passes through. If Ornn collides with terrain while charging, the impact creates a shockwave around him which deals damage and knocks up enemies.",
         "e-icon": "assets/champ/ornn/Ability/e.png",
-        "e-vid": "assets/champ/ornn/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0516/ability_0516_E1.webm"
     },
 
     {
         "r-name": "call of the forge god",
         "r-desc": "Ornn summons a massive elemental at a location which travels toward him with increasing speed. Enemies run over by the elemental take damage, are slowed and are made Brittle. Ornn can recast the ability to charge into the elemental, redirecting it in the direction he hits it, causing the elemental to affect any enemies it runs over to be knocked up, dealing the same damage and re-applying Brittle.",
         "r-icon": "assets/champ/ornn/Ability/r.png",
-        "r-vid": "assets/champ/ornn/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0516/ability_0516_R1.webm"
     }
 ]

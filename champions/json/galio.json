@@ -37,34 +37,34 @@
         "p-name": "colossal smash",
         "p-desc": "Every few seconds, Galio's next basic attack deals bonus magic damage in an area.",
         "p-icon": "assets/champ/galio/Ability/p.png",
-        "p-vid": "assets/champ/galio/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0003/ability_0003_P1.webm"
     },
 
     {
         "q-name": "winds of war",
         "q-desc": "Galio fires two windblasts that converge into a large tornado that deals damage over time.",
         "q-icon": "assets/champ/galio/Ability/q.png",
-        "q-vid": "assets/champ/galio/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0003/ability_0003_Q1.webm"
     },
 
     {
         "w-name": "shield of durand",
         "w-desc": "Galio charges a defensive stance, moving slowly. Upon releasing the charge, Galio will taunt and damage nearby enemies.",
         "w-icon": "assets/champ/galio/Ability/w.png",
-        "w-vid": "assets/champ/galio/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0003/ability_0003_W1.webm"
     },
 
     {
         "e-name": "justice punch",
         "e-desc": "Galio will briefly step back and charge, knocking up the first enemy champion he encounters.",
         "e-icon": "assets/champ/galio/Ability/e.png",
-        "e-vid": "assets/champ/galio/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0003/ability_0003_E1.webm"
     },
 
     {
         "r-name": "hero's entrance",
         "r-desc": "Galio designates an ally's position as his landing spot, granting all allies in the area a magic shield. After a delay Galio smashes down location, knocking up nearby enemies.",
         "r-icon": "assets/champ/galio/Ability/r.png",
-        "r-vid": "assets/champ/galio/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0003/ability_0003_R1.webm"
     }
 ]

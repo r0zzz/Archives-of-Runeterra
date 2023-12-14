@@ -37,34 +37,34 @@
         "p-name": "rock surfing",
         "p-desc": "Taliyah gains Move Speed near walls.",
         "p-icon": "assets/champ/taliyah/Ability/p.png",
-        "p-vid": "assets/champ/taliyah/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0163/ability_0163_P1.webm"
     },
 
     {
         "q-name": "threaded volley",
         "q-desc": "Taliyah throws a volley of rocks in a target direction, moving freely as she casts. This creates Worked Ground below her. If Taliyah casts Threaded Volley on Worked Ground, she consumes the ground to throw a stronger boulder that slows enemies.",
         "q-icon": "assets/champ/taliyah/Ability/q.png",
-        "q-vid": "assets/champ/taliyah/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0163/ability_0163_Q1.webm"
     },
 
     {
         "w-name": "seismic shove",
         "w-desc": "Taliyah causes an area of ground to erupt and throws enemies within it in a direction of her choosing.",
         "w-icon": "assets/champ/taliyah/Ability/w.png",
-        "w-vid": "assets/champ/taliyah/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0163/ability_0163_W1.webm"
     },
 
     {
         "e-name": "unraveled earth",
         "e-desc": "Taliyah creates a slowing minefield. If enemies dash through it or are knocked through it, the mines explode and stun them.",
         "e-icon": "assets/champ/taliyah/Ability/e.png",
-        "e-vid": "assets/champ/taliyah/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0163/ability_0163_E1.webm"
     },
 
     {
         "r-name": "weaver's wall",
         "r-desc": "Taliyah creates a very long wall and then surfs it.",
         "r-icon": "assets/champ/taliyah/Ability/r.png",
-        "r-vid": "assets/champ/taliyah/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0163/ability_0163_R1.webm"
     }
 ]

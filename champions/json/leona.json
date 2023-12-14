@@ -37,34 +37,34 @@
         "p-name": "sunlight",
         "p-desc": "Damaging spells afflict enemies with Sunlight for 1.5 seconds. When allied Champions deal damage to those targets, they consume the Sunlight to deal additional magic damage.",
         "p-icon": "assets/champ/leona/Ability/p.png",
-        "p-vid": "assets/champ/leona/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0089/ability_0089_P1.webm"
     },
 
     {
         "q-name": "shield of daybreak",
         "q-desc": "Leona uses her shield to perform her next basic attack, dealing bonus magic damage and stunning the target.",
         "q-icon": "assets/champ/leona/Ability/q.png",
-        "q-vid": "assets/champ/leona/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0089/ability_0089_Q1.webm"
     },
 
     {
         "w-name": "eclipse",
         "w-desc": "Leona raises her shield to gain Damage Reduction, Armor, and Magic Resist. When the duration first ends, if there are nearby enemies, she will deal magic damage to them and prolong the duration of the effect.",
         "w-icon": "assets/champ/leona/Ability/w.png",
-        "w-vid": "assets/champ/leona/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0089/ability_0089_W1.webm"
     },
 
     {
         "e-name": "zenith blade",
         "e-desc": "Leona projects a solar image of her sword, dealing magic damage to all enemies in a line. When the image fades, the last enemy champion struck will be briefly immobilized and Leona will dash to them.",
         "e-icon": "assets/champ/leona/Ability/e.png",
-        "e-vid": "assets/champ/leona/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0089/ability_0089_E1.webm"
     },
 
     {
         "r-name": "solar flare",
         "r-desc": "Leona calls down a beam of solar energy, dealing damage to enemies in an area. Enemies in the center of the area are stunned, while enemies on the outside are slowed.",
         "r-icon": "assets/champ/leona/Ability/r.png",
-        "r-vid": "assets/champ/leona/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0089/ability_0089_R1.webm"
     }
 ]

@@ -38,34 +38,34 @@
         "p-name": "shurima's legacy",
         "p-desc": "Azir can summon the Disc of the Sun from the ruins of allied or enemy turrets.",
         "p-icon": "assets/champ/azir/Ability/p.png",
-        "p-vid": "assets/champ/azir/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_P1.webm"
     },
 
     {
         "q-name": "conquering sands",
         "q-desc": "Azir sends all Sand Soldiers towards a location. Sand Soldiers deal magic damage to enemies they pass through and apply a slow for 1 second.",
         "q-icon": "assets/champ/azir/Ability/q.png",
-        "q-vid": "assets/champ/azir/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_Q1.webm"
     },
 
     {
         "w-name": "arise!",
         "w-desc": "Azir summons a Sand Soldier to attack nearby targets for him, replacing his basic attack against targets within the soldier's range. Their attacks deal magic damage to enemies in a line. Arise! also passively grants attack speed to Azir and his Sand Soldiers.",
         "w-icon": "assets/champ/azir/Ability/w.png",
-        "w-vid": "assets/champ/azir/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_W1.webm"
     },
 
     {
         "e-name": "shifting sands",
         "e-desc": "Azir shields himself briefly and dashes to one of his Sand Soldiers, damaging enemies. If he hits an enemy champion, he instantly readies a new Sand Soldier for deployment and halts his dash.",
         "e-icon": "assets/champ/azir/Ability/e.png",
-        "e-vid": "assets/champ/azir/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_E1.webm"
     },
 
     {
         "r-name": "emperor's divide",
         "r-desc": "Azir summons a wall of soldiers which charge forward, knocking back and damaging enemies.",
         "r-icon": "assets/champ/azir/Ability/r.png",
-        "r-vid": "assets/champ/azir/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0268/ability_0268_R1.webm"
     }
 ]

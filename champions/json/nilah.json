@@ -37,34 +37,34 @@
         "p-name": "joy unending",
         "p-desc": "Nilah gains increased experience from last-hitting minions along with the ability to enhance and share nearby healing and shielding from her allies.",
         "p-icon": "assets/champ/nilah/Ability/p.png",
-        "p-vid": "assets/champ/nilah/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0895/ability_0895_P1.webm"
     },
 
     {
         "q-name": "formless blade",
         "q-desc": "With a snap of her whip-blade, Nilah damages any enemies she hits in a straight line in her chosen direction. This action extends her attack range for a short duration.",
         "q-icon": "assets/champ/nilah/Ability/q.png",
-        "q-vid": "assets/champ/nilah/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0895/ability_0895_Q1.webm"
     },
 
     {
         "w-name": "jubilant veil",
         "w-desc": "Nilah envelops herself in mist, increasing her movement speed and allowing her to gracefully dodge all incoming attacks. Any allies she touches during the mist's duration will also gain this effect.",
         "w-icon": "assets/champ/nilah/Ability/w.png",
-        "w-vid": "assets/champ/nilah/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0895/ability_0895_W1.webm"
     },
 
     {
         "e-name": "slipstream",
         "e-desc": "Nilah enthusiastically dashes toward her target, dealing damage to any enemies she passes through on the way.",
         "e-icon": "assets/champ/nilah/Ability/e.png",
-        "e-vid": "assets/champ/nilah/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0895/ability_0895_E1.webm"
     },
 
     {
         "r-name": "apotheosis",
         "r-desc": "Twirling her whip-blade in joyful exuberance, Nilah deals damage to enemies around her before pulling them closer with her weapon.",
         "r-icon": "assets/champ/nilah/Ability/r.png",
-        "r-vid": "assets/champ/nilah/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0895/ability_0895_R1.webm"
     }
 ]

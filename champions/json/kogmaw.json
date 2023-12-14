@@ -37,34 +37,34 @@
         "p-name": "icathian surprise",
         "p-desc": "4 seconds after dying, Kogmaw explodes, dealing true damage to surrounding enemies.",
         "p-icon": "assets/champ/kogmaw/Ability/p.png",
-        "p-vid": "assets/champ/kogmaw/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0096/ability_0096_P1.webm"
     },
 
     {
         "q-name": "caustic spittle",
         "q-desc": "Kog'Maw launches a corrosive projectile which deals magic damage and corrodes the target's armor and magic resist for a short time. Kog'Maw also gains additional attack speed.",
         "q-icon": "assets/champ/kogmaw/Ability/q.png",
-        "q-vid": "assets/champ/kogmaw/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0096/ability_0096_Q1.webm"
     },
 
     {
         "w-name": "bio-arcane barrage",
         "w-desc": "Kog'Maw's attacks gain range and deal a percent of the target's maximum health as magic damage.",
         "w-icon": "assets/champ/kogmaw/Ability/w.png",
-        "w-vid": "assets/champ/kogmaw/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0096/ability_0096_W1.webm"
     },
 
     {
         "e-name": "void ooze",
         "e-desc": "Kog'Maw launches a peculiar ooze which damages all enemies it passes through and leaves a trail which slows enemies who stand on it.",
         "e-icon": "assets/champ/kogmaw/Ability/e.png",
-        "e-vid": "assets/champ/kogmaw/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0096/ability_0096_E1.webm"
     },
 
     {
         "r-name": "living artillery",
         "r-desc": "Kog'Maw fires an artillery shell at a great distance dealing magic damage (increased significantly on low health enemies) and revealing non-stealthed targets. Additionally, multiple Living Artilleries in a short period of time cause them to cost additional Mana.",
         "r-icon": "assets/champ/kogmaw/Ability/r.png",
-        "r-vid": "assets/champ/kogmaw/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0096/ability_0096_R1.webm"
     }
 ]

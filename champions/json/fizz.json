@@ -37,34 +37,34 @@
         "p-name": "nimble fighter",
         "p-desc": "Fizz can move through units and takes a flat amount of reduced damage from all sources",
         "p-icon": "assets/champ/fizz/Ability/p.png",
-        "p-vid": "assets/champ/fizz/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_P1.webm"
     },
 
     {
         "q-name": "urchin strike",
         "q-desc": "Fizz dashes through his target, dealing magic damage and applying on hit effects.",
         "q-icon": "assets/champ/fizz/Ability/q.png",
-        "q-vid": "assets/champ/fizz/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_Q1.webm"
     },
 
     {
         "w-name": "seastone trident",
         "w-desc": "Fizz's attacks bleed his enemies, dealing magic damage over several seconds. Fizz can empower his next attack to deal bonus damage and empower his further attacks for a short time.",
         "w-icon": "assets/champ/fizz/Ability/w.png",
-        "w-vid": "assets/champ/fizz/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_W1.webm"
     },
 
     {
         "e-name": "playful / trickster",
         "e-desc": "Fizz hops into the air, landing gracefully upon his spear and becoming untargetable. From this position, Fizz can either slam the ground or choose to jump again before smashing back down.",
         "e-icon": "assets/champ/fizz/Ability/e.png",
-        "e-vid": "assets/champ/fizz/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_E1.webm"
     },
 
     {
         "r-name": "chum the waters",
         "r-desc": "Fizz tosses a fish in a direction that attaches to any champion that touches it, slowing the target. After a short delay, a shark erupts from the ground, knocking up the target and knocking any nearby enemies aside. All enemies hit are dealt magic damage and slowed.",
         "r-icon": "assets/champ/fizz/Ability/r.png",
-        "r-vid": "assets/champ/fizz/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0105/ability_0105_R1.webm"
     }
 ]

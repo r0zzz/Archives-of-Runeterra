@@ -37,34 +37,34 @@
         "p-name": "granite shield",
         "p-desc": "Malphite is shielded by a layer of rock which absorbs damage up to 10% of his maximum Health. If Malphite has not been hit for a few seconds, this effect recharges.",
         "p-icon": "assets/champ/malphite/Ability/p.png",
-        "p-vid": "assets/champ/malphite/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0054/ability_0054_P1.webm"
     },
 
     {
         "q-name": "seismic shard",
         "q-desc": "Malphite sends a shard of the earth through the ground at his foe, dealing damage upon impact and stealing Move Speed for 3 seconds.",
         "q-icon": "assets/champ/malphite/Ability/q.png",
-        "q-vid": "assets/champ/malphite/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0054/ability_0054_Q1.webm"
     },
 
     {
         "w-name": "thunderclap",
         "w-desc": "Malphite attacks with such force that it creates a sonic boom. For the next few seconds, his attacks create aftershocks in front of him.",
         "w-icon": "assets/champ/malphite/Ability/w.png",
-        "w-vid": "assets/champ/malphite/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0054/ability_0054_W1.webm"
     },
 
     {
         "e-name": "ground slam",
         "e-desc": "Malphite slams the ground, sending out a shockwave that deals magic damage based on his Armor and reduces the Attack Speed of enemies for a short duration.",
         "e-icon": "assets/champ/malphite/Ability/e.png",
-        "e-vid": "assets/champ/malphite/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0054/ability_0054_E1.webm"
     },
 
     {
         "r-name": "unstoppable force",
         "r-desc": "Malphite launches himself to a location at high speed, damaging enemies and knocking them into the air.",
         "r-icon": "assets/champ/malphite/Ability/r.png",
-        "r-vid": "assets/champ/malphite/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0054/ability_0054_R1.webm"
     }
 ]

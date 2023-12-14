@@ -37,34 +37,34 @@
         "p-name": "king's tribute",
         "p-desc": "When an enemy unit dies near Trundle, he heals for a percent of its maximum Health.",
         "p-icon": "assets/champ/trundle/Ability/p.png",
-        "p-vid": "assets/champ/trundle/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0048/ability_0048_P1.webm"
     },
 
     {
         "q-name": "chomp",
         "q-desc": "Trundle bites his opponent, dealing damage, briefly slowing and sapping some of their Attack Damage.",
         "q-icon": "assets/champ/trundle/Ability/q.png",
-        "q-vid": "assets/champ/trundle/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0048/ability_0048_Q1.webm"
     },
 
     {
         "w-name": "frozen domain",
         "w-desc": "Trundle turns target location into his domain, gaining Attack Speed, Move Speed, and increased healing from all sources while on it.",
         "w-icon": "assets/champ/trundle/Ability/w.png",
-        "w-vid": "assets/champ/trundle/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0048/ability_0048_W1.webm"
     },
 
     {
         "e-name": "pillar of ice",
         "e-desc": "Trundle creates an ice pillar at target location, becoming impassable terrain and slowing all nearby enemy units.",
         "e-icon": "assets/champ/trundle/Ability/e.png",
-        "e-vid": "assets/champ/trundle/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0048/ability_0048_E1.webm"
     },
 
     {
         "r-name": "subjugate",
         "r-desc": "Trundle immediately steals a percent of his target's Health, Armor and Magic Resistance. Over the next 4 seconds the amount of Health, Armor, and Magic Resistance stolen is doubled.",
         "r-icon": "assets/champ/trundle/Ability/r.png",
-        "r-vid": "assets/champ/trundle/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0048/ability_0048_R1.webm"
     }
 ]

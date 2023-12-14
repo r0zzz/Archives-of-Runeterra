@@ -37,34 +37,34 @@
         "p-name": "fury of the north",
         "p-desc": "After being out of combat, Sejuani gains Frost Armor which grants Armor and Magic Resist and immunity to slows. Frost Armor persists for a short time after Sejuani takes damage. Sejuani can damage a stunned enemy to shatter it, dealing massive magic damage.",
         "p-icon": "assets/champ/sejuani/Ability/p.png",
-        "p-vid": "assets/champ/sejuani/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0113/ability_0113_P1.webm"
     },
 
     {
         "q-name": "arctic assault",
         "q-desc": "Sejuani charges forward, knocking enemies into the air. The charge stops after hitting an enemy champion.",
         "q-icon": "assets/champ/sejuani/Ability/q.png",
-        "q-vid": "assets/champ/sejuani/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0113/ability_0113_Q1.webm"
     },
 
     {
         "w-name": "winter's wrath",
         "w-desc": "Sejuani swings her mace twice, dealing damage, slowing enemies and applying Frost stacks.",
         "w-icon": "assets/champ/sejuani/Ability/w.png",
-        "w-vid": "assets/champ/sejuani/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0113/ability_0113_W1.webm"
     },
 
     {
         "e-name": "permafrost",
         "e-desc": "Sejuani freezes and stuns an enemy champion that has maximum Frost stacks.",
         "e-icon": "assets/champ/sejuani/Ability/e.png",
-        "e-vid": "assets/champ/sejuani/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0113/ability_0113_E1.webm"
     },
 
     {
         "r-name": "glacial prison",
         "r-desc": "Sejuani throws her bola that freezes and stuns the first champion hit and creates an ice storm that slows other enemies.",
         "r-icon": "assets/champ/sejuani/Ability/r.png",
-        "r-vid": "assets/champ/sejuani/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0113/ability_0113_R1.webm"
     }
 ]

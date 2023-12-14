@@ -37,34 +37,34 @@
         "p-name": "duelist's dance",
         "p-desc": "Fiora has revealed a Vital on this Champion. If she hits the Vital, she restores Health and gains Move Speed.",
         "p-icon": "assets/champ/fiora/Ability/p.png",
-        "p-vid": "assets/champ/fiora/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0114/ability_0114_P1.webm"
     },
 
     {
         "q-name": "lunge",
         "q-desc": "Fiora lunges in a direction and stabs a nearby enemy, dealing physical damage and applying on-hit effects.",
         "q-icon": "assets/champ/fiora/Ability/q.png",
-        "q-vid": "assets/champ/fiora/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0114/ability_0114_Q1.webm"
     },
 
     {
         "w-name": "riposte",
         "w-desc": "Fiora parries all incoming damage and disables for a short time, then stabs in a direction. This stab slows the first enemy champion hit, or stuns them if Fiora blocked an immobilizing effect with this ability.",
         "w-icon": "assets/champ/fiora/Ability/w.png",
-        "w-vid": "assets/champ/fiora/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0114/ability_0114_W1.webm"
     },
 
     {
         "e-name": "bladework",
         "e-desc": "Fiora has increased attack speed for the next two attacks. The first attack slows the target, and the second attack will critically strike.",
         "e-icon": "assets/champ/fiora/Ability/e.png",
-        "e-vid": "assets/champ/fiora/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0114/ability_0114_E1.webm"
     },
 
     {
         "r-name": "grand challenge",
         "r-desc": "Fiora reveals all four Vitals on an enemy champion and gains Move Speed while near them. If Fiora hits all four Vitals or if the target dies after she has hit at least one, Fiora and her allies in the area are healed over the next few seconds.",
         "r-icon": "assets/champ/fiora/Ability/r.png",
-        "r-vid": "assets/champ/fiora/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0114/ability_0114_R1.webm"
     }
 ]

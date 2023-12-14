@@ -37,34 +37,34 @@
         "p-name": "inherent glamour",
         "p-desc": "Neeko can look like an ally champion. Taking damage from enemy Champions or casting damaging spells breaks the disguise.",
         "p-icon": "assets/champ/neeko/Ability/p.png",
-        "p-vid": "assets/champ/neeko/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0518/ability_0518_P1.webm"
     },
 
     {
         "q-name": "blooming burst",
         "q-desc": "Neeko throws a seed dealing magic damage. The seed blooms again on hitting champions or killing units.",
         "q-icon": "assets/champ/neeko/Ability/q.png",
-        "q-vid": "assets/champ/neeko/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0518/ability_0518_Q1.webm"
     },
 
     {
         "w-name": "shapesplitter",
         "w-desc": "Neeko passively deals bonus magic damage every third attack. Neeko can activate to send a clone in a direction.",
         "w-icon": "assets/champ/neeko/Ability/w.png",
-        "w-vid": "assets/champ/neeko/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0518/ability_0518_W1.webm"
     },
 
     {
         "e-name": "tangle-barbs",
         "e-desc": "Neeko slings a tangle that damage and root everything it passes through. If the tangle kills an enemy or passes through a champion, it becomes larger, faster, and roots for longer.",
         "e-icon": "assets/champ/neeko/Ability/e.png",
-        "e-vid": "assets/champ/neeko/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0518/ability_0518_E1.webm"
     },
 
     {
         "r-name": "pop blossom",
         "r-desc": "After a short preparation, Neeko leaps into the air. Upon landing, nearby enemies are damaged and knocked up. The preparation is hidden if Neeko is disguised.",
         "r-icon": "assets/champ/neeko/Ability/r.png",
-        "r-vid": "assets/champ/neeko/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0518/ability_0518_R1.webm"
     }
 ]

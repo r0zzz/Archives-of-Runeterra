@@ -37,34 +37,34 @@
         "p-name": "clockwork windup",
         "p-desc": "Orianna's Attacks deal additional magic damage. This damage increases the more Orianna Attacks the same target.",
         "p-icon": "assets/champ/orianna/Ability/p.png",
-        "p-vid": "assets/champ/orianna/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0061/ability_0061_P1.webm"
     },
 
     {
         "q-name": "command: attack",
         "q-desc": "Orianna commands her Ball to fire toward a target location, dealing magic damage to targets along the way (deals less damage to subsequent targets). Her Ball remains at the target location after.",
         "q-icon": "assets/champ/orianna/Ability/q.png",
-        "q-vid": "assets/champ/orianna/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0061/ability_0061_Q1.webm"
     },
 
     {
         "w-name": "command: dissonance",
         "w-desc": "Orianna commands her Ball to release a pulse of energy, dealing magic damage around it. This leaves a field behind that speeds up allies and slows enemies.",
         "w-icon": "assets/champ/orianna/Ability/w.png",
-        "w-vid": "assets/champ/orianna/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0061/ability_0061_W1.webm"
     },
 
     {
         "e-name": "command: protect",
         "e-desc": "Orianna commands her Ball to attach to an allied champion, Shielding them and dealing magic damage to any enemies it passes through on the way. Additionally, the Ball grants additional Armor and Magic Resist to the champion it is attached to.",
         "e-icon": "assets/champ/orianna/Ability/e.png",
-        "e-vid": "assets/champ/orianna/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0061/ability_0061_E1.webm"
     },
 
     {
         "r-name": "command: shockwave",
         "r-desc": "Orianna commands her Ball to unleash a shockwave, dealing magic damage and launching nearby enemies towards the Ball after a short delay.",
         "r-icon": "assets/champ/orianna/Ability/r.png",
-        "r-vid": "assets/champ/orianna/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0061/ability_0061_R1.webm"
     }
 ]

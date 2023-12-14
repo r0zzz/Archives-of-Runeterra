@@ -37,34 +37,34 @@
         "p-name": "runic blade",
         "p-desc": "Riven's abilities charge her blade, and her basic attacks expend charges to deal an additional damage.",
         "p-icon": "assets/champ/riven/Ability/p.png",
-        "p-vid": "assets/champ/riven/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0092/ability_0092_P1.webm"
     },
 
     {
         "q-name": "broken wings",
         "q-desc": "Riven lashes out in a series of strikes. This ability can be reactivated three times in a short time frame with the third hit knocking back nearby enemies.",
         "q-icon": "assets/champ/riven/Ability/q.png",
-        "q-vid": "assets/champ/riven/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0092/ability_0092_Q1.webm"
     },
 
     {
         "w-name": "ki burst",
         "w-desc": "Riven emits a Ki Burst, damaging and stunning nearby enemies.",
         "w-icon": "assets/champ/riven/Ability/w.png",
-        "w-vid": "assets/champ/riven/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0092/ability_0092_W1.webm"
     },
 
     {
         "e-name": "valor",
         "e-desc": "Riven steps forward a short distance and blocks incoming damage.",
         "e-icon": "assets/champ/riven/Ability/e.png",
-        "e-vid": "assets/champ/riven/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0092/ability_0092_E1.webm"
     },
 
     {
         "r-name": "blade of the exile",
         "r-desc": "Riven empowers her keepsake weapon with energy, and gains Attack Damage and Range. During this time, she also gains the ability to use Wind Slash, a powerful ranged attack, once.",
         "r-icon": "assets/champ/riven/Ability/r.png",
-        "r-vid": "assets/champ/riven/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0092/ability_0092_R1.webm"
     }
 ]

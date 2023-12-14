@@ -37,34 +37,34 @@
         "p-name": "bravado",
         "p-desc": "Spellcasts empower Taric's next 2 basic attacks to deal bonus magic damage, reduce his spell cooldowns, and attack in quick succession.",
         "p-icon": "assets/champ/taric/Ability/p.png",
-        "p-vid": "assets/champ/taric/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0044/ability_0044_P1.webm"
     },
 
     {
         "q-name": "starlight's touch",
         "q-desc": "Heals nearby allied champions based on charges stored. Bravado-empowered attacks grant a charge of Starlight's Touch.",
         "q-icon": "assets/champ/taric/Ability/q.png",
-        "q-vid": "assets/champ/taric/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0044/ability_0044_Q1.webm"
     },
 
     {
         "w-name": "bastion",
         "w-desc": "Passively increase the Armor of Taric and any allied champion with Bastion. Actively shields an ally and grants them Bastion for as long as they remain near Taric. Taric's spells also cast off the ally with Bastion.",
         "w-icon": "assets/champ/taric/Ability/w.png",
-        "w-vid": "assets/champ/taric/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0044/ability_0044_W1.webm"
     },
 
     {
         "e-name": "dazzle",
         "e-desc": "Taric readies a beam of starlight that, after a brief delay, deals magic damage and stuns enemies.",
         "e-icon": "assets/champ/taric/Ability/e.png",
-        "e-vid": "assets/champ/taric/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0044/ability_0044_E1.webm"
     },
 
     {
         "r-name": "cosmic radiance",
         "r-desc": "Pulses cosmic energy onto nearby allied champions after a delay, making them invulnerable for a short duration.",
         "r-icon": "assets/champ/taric/Ability/r.png",
-        "r-vid": "assets/champ/taric/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0044/ability_0044_R1.webm"
     }
 ]

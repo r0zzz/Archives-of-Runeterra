@@ -37,34 +37,34 @@
         "p-name": "goes where he pleases",
         "p-desc": "Dr. Mundo resists the first Immobilizing effect that hits him, instead losing Health and dropping a chemical cannister nearby. Dr. Mundo can pick it up by walking over it, restoring Health and reducing this Ability's Cooldown. Dr. Mundo also has significantly increased Health regeneration.",
         "p-icon": "assets/champ/drmundo/Ability/p.png",
-        "p-vid": "assets/champ/darius/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0036/ability_0036_P1.webm"
     },
 
     {
         "q-name": "infected bonesaw",
         "q-desc": "Dr. Mundo throws an infected bonesaw, dealing damage to the first enemy hit based on their current health and slowing them.",
         "q-icon": "assets/champdrmundodarius/Ability/q.png",
-        "q-vid": "assets/champ/drmundo/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0036/ability_0036_Q1.webm"
     },
 
     {
         "w-name": "heart zapper",
         "w-desc": "Dr. Mundo electrocutes himself, dealing persistent damage to nearby enemies and storing a portion of damage he takes. At the end of the duration or on Recast, Dr. Mundo deals a burst of damage to nearby enemies. If the burst hit an enemy, he heals a percentage of the stored damage.",
         "w-icon": "assets/champ/drmundo/Ability/w.png",
-        "w-vid": "assets/champ/drmundo/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0036/ability_0036_W1.webm"
     },
 
     {
         "e-name": "blunt force trauma",
         "e-desc": "Passive - Dr. Mundo gains bonus Attack Damage, increasing based on his max Health. Active - Dr. Mundo slams his “medical” bag into an enemy, dealing additional damage based on his missing Health. If the enemy dies they are swatted away, dealing damage to enemies they pass through.",
         "e-icon": "assets/champ/drmundo/Ability/e.png",
-        "e-vid": "assets/champ/drmundo/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0036/ability_0036_E1.webm"
     },
 
     {
         "r-name": "maximum dosage",
         "r-desc": "Dr. Mundo pumps himself with chemicals, instantly healing a percent of his missing Health. He then gains Move Speed and regenerates a portion of his maximum Health over a long duration.",
         "r-icon": "assets/champ/drmundo/Ability/r.png",
-        "r-vid": "assets/champ/drmundo/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0036/ability_0036_R1.webm"
     }
 ]

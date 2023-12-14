@@ -37,34 +37,34 @@
         "p-name": "martial poise",
         "p-desc": "Enter a movement command while winding up Kalista's basic attack or Pierce to lunge a short distance when she launches her attack.",
         "p-icon": "assets/champ/kalista/Ability/p.png",
-        "p-vid": "assets/champ/kalista/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0429/ability_0429_P1.webm"
     },
 
     {
         "q-name": "pierce",
         "q-desc": "Throw a fast moving spear that passes through enemies it kills.",
         "q-icon": "assets/champ/kalista/Ability/q.png",
-        "q-vid": "assets/champ/kalista/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0429/ability_0429_Q1.webm"
     },
 
     {
         "w-name": "sentinel",
         "w-desc": "Gain bonus damage when Kalista and her Oathsworn strike the same target. Activate to send a soul to scout out the path, revealing the area in front of it.",
         "w-icon": "assets/champ/kalista/Ability/w.png",
-        "w-vid": "assets/champ/kalista/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0429/ability_0429_W1.webm"
     },
 
     {
         "e-name": "rend",
         "e-desc": "Attacks impale their targets with spears. Activate to rip the spears out, slowing and dealing escalating damage.",
         "e-icon": "assets/champ/kalista/Ability/e.png",
-        "e-vid": "assets/champ/kalista/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0429/ability_0429_E1.webm"
     },
 
     {
         "r-name": "fate's call",
         "r-desc": "Kalista teleports the Oathsworn ally to herself. They gain the ability to dash toward a position, knocking enemy champions back.",
         "r-icon": "assets/champ/kalista/Ability/r.png",
-        "r-vid": "assets/champ/kalista/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0429/ability_0429_R1.webm"
     }
 ]

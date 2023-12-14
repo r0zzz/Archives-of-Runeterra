@@ -1,4 +1,4 @@
-[
+    [
     {
         "bg": "assets/bgprofile/twistedfate.png",
         "splash": "assets/champ/TwistedFate_0.jpg",
@@ -37,34 +37,34 @@
         "p-name": "loaded dice",
         "p-desc": "Upon killing a unit, Twisted Fate rolls his 'lucky' dice receiving 1 to 6 bonus gold.",
         "p-icon": "assets/champ/twistedfate/Ability/p.png",
-        "p-vid": "assets/champ/twistedfate/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0004/ability_0004_P1.webm"
     },
 
     {
         "q-name": "wild cards",
         "q-desc": "Twisted Fate throws three cards, dealing damage to each enemy unit they pass through.",
         "q-icon": "assets/champ/twistedfate/Ability/q.png",
-        "q-vid": "assets/champ/twistedfate/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0004/ability_0004_Q1.webm"
     },
 
     {
         "w-name": "pick a card",
         "w-desc": "Twisted Fate chooses a magic card from his deck, and uses that for his next attack, causing bonus effects.",
         "w-icon": "assets/champ/twistedfate/Ability/w.png",
-        "w-vid": "assets/champ/twistedfate/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0004/ability_0004_W1.webm"
     },
 
     {
         "e-name": "stacked deck",
         "e-desc": "Every 4 attacks, Twisted Fate deals bonus damage. In addition, his Attack Speed is increased.",
         "e-icon": "assets/champ/twistedfate/Ability/e.png",
-        "e-vid": "assets/champ/twistedfate/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0004/ability_0004_E1.webm"
     },
 
     {
         "r-name": "destiny",
         "r-desc": "Twisted Fate predicts the fortunes of his foes, revealing all enemy champions and enabling the use of Gate, which teleports Twisted Fate to any target location in 1.5 seconds.",
         "r-icon": "assets/champ/twistedfate/Ability/r.png",
-        "r-vid": "assets/champ/twistedfate/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0004/ability_0004_R1.webm"
     }
 ]

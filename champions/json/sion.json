@@ -37,34 +37,34 @@
         "p-name": "glory in death",
         "p-desc": "After being killed, Sion will temporarily reanimate with rapidly decaying Health. His attacks become very rapid, heal him, and deal bonus damage based on his target's maximum Health.",
         "p-icon": "assets/champ/sion/Ability/p.png",
-        "p-vid": "assets/champ/sion/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0014/ability_0014_P1.webm"
     },
 
     {
         "q-name": "decimating smash",
         "q-desc": "Sion charges a powerful swing in an area in front of himself that will deal damage to enemies when released. If he charges for enough time, enemies hit by the swing will also be knocked up and stunned.",
         "q-icon": "assets/champ/sion/Ability/q.png",
-        "q-vid": "assets/champ/sion/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0014/ability_0014_Q1.webm"
     },
 
     {
         "w-name": "soul furnace",
         "w-desc": "Sion shields himself and can reactivate after 3 seconds to deal Magic Damage to enemies nearby. When Sion kills enemies, he passively gains maximum Health.",
         "w-icon": "assets/champ/sion/Ability/w.png",
-        "w-vid": "assets/champ/sion/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0014/ability_0014_W1.webm"
     },
 
     {
         "e-name": "roar of the slayer",
         "e-desc": "Sion fires a short range shockwave that damages and slows and reduces the Armor of the first enemy hit. If the shockwave hits a minion or monster, it will be knocked back, damaging, slowing, and reducing the Armor of all enemies that it passes through.",
         "e-icon": "assets/champ/sion/Ability/e.png",
-        "e-vid": "assets/champ/sion/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0014/ability_0014_E1.webm"
     },
 
     {
         "r-name": "unstoppable onslaught",
         "r-desc": "Sion charges in a direction, ramping up speed over time. He can steer his charge slightly with the mouse cursor location. When he collides with an enemy he deals damage and knocks them up based on the distance he has charged.",
         "r-icon": "assets/champ/sion/Ability/r.png",
-        "r-vid": "assets/champ/sion/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0014/ability_0014_R1.webm"
     }
 ]

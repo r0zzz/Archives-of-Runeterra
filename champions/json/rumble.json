@@ -37,34 +37,34 @@
         "p-name": "junkyard titan",
         "p-desc": "Every spell Rumble casts gives him Heat. When he reaches 50% Heat he reaches Danger Zone, granting all his basic abilities bonus effects. When he reaches 100% Heat, he starts Overheating, gaining bonus Attack Speed and granting his basic attacks bonus damage, but making him unable to cast spells for a few seconds.",
         "p-icon": "assets/champ/rumble/Ability/p.png",
-        "p-vid": "assets/champ/rumble/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0068/ability_0068_P1.webm"
     },
 
     {
         "q-name": "flamespitter",
         "q-desc": "Rumble torches opponents in front of him, dealing magic damage in a cone for 3 seconds. While in Danger Zone this damage is increased.",
         "q-icon": "assets/champ/rumble/Ability/q.png",
-        "q-vid": "assets/champ/rumble/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0068/ability_0068_Q1.webm"
     },
 
     {
         "w-name": "scrap shield",
         "w-desc": "Rumble pulls up a shield, protecting him from damage and granting him a quick burst of speed. While in Danger Zone, the shield strength and speed bonus is increased.",
         "w-icon": "assets/champ/rumble/Ability/w.png",
-        "w-vid": "assets/champ/rumble/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0068/ability_0068_W1.webm"
     },
 
     {
         "e-name": "electro harpoon",
         "e-desc": "Rumble launches a harpoon, electrocuting his target with magic damage, slowing their Move Speed, and reducing their Magic Resist. Rumble can carry 2 harpoons at a time. While in Danger Zone the damage and slow percentage is increased.",
         "e-icon": "assets/champ/rumble/Ability/e.png",
-        "e-vid": "assets/champ/rumble/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0068/ability_0068_E1.webm"
     },
 
     {
         "r-name": "the equalizer",
         "r-desc": "Rumble fires off a group of rockets, creating a wall of flames that damages and slows enemies.",
         "r-icon": "assets/champ/rumble/Ability/r.png",
-        "r-vid": "assets/champ/rumble/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0068/ability_0068_R1.webm"
     }
 ]

@@ -37,34 +37,34 @@
         "p-name": "echoing flames",
         "p-desc": "Urgot's basic attacks and Purge periodically trigger blasts of flame from his legs, dealing physical damage.",
         "p-icon": "assets/champ/urgot/Ability/p.png",
-        "p-vid": "assets/champ/urgot/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0006/ability_0006_P1.webm"
     },
 
     {
         "q-name": "corrosive charge",
         "q-desc": "Fires an explosive charge at the target location, dealing physical damage and slowing enemies caught in the explosion.",
         "q-icon": "assets/champ/urgot/Ability/q.png",
-        "q-vid": "assets/champ/urgot/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0006/ability_0006_Q1.webm"
     },
 
     {
         "w-name": "purge",
         "w-desc": "Urgot slows himself while he unloads his weapon on nearby enemies. Prioritizes enemy champions Urgot has recently struck with other abilities and triggers Echoing Flames.",
         "w-icon": "assets/champ/urgot/Ability/w.png",
-        "w-vid": "assets/champ/urgot/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0006/ability_0006_W1.webm"
     },
 
     {
         "e-name": "disdain",
         "e-desc": "Urgot charges in a direction, shielding himself and trampling non-champion enemies. If he catches an enemy champion, he will stop and hurl them out of his way.",
         "e-icon": "assets/champ/urgot/Ability/e.png",
-        "e-vid": "assets/champ/urgot/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0006/ability_0006_E1.webm"
     },
 
     {
         "r-name": "fear beyond death",
         "r-desc": "Urgot fires a chem-drill that impales the first enemy champion hit. If that champion falls below a health threshold, Urgot judges them weak and can execute them.",
         "r-icon": "assets/champ/urgot/Ability/r.png",
-        "r-vid": "assets/champ/urgot/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0006/ability_0006_R1.webm"
     }
 ]

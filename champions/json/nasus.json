@@ -37,34 +37,34 @@
         "p-name": "soul eater",
         "p-desc": "Nasus drains his foe's spiritual energy, giving him bonus Life Steal.",
         "p-icon": "assets/champ/nasus/Ability/p.png",
-        "p-vid": "assets/champ/nasus/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0075/ability_0075_P1.webm"
     },
 
     {
         "q-name": "siphoning strike",
         "q-desc": "Nasus strikes his foe, dealing damage and increasing the power of his future Siphoning Strikes if he slays his target.",
         "q-icon": "assets/champ/nasus/Ability/q.png",
-        "q-vid": "assets/champ/nasus/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0075/ability_0075_Q1.webm"
     },
 
     {
         "w-name": "wither",
         "w-desc": "Nasus ages an enemy champion, decelerating their Move Speed and Attack Speed over time.",
         "w-icon": "assets/champ/nasus/Ability/w.png",
-        "w-vid": "assets/champ/nasus/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0075/ability_0075_W1.webm"
     },
 
     {
         "e-name": "spirit fire",
         "e-desc": "Nasus unleashes a spirit flame at a location, dealing damage and reducing the Armor of enemies who stand on it.",
         "e-icon": "assets/champ/nasus/Ability/e.png",
-        "e-vid": "assets/champ/nasus/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0075/ability_0075_E1.webm"
     },
 
     {
         "r-name": "fury of the sands",
         "r-desc": "Nasus unleashes a mighty sandstorm that batters nearby enemies. While the storm rages, he gains increased Health, Attack Range, damages nearby enemies, has a reduced cooldown on Siphoning Strike, and gains bonus Armor and Magic Resistance.",
         "r-icon": "assets/champ/nasus/Ability/r.png",
-        "r-vid": "assets/champ/nasus/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0075/ability_0075_R1.webm"
     }
 ]

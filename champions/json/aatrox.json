@@ -36,34 +36,34 @@
         "p-name": "deathbringer stance",
         "p-desc": "Periodically, Aatrox's next basic attack deals bonus physical damage and heals him, based on the target's max health.",
         "p-icon": "assets/champ/aatrox/Ability/p.png",
-        "p-vid": "assets/champ/aatrox/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_P1.webm"
     },
 
     {
         "q-name": "the darkin blade",
         "q-desc": "Aatrox slams his greatsword down, dealing physical damage. He can swing three times, each with a different area of effect.",
         "q-icon": "assets/champ/aatrox/Ability/q.png",
-        "q-vid": "assets/champ/aatrox/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_Q1.webm"
     },
 
     {
         "w-name": "infernal blades",
         "w-desc": "Aatrox smashes the ground, dealing damage to the first enemy hit. Champions and large monsters have to leave the impact area quickly or they will be dragged to the center and take the damage again.",
         "w-icon": "assets/champ/aatrox/Ability/w.png",
-        "w-vid": "assets/champ/aatrox/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_W1.webm"
     },
 
     {
         "e-name": "umbral dash",
         "e-desc": "Passively, Aatrox heals when damaging enemy champions. On activation, he dashes in a direction.",
         "e-icon": "assets/champ/aatrox/Ability/e.png",
-        "e-vid": "assets/champ/aatrox/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_E1.webm"
     },
 
     {
         "r-name": "world ender",
         "r-desc": "Aatrox unleashes his demonic form, fearing nearby enemy minions and gaining attack damage, increased healing, and Move Speed. If he gets a takedown, this effect is extended.",
         "r-icon": "assets/champ/aatrox/Ability/r.png",
-        "r-vid": "assets/champ/aatrox/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_R1.webm"
     }
 ]

@@ -37,34 +37,34 @@
         "p-name": "relentless assault",
         "p-desc": "Jax's consecutive basic attacks continuously increase his Attack Speed.",
         "p-icon": "assets/champ/jax/Ability/p.png",
-        "p-vid": "assets/champ/jax/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0024/ability_0024_P1.webm"
     },
 
     {
         "q-name": "leap strike",
         "q-desc": "Jax leaps toward a unit. If they are an enemy, he strikes them with his weapon.",
         "q-icon": "assets/champ/jax/Ability/q.png",
-        "q-vid": "assets/champ/jax/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0024/ability_0024_Q1.webm"
     },
 
     {
         "w-name": "empower",
         "w-desc": "Jax charges his weapon with energy, causing his next attack to deal additional damage.",
         "w-icon": "assets/champ/jax/Ability/w.png",
-        "w-vid": "assets/champ/jax/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0024/ability_0024_W1.webm"
     },
 
     {
         "e-name": "counter strike",
         "e-desc": "Jax's combat prowess allows him to dodge all incoming attacks for a short duration and then quickly counterattack, stunning all surrounding enemies.",
         "e-icon": "assets/champ/jax/Ability/e.png",
-        "e-vid": "assets/champ/jax/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0024/ability_0024_E1.webm"
     },
 
     {
         "r-name": "grandmaster-at-arms",
         "r-desc": "Every third consecutive attack deals additional Magic Damage. Additionally, Jax can activate this ability to deal damage around himself and strengthen his resolve, increasing his Armor and Magic Resist for a short duration.",
         "r-icon": "assets/champ/jax/Ability/r.png",
-        "r-vid": "assets/champ/jax/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0024/ability_0024_R1.webm"
     }
 ]

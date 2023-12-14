@@ -37,34 +37,34 @@
         "p-name": "cosmic creator",
         "p-desc": "Aurelion Sol's damaging Abilities break down enemies into stacks of Stardust, which permanently improves each of his abilities.",
         "p-icon": "assets/champ/aurelionsol/Ability/p.png",
-        "p-vid": "assets/champ/aurelionsol/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_P1.webm"
     },
 
     {
         "q-name": "breath of light",
         "q-desc": "Aurelion Sol channels his dragon breath for a few seconds, damaging the first enemy hit and splashing reduced damage onto nearby enemies. Each second the breath is channeled directly at an enemy will deal bonus damage, which is improved by the amount of Stardust that's been collected. This ability collects Stardust if the target is a champion.",
         "q-icon": "assets/champ/aurelionsol/Ability/q.png",
-        "q-vid": "assets/champ/aurelionsol/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_Q1.webm"
     },
 
     {
         "w-name": "astral flight",
         "w-desc": "Aurelion Sol flies over terrain in a targeted direction. While in this state, he can cast other abilities. Breath of Light no longer has a cooldown or maximum channel duration and deals increased damage while flying.\n\nAstral Flight's remaining cooldown is reduced whenever an enemy champion dies after being recently damaged by Aurelion Sol.\n\nStardust increases Astral Flight's maximum range.",
         "w-icon": "assets/champ/aurelionsol/Ability/w.png",
-        "w-vid": "assets/champ/aurelionsol/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_W1.webm"
     },
 
     {
         "e-name": "singularity",
         "e-desc": "Aurelion Sol summons a black hole, damaging enemies and slowly pulling them toward its center. This ability grants Stardust each time an enemy dies within the black hole and for each second an enemy champion is caught inside it. The center of the black hole executes enemies who are below a certain percentage of their maximum health. Stardust increases Singularity's area as well as the execution threshold.",
         "e-icon": "assets/champ/aurelionsol/Ability/e.png",
-        "e-vid": "assets/champ/aurelionsol/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_E1.webm"
     },
 
     {
         "r-name": "falling star/the skies descend",
         "r-desc": "Falling Star: Aurelion Sol crashes a star into the earth. This impact deals magic damage and stuns enemies while also granting Stardust for each enemy champion it hits. Gathering enough Stardust transforms Aurelion Sol's next Falling Star into The Skies Descend. The Skies Descend: Aurelion Sol drags a giant star down from the heavens with an increased impact zone and increased damage, knocking up enemies rather than stunning them. A shockwave then spreads from the edge of the impact zone, which damages and slows the enemies it hits. Stardust increases the impact area of both Falling Star and The Skies Descend.",
         "r-icon": "assets/champ/aurelionsol/Ability/r.png",
-        "r-vid": "assets/champ/aurelionsol/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0136/ability_0136_R1.webm"
     }
 ]

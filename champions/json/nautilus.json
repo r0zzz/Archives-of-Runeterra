@@ -37,34 +37,34 @@
         "p-name": "staggering blow",
         "p-desc": "Nautilus' first Attack against a target deals increased physical damage and roots them briefly.",
         "p-icon": "assets/champ/nautilus/Ability/p.png",
-        "p-vid": "assets/champ/nautilus/Ability/p.webm"
+        "p-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0111/ability_0111_P1.webm"
     },
 
     {
         "q-name": "dredge line",
         "q-desc": "Nautilus hurls his anchor forward. Colliding with an enemy pulls them and Nautilus together, dealing magic damage. Colliding with terrain pulls Nautilus towards it.",
         "q-icon": "assets/champ/nautilus/Ability/q.png",
-        "q-vid": "assets/champ/nautilus/Ability/q.webm"
+        "q-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0111/ability_0111_Q1.webm"
     },
 
     {
         "w-name": "titan's wrath",
         "w-desc": "Nautilus gains a temporary Shield. While it persists, his Attacks deal damage over time to his target and surrounding enemies.",
         "w-icon": "assets/champ/nautilus/Ability/w.png",
-        "w-vid": "assets/champ/nautilus/Ability/w.webm"
+        "w-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0111/ability_0111_W1.webm"
     },
 
     {
         "e-name": "riptide",
         "e-desc": "Nautilus creates three exploding waves around himself. Each explosion damages and slows enemies.",
         "e-icon": "assets/champ/nautilus/Ability/e.png",
-        "e-vid": "assets/champ/nautilus/Ability/e.webm"
+        "e-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0111/ability_0111_E1.webm"
     },
 
     {
         "r-name": "depth charge",
         "r-desc": "Nautilus fires a shockwave into the earth that chases an opponent. This shockwave rips up the earth above it, knocking enemies into the air. When it reaches the opponent, the shockwave erupts, knocking his target into the air and stunning them.",
         "r-icon": "assets/champ/nautilus/Ability/r.png",
-        "r-vid": "assets/champ/nautilus/Ability/r.webm"
+        "r-vid": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0111/ability_0111_R1.webm"
     }
 ]
